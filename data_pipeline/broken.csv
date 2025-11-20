@@ -1,0 +1,1823 @@
+raw_id,full_name,city,segment,income,age,email,event_date,updated_at,notes
+1,Anna Smirnova,Kazan,VIP,132.62,40.0,anna.smirnova@example.com,2024-09-11,2024-02-01 00:00:00,
+1,Anna Smirnova,Yekaterinburg,retail,142.47,40.0,anna.smirnova@example.com,2024-09-18,2024-02-02 00:00:00,
+2,Pavel Ivanov,Ufa,retail,205.83,58.0,pavel.ivanov@example.com,2024-07-18,2024-10-27 00:00:00,priority client
+2,Pavel Ivanov,Saint-Petersburg,VIP,223.45,,pavel.ivanov@example.com,2024-06-10,2024-10-28 00:00:00,priority client
+2,Pavel Ivanov,saint-petersburg,Vip,217.91,58.0,Pavel.Ivanov@Example.Com,2024-09-12,2024-10-29 00:00:00,Priority Client
+3,Sergey Popov,Moscow,retail,275.75,,sergey.popov@example.com,2024-07-18,2024-01-16 00:00:00,priority client
+4,,Krasnoyarsk,retail,134.54,26.0,olga.sokolova@example.com,2024-10-17,2024-06-20 00:00:00,
+5,Maksim Novikov,Yekaterinburg,VIP,326.82,27.0,maksim.novikov@example.com,2024-08-17,2024-10-30 00:00:00,
+5,Maksim Novikov,Yekaterinburg,VIP,347.23,0,maksim.novikov@example.com,2024-09-12,2024-10-31 00:00:00,
+6,Maksim Novikov,Samara,B2B,-299.4,59.0,maksim.novikov@example.com,2024-10-14,2024-10-17 00:00:00,
+7,Maria Fedorova,Kazan,,133.1,19.0,maria.fedorova,2024-02-11,2024-03-30 00:00:00,
+8,Sergey Popov,Omsk,retail,227.89,,sergey.popov@example.com,,2024-02-03 00:00:00,new lead
+8,Sergey Popov,Omsk,B2B,211.86,47.0,sergey.popov@example.com,2024-12-24,2024-02-04 00:00:00,new lead
+9,Olga Sokolova,Omsk,retail,300.09,29.0,user_at_example.com,2024-06-07,2024-04-17 00:00:00,
+10,Sergey Popov,Omsk,VIP,290.26,52.0,sergey.popov@example.com,2024-05-02,2024-03-01 00:00:00,priority client
+11,Dmitry Kozlov,Moscow,,,19.0,dmitry.kozlov@example.com,2024-06-30,2024-02-25 00:00:00,
+12,Maksim Novikov,Saint-Petersburg,B2B,86.16,54.0,maksim.novikovexample.com,2024-05-05,2024-02-01 00:00:00,
+12,Maksim Novikov,Saint-Petersburg,B2B,91.36,54.0, maksim.novikov@example.com,2024-02-13,2024-02-02 00:00:00,
+13,Maksim Novikov,Kazan,VIP,114.25,56.0,maksim.novikov@example.com,not-a-date,,priority client
+13,Maksim Novikov,Kazan,B2B,118.14,,maksim.novikov@example.com,2024-09-20,2024-01-30 00:00:00,priority client
+14,Maria Fedorova,Yekaterinburg,retail,151.73,33.0,maria.fedorova@example.com,2024-04-22,2024-06-06 00:00:00,new lead
+14,,Yekaterinburg,retail,192.0,33.0,,,2024-06-07 00:00:00,new lead
+15,Olga Sokolova,Yekaterinburg,retail,253.03,53.0,olga.sokolova@example.com,2024-08-02,,
+16,Anna Smirnova,Samara,B2B,327.96,33.0,anna.smirnova@example.com,2024-12-15,2024-02-25 00:00:00,
+17,elena morozova,NOVOSIBIRSK,B2B,868.67,40.0,ELENA.MOROZOVA@EXAMPLE.COM,2024-07-27,2024-02-28 00:00:00,
+18,Olga Sokolova,Kazan,VIP,145.39,32.0,olga.sokolova@example.com,2024-10-28,2024-05-12 00:00:00,
+19,Anna Smirnova,Krasnoyarsk,retail,189.69,24.0,anna.smirnova@example.com,2024-08-28,2024-03-30 00:00:00,priority client
+20,Maksim Novikov,Yekaterinburg,B2B,132.01,30.0,,2024-07-21,,
+20,Maksim Novikov,Yekaterinburg,B2B,119.89,30.0,maksim.novikov@example.com,2024-12-17,2024-02-22 00:00:00,
+20,Maksim Novikov,Kazan,retail,,30.0,maksim.novikov,2024-04-25,2024-02-23 00:00:00,
+21,,Yekaterinburg,,117.93,68.0,maksim.novikov@example.com,2024-11-21,2024-02-25 00:00:00,
+22,Elena Morozova,Moscow,retail,488.18,19.0,elena.morozova@example.com,31-02-2024,,
+23,Elena Morozova,Samara,retail,114.83,67.0,,2024-02-14,2024-01-12 00:00:00,
+24,"	Olga Sokolova
+",Krasnoyarsk,b2b,124.56,unknown,"	olga.sokolova@example.com
+",,,Priority Client
+24,Olga Sokolova,Yekaterinburg,VIP,134.78,32.0,olga.sokolova@example.com,2024-12-07,2024-12-31 00:00:00,priority client
+25,Natalia Lebedeva,Rostov-on-Don,retail,234.65,18.0,natalia.lebedeva@example.com,2024-10-06,2024-09-10 00:00:00,
+26,Dmitry Kozlov,Novosibirsk,VIP,246.09,48.0,dmitry.kozlov@example.com,2024-07-26,2024-02-15 00:00:00,priority client
+26,Dmitry Kozlov,Novosibirsk,retail,220.2,48.0,dmitry.kozlov@example.com,2024-12-04,2024-02-16 00:00:00,priority client
+27,Maksim Novikov,Krasnoyarsk,B2B,201.43,49.0, maksim.novikov@example.com,2024-08-19,2024-02-24 00:00:00,new lead
+27,Maksim Novikov,Ufa,B2B,191.28,49.0,maksim.novikov@example.com,,2024-02-25 00:00:00,new lead
+27,Maksim Novikov,Ufa,VIP,203.16,49.0,maksim.novikov@example.com,2024-12-18,2024-02-26 00:00:00,new lead
+28,Sergey Popov,Omsk,retail,144.88,31.0,sergey.popov@example.com,2024-03-25,2024-06-17 00:00:00,
+29,Maksim Novikov,Rostov-on-Don,retail,336.62,23.0,maksim.novikov@example.com,2024-11-12,2024-12-17 00:00:00,new lead
+30,Anna Smirnova,Novosibirsk,retail,647.26,67.0,anna.smirnova@example.com,2024-01-25,2024-11-17 00:00:00,
+30,Anna Smirnova,Samara,VIP,575.85,67.0,anna.smirnova@example.com,2024-04-26,2024-11-18 00:00:00,
+31,Maria Fedorova,Samara,VIP,194.57,34.0,maria.fedorova@example.com,2024-07-16,2024-02-12 00:00:00,priority client
+32,natalia lebedeva,ufa,  B2B  ,339.1,19.0,None,2024-10-29,2024-05-23 00:00:00,
+32,Natalia Lebedeva,Ufa,retail,468.32,19.0,natalia.lebedeva@example.com,2024-04-26,2024-05-24 00:00:00,
+33,Anna Smirnova,Ufa,VIP,429.91,67.0,,2024-01-18,2024-04-13 00:00:00,priority client
+34,Elena Morozova,Saint-Petersburg,B2B,223300000.0,,elena.morozova@example.com,2024-02-06,2024-09-08 00:00:00,
+34,Elena Morozova,Saint-Petersburg,B2B,,39.0,elena.morozova@example.com,2024-04-27,2024-09-09 00:00:00,
+35,Pavel Ivanov,Rostov-on-Don,VIP,197.62,59.0,pavel.ivanov@example.com,2024-12-18,2024-07-06 00:00:00,priority client
+36,,Ufa,retail,198.69,62.0,dmitry.kozlov@example.com,2024-03-01,2024-06-23 00:00:00,priority client
+37,Dmitry Kozlov,Ufa,VIP,250.61,39.0,dmitry.kozlov,2024-03-26,2024-09-07 00:00:00,
+38,Olga Sokolova,  Novosibirsk  ,"	retail
+",276.17,unknown,  olga.sokolova@example.com  ,2024-06-27,2024-11-05 00:00:00,"	
+"
+39,Maksim Novikov,Ufa,VIP,403.58,51.0,maksim.novikov@example.com,,2024-99-99 25:61:61,
+40,Elena Morozova,Saint-Petersburg,retail,519020000.0,54.0,elena.morozova@example.com,not-a-date,,
+41,Elena Morozova,Moscow,retail,282.63,66.0,elena.morozova@example.com,2024-12-05,2024-10-17 00:00:00,
+41,Elena Morozova,"	Kazan
+","	VIP
+",337.96,66.0,ELENA.MOROZOVA@EXAMPLE.COM,2099-12-31,,    
+42,Anna Smirnova,Saint-Petersburg,B2B,55.6,53.0,anna.smirnova@example.com,2024-10-05,2024-09-22 00:00:00,new lead
+42,Anna Smirnova,Saint-Petersburg,VIP,80.39,53.0,anna.smirnova@example.com,2024-02-20,2024-09-23 00:00:00,new lead
+43,Pavel Ivanov,Novosibirsk,VIP,344.22,66.0,Pavel.Ivanov@Example.Com,2024-03-17,2024-10-09 00:00:00,    
+43,Pavel Ivanov,Rostov-on-Don,VIP,331.38,66.0,pavel.ivanov@example.com,2024-09-01,2024-10-10 00:00:00,
+44,Pavel Ivanov,Kazan,VIP,246.97,22.0,pavel.ivanov@example.com,2024-06-08,2024-07-21 00:00:00,
+45,Sergey Popov,Yekaterinburg,VIP,264.23,49.0,,2024-05-17,2024-02-21 00:00:00,priority client
+45,,Yekaterinburg,VIP,194.88,unknown,sergey.popov@example.com,2024-06-03,2024-02-22 00:00:00,priority client
+45,Sergey Popov,Yekaterinburg,retail,246.34,49.0,sergey.popov@example.com,not-a-date,2024-99-99 25:61:61,priority client
+46,Dmitry Kozlov,Samara,VIP,104.04,40.0,dmitry.kozlov@example.com,2024-06-16,2024-12-19 00:00:00,priority client
+47,Elena Morozova,Rostov-on-Don,retail,116.31,38.0,elena.morozova@example.com,2024-11-16,2024-01-17 00:00:00,
+47,Elena Morozova,Rostov-on-Don,retail,116.94,38.0,elena.morozova@example.com,2024-08-30,2024-01-18 00:00:00,
+48,Olga Sokolova,Saint-Petersburg,retail,275.81,69.0,olga.sokolova@example.com,2024-06-14,2024-03-28 00:00:00,
+48,Olga Sokolova,Saint-Petersburg,VIP,283.74,69.0,olga.sokolova@example.com,2024-02-22,2024-03-29 00:00:00,
+49,,Yekaterinburg,retail,,68.0,maksim.novikov@example.com,2024-03-28,2024-12-17 00:00:00,
+50,Ivan Petrov,Moscow,retail,276.07,61.0,ivan.petrov@example.com,2024-11-01,2024-10-26 00:00:00,new lead
+50,Ivan Petrov,saint petersburg,retail,-207.16,61.0,ivan.petrov@example.com,2024-07-19,2024-10-27 00:00:00,new lead
+50,Ivan Petrov,msc,B2B,,61.0,ivan.petrov@example.com,2024-08-17,2024-10-28 00:00:00,
+51,Anna Smirnova,Kazan,retail,-90.15,44.0,anna.smirnova@example.com,2024-08-12,2024-01-26 00:00:00,
+51,Anna Smirnova,Rostov-on-Don,retail,98.55,44.0,anna.smirnova@example.com,2024-05-30,2024-01-27 00:00:00,
+51,"	Anna Smirnova
+",UFA,VIP,108.27,44.0,anna.smirnova@example.com,2024-03-04,2024-01-28 00:00:00,"	
+"
+52,,Krasnoyarsk,B2B,255.21,30.0,pavel.ivanov@example.com,2024-04-19,2024-07-16 00:00:00,
+52,Pavel Ivanov,Yekaterinburg,B2B,273.17,,pavel.ivanov@example.com,2024-06-10,2024-07-17 00:00:00,
+53,Sergey Popov,Yekaterinburg,retail,642.96,66.0,sergey.popov@example.com,2024-12-11,2024-02-18 00:00:00,
+54,Sergey Popov,Omsk,B2B,245.88,32.0,sergey.popov@example.com,2024-11-02,2024-05-29 00:00:00,
+54,Sergey Popov,  Omsk  ,b2b,286.2,32.0,Sergey.Popov@Example.Com,2024-03-20,2024-05-30 00:00:00,NONE
+55,Ivan Petrov,Saint-Petersburg,B2B,253.2,48.0,ivan.petrov@example.com,2024-08-24,2024-07-18 00:00:00,new lead
+55,Ivan Petrov,SAINT-PETERSBURG,Vip,330.17,48.0,ivan.petrov@example.com,2024-05-05,2024-07-19 00:00:00,New Lead
+56,Elena Morozova,Saint-Petersburg,retail,,46.0,elena.morozova@example.com,2024-02-16,2024-11-19 00:00:00,new lead
+57,Olga Sokolova,Novosibirsk,B2B,149.16,65.0,olga.sokolova@example.com,2024-01-16,2024-06-29 00:00:00,priority client
+58,"	Pavel Ivanov
+",Kazan,"	retail
+",221.37,24.0, PAVEL.IVANOV@EXAMPLE.COM,2024-09-23,2024-03-04 00:00:00,"	priority client
+"
+59,Anna Smirnova,Saint-Petersburg,retail,411.94,34.0,anna.smirnova@example.com,2024-03-28,2024-02-26 00:00:00,new lead
+59,Anna Smirnova,Rostov-on-Don,VIP,411.24,34.0,anna.smirnova@example.com,2024/13/01,2024-99-99 25:61:61,new lead
+60,Maksim Novikov,Yekaterinburg,retail,104.4,57.0,maksim.novikov@example.com,2024-08-21,2024-12-03 00:00:00,priority client
+60,Maksim Novikov,Samara,B2B,117.36,57.0,,2024-06-19,2024-12-04 00:00:00,priority client
+61,Natalia Lebedeva,Yekaterinburg,retail,-161.87,26.0,natalia.lebedeva@example.com,2024-08-25,2024-12-27 00:00:00,
+61,Natalia Lebedeva,Yekaterinburg,retail,163.42,26.0,natalia.lebedeva@example.com,2024-02-21,,
+62,Sergey Popov,Kazan,B2B,130.18,30.0,sergey.popov@example.com,,2024-12-09 00:00:00,
+63,Dmitry Kozlov,samara,"	VIP
+",65.34,18.0,dmitry.kozlov@example.com,2024-03-29,2024-04-08 00:00:00,    
+63,dmitry kozlov,"	Samara
+",Vip,59.82,18.0,  dmitry.kozlov@example.com  ,2024-05-28,2024-04-09 00:00:00,    
+64,Natalia Lebedeva,Novosibirsk,retail,304.12,52.0,natalia.lebedeva@example.com,2024-04-30,2024-11-04 00:00:00,
+65,Dmitry Kozlov,Yekaterinburg,VIP,137.69,43.0,dmitry.kozlov@example.com,2024-05-20,2024-11-06 00:00:00,
+65,Dmitry Kozlov,Yekaterinburg,retail,151.89,43.0,dmitry.kozlov@example.com,,2024-11-07 00:00:00,
+65,Dmitry Kozlov,Yekaterinburg,VIP,148.71,43.0,dmitry.kozlov@example.com,2024-05-22,2024-11-08 00:00:00,
+66,Maksim Novikov,Omsk,retail,263.69,27.0,maksim.novikov@example.com,2024-02-21,2024-04-22 00:00:00,priority client
+66,  Maksim Novikov  ,Moscow,vip,328.48,27.0,MAKSIM.NOVIKOV@EXAMPLE.COM,2024-08-06,2024-04-23 00:00:00,none
+66,Maksim Novikov,Moscow,VIP,219.93,27.0,maksim.novikov@example.com,2024-11-16,2024-04-24 00:00:00,priority client
+67,Ivan Petrov,Krasnoyarsk,VIP,174.24,42.0,ivan.petrov@example.com,2024-01-28,2024-11-12 00:00:00,priority client
+67,Ivan Petrov,Krasnoyarsk,B2B,,42.0,ivan.petrov@example.com,,2024-11-13 00:00:00,priority client
+67,Ivan Petrov,Krasnoyarsk,VIP,182.11,42.0,ivan.petrov@example.com,2024-02-26,2024-11-14 00:00:00,priority client
+68,Pavel Ivanov,Moscow,retail,95.48,32.0,,2024-12-17,2024-10-10 00:00:00,new lead
+69,Pavel Ivanov,Saint-Petersburg,VIP,177.61,43.0,pavel.ivanov@example.com,2024-03-22,2024-01-31 00:00:00,new lead
+70,Anna Smirnova,Yekaterinburg,retail,99.05,46.0,anna.smirnova@example.com,2024-05-14,2024-01-18 00:00:00,
+71,Maria Fedorova,Krasnoyarsk,retail,110.88,23.0,maria.fedorova@example.com,2024-05-19,2024-10-19 00:00:00,priority client
+71,Maria Fedorova,Krasnoyarsk,,108.8,,maria.fedorova@example.com,2024-01-18,2024-10-20 00:00:00,priority client
+72,Sergey Popov,Ufa,VIP,195.88,54.0,sergey.popov@example.com,2024-09-02,2024-08-10 00:00:00,
+73,Elena Morozova,Omsk,retail,159.83,54.0,elena.morozova@example.com,2024-05-24,2024-06-12 00:00:00,new lead
+73,  Elena Morozova  ,KAZAN,"	retail
+",192.44,54.0,elena.morozova@example.com,2024-09-04,2024-06-13 00:00:00,new lead
+74,Dmitry Kozlov,Samara,retail,,0,dmitry.kozlov@example.com,2024-07-13,,
+74,Dmitry Kozlov,Samara,VIP,230.67,22.0,dmitry.kozlov@example.com,2024-02-19,2024-05-29 00:00:00,
+74,Dmitry Kozlov,Kazan,B2B,213.55,150,dmitry.kozlov@example.com,2024-03-21,2024-05-30 00:00:00,
+75,Elena Morozova,Saint-Petersburg,B2B,214.69,0,elena.morozova@example.com,2024-12-17,2024-06-14 00:00:00,priority client
+76,Maria Fedorova,Saint-Petersburg,VIP,147.04,50.0,maria.fedorova@example.com,2024-05-06,2024-04-13 00:00:00,
+76,Maria Fedorova,Krasnoyarsk,retail,151.29,50.0,maria.fedorova@example.com,2024-11-23,2024-04-14 00:00:00,
+77,Maksim Novikov,Omsk,retail,160.08,62.0,maksim.novikov@example.com,2024-04-27,2024-04-19 00:00:00,
+77,Maksim Novikov,Kazan,retail,166.73,62.0,maksim.novikov@example.com,2024-01-23,,
+78,Olga Sokolova,Omsk,retail,392.13,47.0,olga.sokolova@example.com,,2024-09-03 00:00:00,new lead
+79,Natalia Lebedeva,Ufa,,510.28,150,natalia.lebedeva@example.com,2024-04-26,,priority client
+79,Natalia Lebedeva,Ufa,VIP,429.47,60.0,natalia.lebedeva@example.com,2024-12-14,2024-08-27 00:00:00,priority client
+80,Maksim Novikov,Moscow,VIP,122.03,69.0,maksim.novikov@example.com,2024-07-07,2024-04-06 00:00:00,priority client
+81,Dmitry Kozlov,Saint-Petersburg,B2B,396.29,64.0,dmitry.kozlov@example.com,2024-03-16,2024-06-12 00:00:00,new lead
+82,Anna Smirnova,Saint-Petersburg,VIP,263.92,39.0,anna.smirnova@example.com,2024-01-01,2024-02-29 00:00:00,
+83,Pavel Ivanov,Kazan,VIP,157.15,42.0,pavel.ivanov@example.com,2024-04-05,2024-07-12 00:00:00,
+84,Olga Sokolova,Kazan,VIP,477.82,56.0,olga.sokolova@example.com,2024-12-05,2024-03-31 00:00:00,priority client
+84,Olga Sokolova,Rostov-on-Don,B2B,470.06,56.0,olga.sokolova@example.com,2024-03-10,2024-04-01 00:00:00,priority client
+85,Ivan Petrov,Saint-Petersburg,B2B,363.56,25.0,ivan.petrov@example.com,1900-01-01,2024-99-99 25:61:61,
+86,Dmitry Kozlov,Moscow,B2B,83.68,23.0,dmitry.kozlov@example.com,2024-04-12,2024-01-02 00:00:00,priority client
+86,Dmitry Kozlov,Moscow,retail,84.31,23.0,dmitry.kozlov@example.com,2024-11-07,2024-01-03 00:00:00,priority client
+87,Dmitry Kozlov,Novosibirsk,,652760000.0,65.0,dmitry.kozlov@example.com,2024-05-11,2024-01-29 00:00:00,
+88,Maksim Novikov,Moscow,retail,338.06,,maksim.novikov@example.com,2024-04-25,2024-08-20 00:00:00,priority client
+88,Maksim Novikov,Saint-Petersburg,VIP,480.64,44.0,maksim.novikov@example.com,2024-05-19,,priority client
+89,Pavel Ivanov,Omsk,VIP,387.09,18.0,pavel.ivanov@example.com,2024-02-23,2024-11-20 00:00:00,
+89,Pavel Ivanov,Ufa,retail,378.0,18.0,pavel.ivanov@example.com,2024-08-04,2024-11-21 00:00:00,
+90,Sergey Popov,Kazan,retail,212.6,46.0,sergey.popov@example.com,2024-08-01,2024-07-29 00:00:00,
+91,"	Elena Morozova
+",moscow,Retail,133.22,27.0,Elena.Morozova@Example.Com,2024-01-19,2024-09-20 00:00:00,priority client
+92,Olga Sokolova,Saint-Petersburg,VIP,189.65,20.0,olga.sokolova@example.com,2024-03-25,2024-02-27 00:00:00,new lead
+92,Olga Sokolova,Saint-Petersburg,B2B,233.83,20.0,olga.sokolova@example.com,2024-03-08,2024-02-28 00:00:00,new lead
+93,Maria Fedorova,Novosibirsk,retail,194.26,46.0,maria.fedorova@example.com,2024-02-24,2024-12-24 00:00:00,new lead
+93,Maria Fedorova,Novosibirsk,retail,193.22,46.0,maria.fedorova@example.com,2024-06-02,2024-12-25 00:00:00,new lead
+94,Sergey Popov,Moscow,VIP,206.06,26.0,sergey.popov@example.com,2024-02-24,2024-06-20 00:00:00,new lead
+94,Sergey Popov,Moscow,B2B,142.03,26.0,sergey.popov@example.com,2024-12-01,2024-06-21 00:00:00,new lead
+95,Sergey Popov,Yekaterinburg,retail,232.34,62.0,sergey.popov@example.com,2024-05-30,2024-05-18 00:00:00,new lead
+95,Sergey Popov,Yekaterinburg,VIP,-215.0,62.0,sergey.popov@example.com,2024-07-07,,new lead
+96,Anna Smirnova,Samara,B2B,167.67,44.0,anna.smirnova@example.com,2024-03-15,2024-01-02 00:00:00,
+96,Anna Smirnova,Samara,retail,142.69,44.0,anna.smirnova@example.com,,2024-01-03 00:00:00,
+97,"	Olga Sokolova
+",  Yekaterinburg  ,B2B,1026.63,37.0,Olga.Sokolova@Example.Com,2024-05-20,2024-07-31 00:00:00,New Lead
+98,Elena Morozova,Yekaterinburg,retail,180.38,,elena.morozova@example.com,2024-10-07,2024-05-23 00:00:00,priority client
+99,Olga Sokolova,Samara,B2B,146.0,24.0,olga.sokolova@example.com,2024-06-21,2024-02-06 00:00:00,
+99,Olga Sokolova,Saint-Petersburg,B2B,126.92,24.0,olga.sokolova@example.com,2024-10-02,2024-02-07 00:00:00,
+99,  Olga Sokolova  ,OMSK,vip,144.56,24.0,Olga.Sokolova@Example.Com,2024-06-14,2024-02-08 00:00:00,"	None
+"
+100,Maksim Novikov,Ufa,B2B,85.29,31.0,maksim.novikov@example.com,2024-03-26,2024-02-10 00:00:00,
+100,Maksim Novikov,Samara,VIP,76.03,31.0,maksim.novikov@example.com,2024-04-02,2024-02-11 00:00:00,
+101,Ivan Petrov,Saint-Petersburg,retail,105.78,39.0,ivan.petrov@example.com,,2024-12-09 00:00:00,
+101,Ivan Petrov,Saint-Petersburg,VIP,128.0,39.0,ivan.petrov@example.com,2024-09-28,2024-12-10 00:00:00,
+101,Ivan Petrov,Kazan,B2B,118.89,39.0,ivan.petrov@example.com,2024-08-13,2024-12-11 00:00:00,
+102,Ivan Petrov,Saint-Petersburg,B2B,324.3,62.0,ivan.petrov@example.com,2024-05-27,2024-10-31 00:00:00,priority client
+102,,Omsk,VIP,244.11,62.0,ivan.petrov@example.com,2024-08-08,2024-11-01 00:00:00,priority client
+103,Elena Morozova,Samara,VIP,141.3,66.0,elena.morozova@example.com,1900-01-01,2024-99-99 25:61:61,new lead
+104,Anna Smirnova,Yekaterinburg,B2B,412.52,39.0,anna.smirnova@example.com,2024-09-19,2024-07-12 00:00:00,new lead
+104,Anna Smirnova,Samara,retail,444.17,39.0,anna.smirnova@example.com,2024-03-31,2024-07-13 00:00:00,new lead
+105,Sergey Popov,Ufa,VIP,211.41,38.0,sergey.popov@example.com,2024-06-07,2024-10-28 00:00:00,new lead
+106,Olga Sokolova,Saint-Petersburg,VIP,549.16,25.0,olga.sokolova@example.com,2024-07-21,2024-05-15 00:00:00,
+107,Elena Morozova,Krasnoyarsk,VIP,236.14,18.0,elena.morozova@example.com,2024-08-09,2024-11-30 00:00:00,priority client
+108,Anna Smirnova,Kazan,B2B,53.31,25.0,anna.smirnova@example.com,2024-09-27,2024-10-25 00:00:00,
+109,Sergey Popov,Omsk,VIP,160.58,66.0,sergey.popovexample.com,2024-10-16,2024-01-21 00:00:00,priority client
+110,Dmitry Kozlov,Yekaterinburg,retail,229.16,45.0,dmitry.kozlov@example.com,2024-08-21,2024-04-14 00:00:00,priority client
+111,Sergey Popov,Samara,VIP,,59.0,sergey.popov@example.com,2024-02-25,2024-06-07 00:00:00,
+112,Pavel Ivanov,Krasnoyarsk,B2B,136910000.0,55.0,pavel.ivanov@example.com,2024-08-28,2024-04-20 00:00:00,priority client
+113,Sergey Popov,Kazan,B2B,255.23,22.0,sergey.popov@example.com,2024-11-04,,new lead
+114,Olga Sokolova,Samara,VIP,351.44,41.0,olga.sokolova@example.com,2024-08-28,2024-10-01 00:00:00,new lead
+114,Olga Sokolova,Samara,,320.82,41.0,olga.sokolova@example.com,,2024-10-02 00:00:00,new lead
+115,Elena Morozova,Rostov-on-Don,B2B,250.06,unknown,elena.morozova@example.com,2024-03-10,2024-06-02 00:00:00,priority client
+116,Olga Sokolova,Ufa,VIP,228.87,51.0,olga.sokolova@example.com,2024-02-17,2024-08-31 00:00:00,priority client
+117,Pavel Ivanov,Saint-Petersburg,,166.78,52.0,pavel.ivanov@example.con,2024-10-01,2024-11-10 00:00:00,
+118,Maria Fedorova,Yekaterinburg,VIP,236.97,30.0,maria.fedorova@example.com,,2024-09-03 00:00:00,priority client
+119,Dmitry Kozlov,Yekaterinburg,retail,75.55,65.0,dmitry.kozlov@example.com,2024-04-22,2024-04-03 00:00:00,new lead
+119,,Yekaterinburg,retail,70.14,,dmitry.kozlov@example.com,2024-08-16,2024-04-04 00:00:00,new lead
+119,Dmitry Kozlov,Yekaterinburg,retail,80.02,65.0,dmitry.kozlov@example.com,2024-09-12,2024-04-05 00:00:00,new lead
+120,Ivan Petrov,Yekaterinburg,VIP,124.91,63.0,ivan.petrov@example.com,2024-09-14,2024-07-17 00:00:00,
+120,,Yekaterinburg,B2B,123.59,63.0,ivan.petrov@example.com,2024-06-27,2024-07-18 00:00:00,
+121,Anna Smirnova,Rostov-on-Don,VIP,135.82,69.0,anna.smirnova@example.com,1900-01-01,,
+121,"	Anna Smirnova
+",Krasnoyarsk,"	retail
+",123.66,69.0,  anna.smirnova@example.com  ,2024-08-09,2024-03-27 00:00:00,
+121,Anna Smirnova,Rostov-on-Don,VIP,112.99,69.0,anna.smirnova@example.com,2024-08-23,2024-03-28 00:00:00,
+122,Sergey Popov,Rostov-on-Don,retail,158.37,37.0,sergey.popov@example.com,2024-05-02,2024-01-15 00:00:00,
+122,Sergey Popov,Novosibirsk,VIP,134.18,37.0,sergey.popov@example.com,2024-09-12,,
+123,Ivan Petrov,Saint-Petersburg,B2B,252.72,58.0,ivan.petrov@example.com,2024-05-26,2024-06-03 00:00:00,
+124,Olga Sokolova,Novosibirsk,VIP,231.24,50.0,,2024-06-22,2024-04-08 00:00:00,
+125,Natalia Lebedeva,Moscow,retail,179.23,64.0,natalia.lebedeva@example.com,2024-03-29,2024-07-20 00:00:00,new lead
+126,,Rostov-on-Don,B2B,237.07,44.0,anna.smirnova@example.com,not-a-date,2024-99-99 25:61:61,
+126,Anna Smirnova,Rostov-on-Don,VIP,224.07,44.0,,2024-09-22,2024-02-05 00:00:00,
+126,Anna Smirnova,Rostov-on-Don,VIP,196.08,44.0,anna.smirnova@example.com,2024-10-05,2024-02-06 00:00:00,
+127,Maksim Novikov,Krasnoyarsk,B2B,338.69,36.0,maksim.novikov@example.com,2024-09-17,2024-09-30 00:00:00,
+128,Natalia Lebedeva,Ufa,B2B,388.38,59.0,natalia.lebedeva@example.com,2024-04-22,2024-02-26 00:00:00,priority client
+128,Natalia Lebedeva,Krasnoyarsk,VIP,381.11,59.0,natalia.lebedeva@example.com,2024-07-13,2024-02-27 00:00:00,priority client
+129,Natalia Lebedeva,Novosibirsk,B2B,520.01,35.0,natalia.lebedeva@example.com,2024-02-23,2024-01-10 00:00:00,
+129,Natalia Lebedeva,Rostov-on-Don,B2B,602.87,,natalia.lebedeva@example.com,2024-06-14,2024-01-11 00:00:00,
+130,Olga Sokolova,Kazan,B2B,179.49,60.0,olga.sokolova@example.com,2024-07-15,2024-07-03 00:00:00,
+131,Olga Sokolova,Saint-Petersburg,VIP,,57.0,olga.sokolova@example.com,2024-10-04,2024-02-13 00:00:00,
+132,Dmitry Kozlov,Yekaterinburg,B2B,356.49,22.0,,2024-12-26,2024-02-20 00:00:00,
+133,Elena Morozova,Ufa,retail,54.93,51.0,elena.morozova@example.com,2024-08-13,2024-03-11 00:00:00,priority client
+133,  Elena Morozova  ,ufa,  retail  ,80.57,51.0,"	elena.morozova@example.com
+",2024-03-21,2024-03-12 00:00:00,Priority Client
+133,Elena Morozova,Yekaterinburg,B2B,57.25,51.0,elena.morozova@example.com,2024-05-15,2024-03-13 00:00:00,priority client
+134,Pavel Ivanov,Yekaterinburg,B2B,210.85,54.0,pavel.ivanov@example.com,2024-04-04,2024-06-01 00:00:00,priority client
+135,Sergey Popov,Omsk,B2B,,57.0,sergey.popov@example.com,2024-06-13,2024-04-24 00:00:00,
+136,Sergey Popov,Moscow,B2B,207.0,47.0,sergey.popov@example.com,2024-10-11,2024-08-23 00:00:00,
+137,Sergey Popov,Moscow,VIP,368.09,26.0,sergey.popov@example.com,2024-06-22,2024-03-19 00:00:00,priority client
+137,Sergey Popov,Samara,B2B,304.92,26.0,sergey.popov@example.com,2024-08-01,2024-03-20 00:00:00,priority client
+137,SERGEY POPOV,Moscow,VIP,298.89,,  sergey.popov@example.com  ,2024-07-09,2024-03-21 00:00:00,  priority client  
+138,Elena Morozova,Kazan,B2B,139.25,27.0,elena.morozova@example.com,2024-05-04,2024-05-10 00:00:00,new lead
+139,Maksim Novikov,Ufa,retail,66.25,31.0,maksim.novikov@example.com,2024-01-19,2024-02-09 00:00:00,
+139,,Ufa,B2B,60.9,31.0,maksim.novikov@example.com,2024/13/01,2024-99-99 25:61:61,
+139,Maksim Novikov,Yekaterinburg,B2B,62.76,31.0,maksim.novikov@example.com,2024-02-22,2024-02-11 00:00:00,
+140,Sergey Popov,Rostov-on-Don,B2B,293.89,69.0,,2024-12-03,2024-10-21 00:00:00,
+140,Sergey Popov,Rostov-on-Don,B2B,292.14,69.0,sergey.popov@example.com,2024-03-03,2024-10-22 00:00:00,
+140,Sergey Popov,Samara,,328.58,69.0,sergey.popov@example.com,2024-08-26,2024-10-23 00:00:00,
+141,  None  ,ROSTOV-ON-DON,Retail,418.73,34.0,  pavel.ivanov@example.com  ,2024-06-09,2024-05-29 00:00:00,  new lead  
+141,"	Pavel Ivanov
+",rostov-on-don,  VIP  ,560.57,34.0,"	pavel.ivanov@example.com
+",,2024-05-30 00:00:00,"	new lead
+"
+142,Maksim Novikov,Moscow,VIP,147.31,33.0,maksim.novikov@example.com,2024-07-21,2024-05-07 00:00:00,new lead
+142,Maksim Novikov,Krasnoyarsk,VIP,149.32,33.0,maksim.novikov@example.com,2024-07-13,2024-05-08 00:00:00,new lead
+143,Ivan Petrov,Saint-Petersburg,VIP,187.59,22.0,ivan.petrov@example.com,2024-07-13,2024-10-02 00:00:00,
+144,Sergey Popov,Novosibirsk,retail,476.11,31.0,sergey.popov@example.com,,2024-12-11 00:00:00,new lead
+144,Sergey Popov,Moscow,B2B,492.28,31.0,sergey.popov@example.com,2024-05-23,2024-12-12 00:00:00,new lead
+145,Sergey Popov,Omsk,,-410.09,25.0,sergey.popov@example.com,2024-06-30,2024-03-28 00:00:00,
+146,Elena Morozova,Kazan,B2B,209.13,69.0,elena.morozova@example.com,2024-07-25,2024-11-06 00:00:00,priority client
+147,Dmitry Kozlov,saint-petersburg,Retail,226.36,30.0,dmitry.kozlov@example.com,2024-12-17,2024-01-28 00:00:00,
+148,Maksim Novikov,Moscow,B2B,69.94,38.0,maksim.novikov@example.com,2024-06-24,2024-07-03 00:00:00,
+148,Maksim Novikov,Moscow,retail,68.51,38.0,maksim.novikov@example.com,2024-11-28,2024-07-04 00:00:00,
+149,Anna Smirnova,Moscow,retail,163.07,40.0,,2024-09-14,2024-04-13 00:00:00,
+149,ANNA SMIRNOVA,"	None
+",retail,145.21,40.0,  anna.smirnova@example.com  ,2024-04-20,2024-04-14 00:00:00,    
+150,Ivan Petrov,Krasnoyarsk,retail,183.22,59.0,ivan.petrov@example.com,2024-01-15,2024-02-19 00:00:00,new lead
+150,Ivan Petrov,Novosibirsk,B2B,194.42,59.0,ivan.petrov@example.com,2024-06-12,2024-02-20 00:00:00,new lead
+151,Anna Smirnova,Rostov-on-Don,VIP,320.45,25.0,anna.smirnova@example.com,2024-05-31,2024-10-22 00:00:00,
+151,Anna Smirnova,Krasnoyarsk,B2B,262.9,25.0,anna.smirnova@example.com,2024-12-21,2024-10-23 00:00:00,
+151,Anna Smirnova,Krasnoyarsk,retail,310.34,25.0,anna.smirnova@example.com,2099-12-31,,
+152,Elena Morozova,Krasnoyarsk,VIP,133.0,19.0,elena.morozova@example.com,2024-07-09,2024-04-20 00:00:00,new lead
+153,Anna Smirnova,Novosibirsk,B2B,303.04,64.0,anna.smirnova@example.com,,,
+154,Anna Smirnova,Krasnoyarsk,B2B,189220000.0,26.0,anna.smirnova@example.com,2024-03-03,2024-01-24 00:00:00,
+155,Maria Fedorova,Samara,B2B,445.34,68.0,maria.fedorova@example.com,2024-02-16,,new lead
+155,Maria Fedorova,Samara,VIP,443.61,,maria.fedorova@example.com,2024-09-15,2024-11-13 00:00:00,new lead
+155,Maria Fedorova,Samara,B2B,491.08,68.0,maria.fedorova@example.com,2024-04-19,2024-11-14 00:00:00,new lead
+156,Olga Sokolova,Saint-Petersburg,VIP,59.09,46.0,olga.sokolova@example.com,2024-11-10,2024-06-15 00:00:00,priority client
+156,Olga Sokolova,,retail,47.72,46.0,olga.sokolova@example.com,2024-05-21,2024-06-16 00:00:00,priority client
+157,Dmitry Kozlov,Krasnoyarsk,retail,488.85,,dmitry.kozlov@example.com,2024-02-27,2024-04-25 00:00:00,
+157,Dmitry Kozlov,Krasnoyarsk,retail,515.58,22.0,dmitry.kozlov@example.com,2024-05-19,2024-04-26 00:00:00,
+157,Dmitry Kozlov,Moscow,B2B,438.39,22.0,dmitry.kozlov@example.com,,2024-04-27 00:00:00,
+158,Maksim Novikov,Samara,,298680000.0,36.0,maksim.novikov@example.com,2024-07-15,2024-04-05 00:00:00,
+159,  Anna Smirnova  ,OMSK,retail,110.58,,anna.smirnova@example.com,2024-05-06,2024-02-16 00:00:00,
+159,Anna Smirnova,Ufa,,98.46,50.0,anna.smirnova@example.com,2024-08-14,2024-02-17 00:00:00,
+160,Natalia Lebedeva,Saint-Petersburg,B2B,472.88,67.0,natalia.lebedeva@example.com,2024-03-04,2024-08-26 00:00:00,
+161,Natalia Lebedeva,Novosibirsk,retail,190.75,52.0,natalia.lebedeva@example.com,2024-10-27,2024-03-09 00:00:00,
+162,Maksim Novikov,Kazan,VIP,43.26,23.0,maksim.novikov@example.com,2024-07-06,2024-06-26 00:00:00,
+163,Natalia Lebedeva,Rostov-on-Don,B2B,192.8,42.0,natalia.lebedeva@example.com,,,new lead
+164,Maria Fedorova,Kazan,retail,349.59,69.0,maria.fedorova@example.com,2024-09-29,2024-08-24 00:00:00,new lead
+165,Anna Smirnova,Kazan,retail,562.52,58.0,anna.smirnova@example.com,2024-10-10,2024-08-29 00:00:00,priority client
+165,Anna Smirnova,Kazan,B2B,468.62,58.0,anna.smirnova@example.com,2024-09-02,2024-08-30 00:00:00,priority client
+166,Maria Fedorova,Samara,B2B,83.52,49.0,maria.fedorovaexample.com,2024-02-17,,new lead
+167,Ivan Petrov,Novosibirsk,,-212.19,47.0,ivan.petrov@example.com,31-02-2024,2024-99-99 25:61:61,
+167,Ivan Petrov,Rostov-on-Don,retail,218.84,47.0,ivan.petrov@example.com,2024-04-29,2024-02-07 00:00:00,
+168,Elena Morozova,Kazan,VIP,340.89,45.0,elena.morozova@example.com,2024-10-19,2024-06-23 00:00:00,
+169,Dmitry Kozlov,Ufa,,138.07,25.0,dmitry.kozlov@example.com,2024-06-03,2024-01-26 00:00:00,
+169,Dmitry Kozlov,Ufa,retail,120.84,25.0,dmitry.kozlov@example.com,2024-06-24,2024-01-27 00:00:00,
+170,Anna Smirnova,Samara,B2B,311.72,,anna.smirnova@example.com,2024-05-23,2024-05-05 00:00:00,priority client
+171,Maksim Novikov,Yekaterinburg,B2B,232.66,18.0,maksim.novikov@example.com,2024-04-20,2024-09-12 00:00:00,priority client
+172,Natalia Lebedeva,Rostov-on-Don,retail,414.53,50.0,natalia.lebedeva@example.com,2024-11-12,2024-01-09 00:00:00,new lead
+172,Natalia Lebedeva,Rostov-on-Don,B2B,475.34,50.0,natalia.lebedeva@example.com,2024-10-30,2024-01-10 00:00:00,new lead
+172,Natalia Lebedeva,Yekaterinburg,B2B,450.67,50.0,natalia.lebedeva@example.com,2024-11-27,2024-01-11 00:00:00,new lead
+173,Olga Sokolova,Krasnoyarsk,B2B,276.38,57.0,olga.sokolova@example.com,2024-11-01,,new lead
+174,Natalia Lebedeva,Ufa,B2B,136.89,52.0,natalia.lebedeva@example.com,2024-11-20,2024-02-13 00:00:00,
+174,Natalia Lebedeva,Ufa,B2B,127.23,52.0,natalia.lebedeva@example.com,,2024-02-14 00:00:00,
+175,Maksim Novikov,Omsk,,231500000.0,49.0,maksim.novikov@example.com,2024-09-29,2024-03-12 00:00:00,
+176,Natalia Lebedeva,Kazan,B2B,155.15,21.0,natalia.lebedeva@example.com,2024-03-23,2024-03-05 00:00:00,new lead
+176,Natalia Lebedeva,Kazan,retail,,21.0,natalia.lebedeva@example.com,2024-10-23,2024-03-06 00:00:00,new lead
+177,Anna Smirnova,Yekaterinburg,retail,120.4,47.0,anna.smirnova@example.com,2024-06-05,2024-01-02 00:00:00,priority client
+178,Maksim Novikov,Yekaterinburg,VIP,170.38,56.0,maksim.novikov@example.com,2024-03-18,2024-11-02 00:00:00,
+178,Maksim Novikov,Rostov-on-Don,B2B,230.88,56.0,maksim.novikov@example.com,2024-11-18,2024-11-03 00:00:00,
+179,"	Maria Fedorova
+",kazan,  retail  ,198.05,20.0,Maria.Fedorova@Example.Com,2024-02-27,2024-09-29 00:00:00,priority client
+180,Olga Sokolova,Kazan,B2B,112.33,37.0,olga.sokolova@example.com,2024-09-26,2024-08-22 00:00:00,new lead
+181,Pavel Ivanov,Ufa,retail,415.86,53.0,pavel.ivanov@example.com,2024-02-01,2024-09-23 00:00:00,
+181,Pavel Ivanov,Kazan,retail,509.42,53.0,pavel.ivanov@example.com,2024-10-02,,
+181,Pavel Ivanov,Kazan,retail,498.76,53.0,pavel.ivanov@example.com,2024-03-11,2024-09-25 00:00:00,
+182,,Kazan,retail,177.3,59.0,maksim.novikov@example.com,2024-01-09,2024-02-19 00:00:00,priority client
+183,Natalia Lebedeva,Saint-Petersburg,VIP,153.52,67.0,natalia.lebedeva@example.com,1900-01-01,2024-99-99 25:61:61,
+184,Dmitry Kozlov,Rostov-on-Don,B2B,62.55,51.0,dmitry.kozlov@example.com,2024-07-09,2024-03-24 00:00:00,
+184,Dmitry Kozlov,Rostov-on-Don,B2B,70.15,51.0,,2024-01-19,2024-03-25 00:00:00,
+185,Pavel Ivanov,Moscow,B2B,95.7,68.0,pavel.ivanov@example.com,not-a-date,2024-99-99 25:61:61,priority client
+185,Pavel Ivanov,spb,retail,77.52,68.0,pavel.ivanov@example.com,2024-02-28,2024-01-22 00:00:00,
+185,Pavel Ivanov,Moscow,B2B,101.78,68.0,pavel.ivanov@example.com,2024-09-30,2024-01-23 00:00:00,priority client
+186,Natalia Lebedeva,Saint-Petersburg,VIP,151.99,67.0,natalia.lebedeva@example.com,2024-03-31,2024-10-18 00:00:00,
+187,Ivan Petrov,Novosibirsk,retail,238.06,41.0,ivan.petrov@example.com,2024-09-20,2024-01-03 00:00:00,
+188,Maria Fedorova,Kazan,"	retail
+",556.56,21.0,MARIA.FEDOROVA@EXAMPLE.COM,,2024-03-22 00:00:00,
+188,Maria Fedorova,Kazan,retail,548.61,21.0,maria.fedorova@example.com,2024-07-07,2024-03-23 00:00:00,
+189,Olga Sokolova,Saint-Petersburg,B2B,191.07,58.0,olga.sokolova@example.com,2024-03-26,2024-05-02 00:00:00,
+190,Maria Fedorova,Yekaterinburg,VIP,124.81,49.0,maria.fedorova@example.com,2024-08-08,2024-07-24 00:00:00,
+191,Sergey Popov,Rostov-on-Don,B2B,176.87,43.0,,2024-11-12,2024-12-10 00:00:00,priority client
+192,Maria Fedorova,Samara,VIP,198.97,20.0,maria.fedorova@example.com,,2024-03-19 00:00:00,priority client
+192,Maria Fedorova,Krasnoyarsk,B2B,228.94,20.0,maria.fedorova@example.com,2024-07-12,,priority client
+193,Ivan Petrov,Krasnoyarsk,retail,75.92,66.0,ivan.petrov@example.com,2024-06-22,2024-02-07 00:00:00,new lead
+193,Ivan Petrov,Krasnoyarsk,retail,73.27,66.0,ivan.petrov@example.com,2024-01-07,2024-02-08 00:00:00,new lead
+194,Olga Sokolova,Kazan,retail,114.98,64.0,olga.sokolova@example.com,2024-09-04,2024-11-25 00:00:00,
+195,Pavel Ivanov,Ufa,,99.21,65.0,pavel.ivanov@example.com,2024-01-23,2024-01-27 00:00:00,priority client
+196,Pavel Ivanov,Moscow,B2B,195.53,69.0,pavel.ivanov@example.com,2024-05-29,2024-08-18 00:00:00,
+196,Pavel Ivanov,Moscow,VIP,,69.0,pavel.ivanov@example.com,2024-11-17,2024-08-19 00:00:00,
+197,Maria Fedorova,Moscow,retail,127.02,58.0,maria.fedorova@example.com,2024-02-26,2024-06-03 00:00:00,priority client
+198,Dmitry Kozlov,Kazan,B2B,137.95,63.0,dmitry.kozlov@example.com,2024-10-06,2024-11-17 00:00:00,
+198,Dmitry Kozlov,Saint-Petersburg,VIP,165.97,63.0,dmitry.kozlov@example.com,2024-08-25,2024-11-18 00:00:00,
+199,Olga Sokolova,Krasnoyarsk,VIP,477.64,,olga.sokolova@example.com,2024-02-26,2024-08-10 00:00:00,priority client
+199,Olga Sokolova,,retail,463.43,65.0,olga.sokolova@example.com,2024-08-15,2024-08-11 00:00:00,priority client
+200,SERGEY POPOV,SAINT-PETERSBURG,  retail  ,,69.0,sergey.popov@example.com,2024-06-09,2024-04-30 00:00:00,
+201,Pavel Ivanov,Kazan,retail,,67.0,pavel.ivanov@example.com,2024-07-01,2024-07-16 00:00:00,priority client
+202,Anna Smirnova,Moscow,B2B,113.37,69.0,anna.smirnova@example.com,2024-01-27,2024-02-13 00:00:00,new lead
+203,Maria Fedorova,Rostov-on-Don,retail,336.95,68.0,maria.fedorova@example.com,2024-06-13,2024-07-06 00:00:00,
+204,Natalia Lebedeva,Samara,B2B,,37.0,natalia.lebedeva@example.com,2024-09-24,2024-07-15 00:00:00,
+205,Maksim Novikov,Ufa,B2B,178.13,38.0,maksim.novikov@example.com,2024-04-29,2024-03-12 00:00:00,new lead
+205,Maksim Novikov,Ufa,retail,177.2,38.0,maksim.novikov@example.com,2024-02-25,2024-03-13 00:00:00,new lead
+205,Maksim Novikov,Ufa,B2B,141.66,38.0,maksim.novikov@example.com,2024-03-25,2024-03-14 00:00:00,new lead
+206,Maria Fedorova,Moscow,,230.1,53.0,maria.fedorova@example.com,2024-07-31,2024-08-21 00:00:00,priority client
+207,Elena Morozova,Krasnoyarsk,retail,81.95,38.0,elena.morozova@example.com,2024-03-15,2024-04-27 00:00:00,
+207,  Elena Morozova  ,  Krasnoyarsk  ,  B2B  ,75.04,38.0,  elena.morozova@example.com  ,2024-12-08,2024-04-28 00:00:00,    
+208,Anna Smirnova,Yekaterinburg,VIP,231.66,40.0,anna.smirnova@example.com,2024-08-20,2024-04-27 00:00:00,
+208,Anna Smirnova,Yekaterinburg,VIP,-206.26,40.0,anna.smirnova@example.com,2024-07-18,2024-04-28 00:00:00,
+209,Ivan Petrov,Kazan,retail,222.2,40.0,ivan.petrov@example.com,2024-11-06,2024-07-13 00:00:00,
+210,Pavel Ivanov,Rostov-on-Don,,193.96,,pavel.ivanov@example.com,2024-03-05,2024-02-10 00:00:00,priority client
+210,Pavel Ivanov,Rostov-on-Don,B2B,200.71,68.0,pavel.ivanov@example.com,2024-01-04,2024-02-11 00:00:00,priority client
+211,dmitry kozlov,"	Samara
+",  VIP  ,112.73,20.0,DMITRY.KOZLOV@EXAMPLE.COM,,2024-06-11 00:00:00,
+212,Natalia Lebedeva,Omsk,,187.26,41.0,natalia.lebedeva@example.com,2024-05-03,2024-11-25 00:00:00,new lead
+213,Elena Morozova,Omsk,retail,138.5,46.0,elena.morozova@example.com,2024-11-14,2024-12-13 00:00:00,
+213,Elena Morozova,,B2B,138.46,46.0,elena.morozova@example.com,2024-06-29,2024-12-14 00:00:00,
+214,Sergey Popov,Rostov-on-Don,,195.55,34.0,,2024-08-23,,priority client
+214,Sergey Popov,Samara,VIP,205.38,34.0,sergey.popov@example.com,2024-03-21,2024-07-18 00:00:00,priority client
+215,Ivan Petrov,Rostov-on-Don,B2B,172.05,55.0,ivan.petrov@example.com,2024-07-28,2024-03-22 00:00:00,
+216,Dmitry Kozlov,Omsk,retail,377.56,41.0,dmitry.kozlov@example.com,2024-07-13,2024-12-05 00:00:00,new lead
+216,,Omsk,retail,392.73,41.0,dmitry.kozlov@example.com,31-02-2024,,new lead
+216,Dmitry Kozlov,,B2B,266.56,41.0,dmitry.kozlov@example.com,2024-03-25,2024-12-07 00:00:00,new lead
+217,Maksim Novikov,Ufa,B2B,42.74,68.0,maksim.novikov@example.com,2024-08-20,2024-06-01 00:00:00,priority client
+217,Maksim Novikov,Moscow,B2B,53.41,68.0,maksim.novikov@example.com,2024-07-27,2024-06-02 00:00:00,priority client
+218,Ivan Petrov,,B2B,100.48,66.0,ivan.petrov@example.com,2024-09-24,2024-02-17 00:00:00,
+219,Maria Fedorova,Rostov-on-Don,B2B,126.44,45.0,maria.fedorova@example.com,2024-03-19,2024-02-05 00:00:00,new lead
+220,Ivan Petrov,Yekaterinburg,B2B,141.93,42.0,ivan.petrov@example.com,2024-04-04,2024-02-15 00:00:00,
+221,Maksim Novikov,Novosibirsk,B2B,154.93,62.0,maksim.novikov@example.com,2024-01-27,2024-04-23 00:00:00,priority client
+222,Natalia Lebedeva,Saint-Petersburg,retail,154.28,56.0,,2024-11-03,2024-04-25 00:00:00,new lead
+223,Maria Fedorova,Novosibirsk,B2B,250.73,N/A,maria.fedorova@example.com,2024-02-21,2024-04-13 00:00:00,priority client
+224,Maksim Novikov,mos cow,B2B,212930000.0,28.0,maksim.novikov@example.com,2024-05-31,2024-09-08 00:00:00,priority client
+225,Anna Smirnova,Rostov-on-Don,retail,118.2,35.0,anna.smirnova@example.com,2024-02-09,2024-10-04 00:00:00,new lead
+225,Anna Smirnova,,VIP,109.85,35.0,anna.smirnova@example.com,2024-04-28,2024-10-05 00:00:00,new lead
+226,Pavel Ivanov,Rostov-on-Don,B2B,198.0,38.0,pavel.ivanov@example.com,2024-10-03,2024-07-07 00:00:00,new lead
+226,Pavel Ivanov,Rostov-on-Don,VIP,208.94,,pavel.ivanov@example.com,2024-05-05,2024-07-08 00:00:00,new lead
+227,Dmitry Kozlov,Samara,B2B,255.85,58.0,dmitry.kozlov@example.com,2024-08-18,2024-07-02 00:00:00,
+227,Dmitry Kozlov,Samara,B2B,,58.0,dmitry.kozlov@example.com,1900-01-01,,
+228,Olga Sokolova,Rostov-on-Don,retail,247.47,41.0,olga.sokolova@example.com,2024-02-07,2024-06-14 00:00:00,
+228,Olga Sokolova,Rostov-on-Don,B2B,-213.48,41.0,olga.sokolova@example.com,2024-11-03,2024-06-15 00:00:00,
+228,Olga Sokolova,Yekaterinburg,VIP,220.14,41.0,olga.sokolova@example.com,2024-10-14,2024-06-16 00:00:00,
+229,MAKSIM NOVIKOV,  Novosibirsk  ,B2B,156.78,44.0,  maksim.novikov@example.com  ,2024-11-17,2024-04-04 00:00:00,
+230,Sergey Popov,Kazan,retail,234.4,44.0,sergey.popov@example.com,2024-11-28,2024-07-12 00:00:00,priority client
+230,Sergey Popov,Omsk,B2B,232.8,44.0,sergey.popov@example.com,2024-12-22,2024-07-13 00:00:00,priority client
+231,Dmitry Kozlov,,VIP,123.79,37.0,dmitry.kozlov@example.com,2024-05-09,2024-07-03 00:00:00,priority client
+232,Natalia Lebedeva,Novosibirsk,VIP,144.25,,natalia.lebedeva@example.com,2024-03-19,,new lead
+233,Natalia Lebedeva,Ufa,VIP,373.81,67.0,natalia.lebedeva@example.com,2024-09-29,2024-09-04 00:00:00,
+234,Sergey Popov,Rostov-on-Don,retail,169.14,39.0,sergey.popov@example.com,2024-12-28,2024-09-07 00:00:00,new lead
+234,Sergey Popov,Yekaterinburg,VIP,162.42,39.0,sergey.popov@example.com,2024-10-28,2024-09-08 00:00:00,new lead
+235,Sergey Popov,Moscow,,200.83,45.0,sergey.popov@example.com,2024-12-10,2024-01-15 00:00:00,priority client
+235,Sergey Popov,Rostov-on-Don,VIP,200.77,,sergey.popov@example.com,2024-02-09,2024-01-16 00:00:00,priority client
+235,Sergey Popov,Yekaterinburg,B2B,207.43,45.0,sergey.popov@example.com,2024-12-23,2024-01-17 00:00:00,priority client
+236,Sergey Popov,Novosibirsk,retail,223.42,35.0,sergey.popov@example.com,2024-05-08,2024-12-27 00:00:00,new lead
+237,Pavel Ivanov,Ufa,B2B,261.88,N/A,pavel.ivanov@example.com,2024-06-23,2024-11-04 00:00:00,new lead
+237,Pavel Ivanov,Ufa,VIP,198.92,66.0,pavel.ivanov@example.com,2024-11-22,2024-11-05 00:00:00,new lead
+238,Anna Smirnova,Ufa,B2B,237.6,19.0,anna.smirnova@example.com,2024-08-27,,
+238,Anna Smirnova,Rostov-on-Don,retail,255.71,19.0,anna.smirnova@example.com,2024-10-20,2024-04-11 00:00:00,
+238,Anna Smirnova,Rostov-on-Don,VIP,273.24,19.0,anna.smirnova@example.com,2024-08-07,2024-04-12 00:00:00,
+239,Pavel Ivanov,Novosibirsk,VIP,303.06,62.0,pavel.ivanov@example.com,2024-11-16,2024-01-18 00:00:00,priority client
+240,Anna Smirnova,Rostov-on-Don,B2B,274.88,20.0,anna.smirnova@example.com,2024-04-03,2024-06-19 00:00:00,
+241,  Maria Fedorova  ,Samara,  retail  ,280.87,43.0,"	maria.fedorova@example.com
+",2024-04-03,2024-12-18 00:00:00,
+241,Maria Fedorova,Omsk,VIP,295.07,43.0,maria.fedorova@example.com,2024-07-30,2024-12-19 00:00:00,
+242,Maksim Novikov,Rostov-on-Don,VIP,383.65,61.0,maksim.novikov@example.com,2024-03-01,2024-04-06 00:00:00,priority client
+242,Maksim Novikov,Moscow,,452.11,61.0,maksim.novikovexample.com,2024-12-05,2024-04-07 00:00:00,priority client
+243,Anna Smirnova,Kazan,VIP,240.02,33.0,anna.smirnova@example.com,2024-08-29,2024-01-26 00:00:00,priority client
+244,Olga Sokolova,Saint-Petersburg,retail,235.56,24.0,olga.sokolova@example.com,2024-09-19,2024-05-01 00:00:00,new lead
+245,Anna Smirnova,Rostov-on-Don,VIP,377.0,34.0,anna.smirnova@example.com,2024-06-25,2024-04-03 00:00:00,
+245,Anna Smirnova,Rostov-on-Don,B2B,269.21,34.0,anna.smirnova@example.com,2024-08-01,2024-04-04 00:00:00,
+245,  Anna Smirnova  ,ROSTOV-ON-DON,RETAIL,258.44,34.0,anna.smirnova@example.com,2024-12-05,2024-04-05 00:00:00,"	
+"
+246,ivan petrov,Kazan,B2B,273.97,,IVAN.PETROV@EXAMPLE.COM,2024-01-25,2024-08-11 00:00:00,  new lead  
+246,Ivan Petrov,Omsk,retail,186.69,42.0,ivan.petrov@example.com,2024-08-02,2024-08-12 00:00:00,new lead
+247,Sergey Popov,Novosibirsk,VIP,187.95,52.0,sergey.popov@example.com,2024-12-08,2024-04-26 00:00:00,
+247,Sergey Popov,Novosibirsk,B2B,210.84,52.0,sergey.popov@example.com,,,
+248,Maria Fedorova,Novosibirsk,retail,197.72,0,maria.fedorova@example.com,2024-05-21,2024-04-30 00:00:00,new lead
+249,Anna Smirnova,Krasnoyarsk,VIP,316.25,,anna.smirnova@example.com,2024-07-09,,
+250,Olga Sokolova,Novosibirsk,retail,327.47,46.0,olga.sokolova@example.com,2024-06-16,2024-10-19 00:00:00,
+251,Natalia Lebedeva,Kazan,B2B,211.52,,natalia.lebedeva@example.com,2024-11-13,2024-10-31 00:00:00,new lead
+251,Natalia Lebedeva,Kazan,VIP,,22.0,natalia.lebedeva@example.com,2024-08-03,2024-11-01 00:00:00,new lead
+252,Ivan Petrov,Ufa,retail,761.05,61.0,ivan.petrov@example.com,2024-06-27,2024-08-24 00:00:00,
+253,Anna Smirnova,Krasnoyarsk,B2B,146.76,unknown,anna.smirnova@example.com,2024-09-16,2024-11-20 00:00:00,priority client
+254,Sergey Popov,Kazan,retail,101.56,57.0,,2024-08-09,2024-04-22 00:00:00,
+254,,Samara,B2B,98.36,57.0,sergey.popov@example.com,2024-04-19,2024-04-23 00:00:00,
+255,Anna Smirnova,Yekaterinburg,VIP,316.33,30.0,anna.smirnova@example.com,2024-06-08,2024-11-14 00:00:00,priority client
+255,Anna Smirnova,Yekaterinburg,B2B,284.48,0,anna.smirnova@example.com,2024-04-16,2024-11-15 00:00:00,priority client
+256,Elena Morozova,Kazan,retail,162.91,49.0,elena.morozova@example.com,2024-02-23,2024-05-08 00:00:00,
+257,Sergey Popov,  Krasnoyarsk  ,VIP,,32.0,  sergey.popov@example.con  ,2024-01-10,2024-01-25 00:00:00,    
+257,Sergey Popov,Moscow,VIP,256.42,32.0,sergey.popov@example.com,2024-05-27,2024-01-26 00:00:00,
+257,Sergey Popov,Kazan,VIP,301.21,32.0,sergey.popov@example.com,2024-06-02,2024-01-27 00:00:00,
+258,Natalia Lebedeva,Kazan,VIP,-233.25,43.0,natalia.lebedeva@example.com,2024-03-17,2024-09-08 00:00:00,
+259,Elena Morozova,Yekaterinburg,retail,490.05,63.0,elena.morozova@example.com,2024-12-12,2024-09-22 00:00:00,new lead
+260,Maria Fedorova,Kazan,VIP,163.48,32.0,maria.fedorova@example.com,2024-11-20,2024-01-09 00:00:00,priority client
+260,Maria Fedorova,Kazan,VIP,203.99,32.0,maria.fedorova@example.com,2024-01-21,2024-01-10 00:00:00,priority client
+261,Pavel Ivanov,Moscow,B2B,422.39,38.0,pavel.ivanov@example.com,2024-10-30,2024-07-27 00:00:00,
+262,Natalia Lebedeva,,B2B,275.64,57.0,natalia.lebedeva@example.com,2024-06-01,2024-10-29 00:00:00,priority client
+262,Natalia Lebedeva,Moscow,VIP,201.49,57.0,natalia.lebedeva@example.com,2024-06-05,2024-10-30 00:00:00,priority client
+263,Pavel Ivanov,Saint-Petersburg,B2B,61.34,34.0,pavel.ivanov@example.com,2024-07-28,2024-08-07 00:00:00,
+264,Sergey Popov,Novosibirsk,retail,239.32,24.0,sergey.popov@example.com,,2024-01-18 00:00:00,
+265,,Ufa,B2B,416.78,57.0,maksim.novikov@example.com,2024-11-04,2024-10-02 00:00:00,priority client
+266,,,B2B,155.28,36.0,pavel.ivanov@example.com,2024-05-22,2024-02-15 00:00:00,new lead
+267,elena morozova,saint-petersburg,  retail  ,,46.0,elena.morozova@example.com,2024-07-11,2024-03-31 00:00:00,"	
+"
+267,Elena Morozova,Saint-Petersburg,B2B,117.49,46.0,elena.morozovaexample.com,2024-07-21,2024-04-01 00:00:00,
+268,Olga Sokolova,Samara,B2B,842.79,36.0,olga.sokolova@example.com,2024-03-27,2024-05-22 00:00:00,
+269,Anna Smirnova,Samara,B2B,205.37,57.0,anna.smirnova@example.com,2024-02-05,2024-11-01 00:00:00,
+270,Maksim Novikov,Saint-Petersburg,B2B,213.38,31.0,maksim.novikov@example.com,2024-10-29,2024-01-22 00:00:00,
+270,Maksim Novikov,Saint-Petersburg,VIP,240.05,31.0,maksim.novikov@example.com,2024-12-02,2024-01-23 00:00:00,
+271,Dmitry Kozlov,Omsk,retail,196.25,54.0,dmitry.kozlov@example.com,2024-06-30,2024-12-30 00:00:00,priority client
+272,,Rostov-on-Don,VIP,193910000.0,,,2024-11-06,2024-05-27 00:00:00,priority client
+272,,Rostov-on-Don,VIP,161.31,26.0,olga.sokolova@example.com,2024-07-31,2024-05-28 00:00:00,priority client
+273,Elena Morozova,Krasnoyarsk,VIP,294.87,61.0,elena.morozova@example.com,2024-11-14,2024-12-22 00:00:00,new lead
+274,Anna Smirnova,Rostov-on-Don,B2B,113.74,64.0,anna.smirnova@example.com,1900-01-01,,
+275,Sergey Popov,Moscow,retail,96.7,37.0,sergey.popov@example.com,2024-05-14,2024-04-06 00:00:00,new lead
+275,Sergey Popov,Saint-Petersburg,B2B,102.67,37.0,sergey.popov@example.com,2024-02-28,2024-04-07 00:00:00,new lead
+276,Natalia Lebedeva,Saint-Petersburg,retail,332.0,37.0,natalia.lebedeva@example.com,2024-11-08,,
+277,Maksim Novikov,,B2B,389.15,37.0,maksim.novikov@example.com,2024-12-06,2024-12-03 00:00:00,
+278,ELENA MOROZOVA,UFA,  None  ,766.36,63.0,ELENA.MOROZOVA@EXAMPLE.COM,2024-08-16,2024-01-13 00:00:00,"	
+"
+278,Elena Morozova,Novosibirsk,B2B,742.67,63.0,elena.morozova@example.com,not-a-date,,
+279,Sergey Popov,Krasnoyarsk,B2B,201.35,63.0,sergey.popov@example.com,2024-06-02,2024-09-06 00:00:00,priority client
+280,Dmitry Kozlov,Omsk,retail,230.84,19.0,dmitry.kozlov@example.com,2024-07-19,2024-11-29 00:00:00,
+280,Dmitry Kozlov,"	None
+",vip,195.05,19.0,dmitry.kozlov@example.com,2024-10-21,2024-11-30 00:00:00,    
+281,Natalia Lebedeva,Rostov-on-Don,B2B,317.46,37.0,natalia.lebedeva@example.com,2024-04-03,,
+281,Natalia Lebedeva,Saint-Petersburg,retail,268.99,37.0,natalia.lebedeva@example.com,2024-08-18,2024-10-30 00:00:00,
+281,Natalia Lebedeva,Rostov-on-Don,VIP,291.61,37.0,natalia.lebedeva@example.com,,2024-10-31 00:00:00,
+282,Elena Morozova,Ufa,B2B,364.01,58.0,elena.morozova@example.com,2024-10-30,2024-05-03 00:00:00,
+283,Ivan Petrov,Samara,retail,,30.0,ivan.petrov@example.com,2024-07-19,,
+284,Anna Smirnova,,VIP,457.46,46.0,anna.smirnova@example.com,2024-03-27,2024-01-10 00:00:00,
+285,OLGA SOKOLOVA,Krasnoyarsk,Retail,551.85,31.0,OLGA.SOKOLOVA@EXAMPLE.COM,2024-09-04,2024-07-07 00:00:00,"	
+"
+285,Olga Sokolova,Krasnoyarsk,retail,477.22,N/A,olga.sokolova@example.com,2024-08-08,2024-07-08 00:00:00,
+286,"	Elena Morozova
+",  Yekaterinburg  ,VIP,260950000.0,42.0,elena.morozova@example.com,2024-07-17,2024-05-15 00:00:00,    
+286,ELENA MOROZOVA,YEKATERINBURG,  retail  ,181.6,42.0,"	elena.morozova@example.com
+",2024-12-05,2024-05-16 00:00:00,"	
+"
+287,Anna Smirnova,Ufa,VIP,345.41,24.0,anna.smirnova@example.com,2024-08-07,2024-01-02 00:00:00,priority client
+288,Olga Sokolova,,VIP,227.39,41.0,olga.sokolova@example.com,,,new lead
+289,Ivan Petrov,Kazan,retail,323.06,51.0,ivan.petrov@example.com,2024-07-26,2024-12-10 00:00:00,
+290,Maksim Novikov,Saint-Petersburg,VIP,143.66,67.0,maksim.novikov@example.com,2024-06-17,2024-02-22 00:00:00,
+290,MAKSIM NOVIKOV,kazan,Retail,136.65,67.0,Maksim.Novikov@Example.Com,2024-08-12,2024-02-23 00:00:00,"	
+"
+291,Pavel Ivanov,Moscow,retail,188.69,25.0,pavel.ivanov,2024-03-13,2024-04-19 00:00:00,priority client
+291,Pavel Ivanov,msc,VIP,,25.0,pavel.ivanov@example.com,2024-05-08,2024-04-20 00:00:00,priority client
+292,Elena Morozova,Kazan,retail,259.18,63.0,elena.morozova@example.com,2024-05-06,2024-07-23 00:00:00,new lead
+292,Elena Morozova,Moscow,retail,241.81,63.0,elena.morozova@example.com,2024-05-05,2024-07-24 00:00:00,new lead
+293,Pavel Ivanov,Samara,retail,160.66,30.0,pavel.ivanov@example.com,2024-03-17,2024-08-12 00:00:00,priority client
+294,Anna Smirnova,Rostov-on-Don,B2B,269.14,32.0,anna.smirnova@example.com,2024-04-16,2024-04-06 00:00:00,
+294,Anna Smirnova,Rostov-on-Don,B2B,273.33,32.0,anna.smirnova@example.com,,2024-04-07 00:00:00,
+295,Maksim Novikov,Krasnoyarsk,B2B,108.8,52.0,maksim.novikov@example.com,2024-11-28,2024-06-14 00:00:00,
+295,Maksim Novikov,Ufa,retail,97.7,N/A,,2024-12-04,2024-06-15 00:00:00,
+296,Maria Fedorova,Moscow,VIP,,27.0,,2024-10-21,2024-07-24 00:00:00,priority client
+297,Maksim Novikov,Kazan,VIP,332.27,47.0,,2024-05-25,2024-04-14 00:00:00,priority client
+298,Ivan Petrov,Moscow,B2B,152.96,54.0,,2024-05-04,2024-01-25 00:00:00,new lead
+299,SERGEY POPOV,samara,retail,205.67,58.0,  sergey.popov@example.com  ,2024-03-28,2024-05-11 00:00:00,NEW LEAD
+299,"	Sergey Popov
+","	Samara
+",Vip,227.07,58.0,SERGEY.POPOV@EXAMPLE.COM,2024-03-01,2024-05-12 00:00:00,New Lead
+300,Natalia Lebedeva,Rostov-on-Don,retail,292.47,67.0,natalia.lebedeva@example.com,2024-07-17,,
+300,Natalia Lebedeva,Rostov-on-Don,retail,280.54,67.0,natalia.lebedeva@example.com,2024-01-12,2024-10-27 00:00:00,
+301,,Saint-Petersburg,retail,562.78,44.0,elena.morozova@example.com,,2024-04-23 00:00:00,
+301,Elena Morozova,Kazan,,512.55,44.0,,2024-01-27,2024-04-24 00:00:00,
+302,Maria Fedorova,Ufa,B2B,227.81,30.0,maria.fedorova@example.com,2024-05-27,2024-12-27 00:00:00,new lead
+303,Sergey Popov,Krasnoyarsk,B2B,149.01,18.0,,2024-04-02,2024-03-02 00:00:00,priority client
+304,Natalia Lebedeva,Ufa,B2B,228.66,56.0,,2024-03-13,2024-04-19 00:00:00,new lead
+304,,Saint-Petersburg,VIP,252.23,56.0,natalia.lebedeva@example.com,2024-07-21,2024-04-20 00:00:00,new lead
+305,Anna Smirnova,Ufa,retail,84.49,33.0,anna.smirnova@example.com,2024-03-04,2024-07-13 00:00:00,
+305,"	Anna Smirnova
+",  Samara  ,  B2B  ,88.57,33.0,"	anna.smirnova@example.con
+",2024-03-05,2024-07-14 00:00:00,    
+306,Olga Sokolova,Samara,B2B,96.63,28.0,olga.sokolova@example.com,2024-02-09,2024-11-01 00:00:00,new lead
+307,Sergey Popov,Samara,retail,250.78,22.0,sergey.popov@example.com,,2024-07-10 00:00:00,new lead
+307,Sergey Popov,Omsk,VIP,288.11,22.0,sergey.popov@example.com,2024-08-26,,new lead
+308,none,omsk,"	VIP
+",288.08,60.0,"	sergey.popov@example.com
+",2024-02-29,2024-04-13 00:00:00,    
+308,Sergey Popov,Omsk,B2B,270.89,60.0,sergey.popov@example.com,,2024-04-14 00:00:00,
+309,Elena Morozova,Novosibirsk,B2B,197.41,57.0,elena.morozova@example.com,2024-10-14,2024-02-12 00:00:00,priority client
+310,"	Anna Smirnova
+",  Saint-Petersburg  ,  retail  ,143.59,23.0,Anna.Smirnova@Example.Com,2024-07-30,2024-07-15 00:00:00,New Lead
+310,Anna Smirnova,Saint-Petersburg,retail,192.76,,anna.smirnova@example.com,2024-12-07,2024-07-16 00:00:00,new lead
+311,Sergey Popov,Saint-Petersburg,VIP,247.73,62.0,sergey.popov@example.com,2024-09-05,2024-07-13 00:00:00,priority client
+311,Sergey Popov,Saint-Petersburg,,178.83,62.0,sergey.popov@example.com,,2024-07-14 00:00:00,priority client
+312,Elena Morozova,Moscow,VIP,352.03,21.0,elena.morozova@example.com,2024-11-25,2024-03-08 00:00:00,
+313,Maria Fedorova,Ufa,B2B,192.47,26.0,maria.fedorova@example.com,2024-07-09,2024-07-22 00:00:00,priority client
+314,Anna Smirnova,Samara,VIP,349.01,32.0,anna.smirnova@example.com,2024-11-16,2024-01-20 00:00:00,
+315,Sergey Popov,Moscow,VIP,170.75,67.0,sergey.popov@example.com,2024-02-17,2024-09-25 00:00:00,new lead
+316,  Dmitry Kozlov  ,omsk,"	VIP
+",185.89,29.0,DMITRY.KOZLOV@EXAMPLE.COM,2024-06-29,2024-08-25 00:00:00,"	
+"
+316,Dmitry Kozlov,,VIP,224.26,29.0,dmitry.kozlov@example.com,2024-04-08,2024-08-26 00:00:00,
+317,Olga Sokolova,Novosibirsk,B2B,281.38,64.0,olga.sokolova@example.com,2024-01-24,2024-08-02 00:00:00,
+318,Olga Sokolova,SAINT-PETERSBURG,  VIP  ,,0,OLGA.SOKOLOVA@EXAMPLE.COM,2024-10-03,2024-07-14 00:00:00,  priority client  
+319,Elena Morozova,Saint-Petersburg,VIP,161.12,68.0,elena.morozova@example.com,2024-07-10,2024-09-06 00:00:00,priority client
+319,Elena Morozova,Saint-Petersburg,retail,151.26,68.0,elena.morozova@example.com,2024-10-31,2024-09-07 00:00:00,priority client
+320,Sergey Popov,Krasnoyarsk,VIP,489.0,24.0,sergey.popov@example.com,2024-01-07,2024-06-16 00:00:00,
+321,Maksim Novikov,Kazan,retail,192.42,19.0, maksim.novikov@example.com,2024-07-15,2024-07-12 00:00:00,priority client
+322,Pavel Ivanov,Kazan,,336.08,18.0,pavel.ivanov@example.com,2024-05-29,2024-03-21 00:00:00,priority client
+323,ELENA MOROZOVA,OMSK,"	retail
+",607.56,19.0,"	elena.morozova@example.com
+",2024-08-23,2024-08-13 00:00:00,  new lead  
+324,Pavel Ivanov,Krasnoyarsk,B2B,149.91,49.0,pavel.ivanov@example.com,2024-02-15,2024-06-02 00:00:00,new lead
+325,Anna Smirnova,Novosibirsk,VIP,181.36,37.0,anna.smirnova@example.com,2024-08-04,2024-12-19 00:00:00,priority client
+326,Ivan Petrov,Ufa,retail,183.59,20.0,ivan.petrov@example.com,,,
+327,Sergey Popov,Omsk,,133.05,41.0,sergey.popov@example.com,2024-07-21,2024-12-30 00:00:00,
+328,"	Elena Morozova
+","	Kazan
+",B2B,317.67,18.0,elena.morozova@example.com,2024-06-22,2024-08-02 00:00:00,  priority client  
+328,Elena Morozova,Kazan,VIP,319.55,,elena.morozova@example.com,2024-05-13,2024-08-03 00:00:00,priority client
+329,Maria Fedorova,Moscow,retail,136.22,55.0,maria.fedorova@example.com,2024-03-30,2024-11-29 00:00:00,
+330,Pavel Ivanov,Novosibirsk,retail,161.94,52.0,pavel.ivanov@example.com,2024-06-01,2024-09-28 00:00:00,priority client
+330,Pavel Ivanov,Saint-Petersburg,B2B,,52.0,pavel.ivanov@example.com,1900-01-01,,priority client
+331,Natalia Lebedeva,Krasnoyarsk,B2B,,63.0,natalia.lebedeva@example.com,2024-09-08,2024-05-02 00:00:00,
+331,Natalia Lebedeva,Samara,B2B,163.95,63.0,natalia.lebedeva@example.com,2024-02-27,2024-05-03 00:00:00,
+331,Natalia Lebedeva,Samara,B2B,201.61,63.0,natalia.lebedeva@example.com,2024-09-28,2024-05-04 00:00:00,
+332,Olga Sokolova,Ufa,B2B,121.49,48.0,olga.sokolova@example.com,2024-04-03,2024-03-07 00:00:00,
+333,  Sergey Popov  ,SAINT-PETERSBURG,"	B2B
+",93.91,42.0,Sergey.Popov@Example.Com,2024-09-05,2024-08-26 00:00:00,
+334,Maria Fedorova,Kazan,retail,540.33,54.0,maria.fedorova@example.com,2024-03-11,2024-08-09 00:00:00,
+335,Olga Sokolova,Samara,retail,119.78,21.0,olga.sokolova@example.com,2024-12-04,2024-10-15 00:00:00,new lead
+336,Ivan Petrov,Yekaterinburg,retail,174.25,60.0,ivan.petrov@example.com,2024-11-07,2024-03-17 00:00:00,
+337,Dmitry Kozlov,Kazan,retail,102.56,68.0,dmitry.kozlov@example.com,2024-05-24,2024-01-31 00:00:00,
+338,Ivan Petrov,Rostov-on-Don,,204.02,58.0,ivan.petrov@example.com,,2024-11-20 00:00:00,priority client
+338,Ivan Petrov,Rostov-on-Don,retail,204.57,58.0,ivan.petrov@example.com,2024-10-05,2024-11-21 00:00:00,priority client
+339,Pavel Ivanov,Samara,VIP,189.07,,pavel.ivanov@example.com,2024-06-22,2024-08-04 00:00:00,new lead
+340,Olga Sokolova,Ufa,VIP,585.88,18.0,olga.sokolova@example.com,2024-05-17,2024-08-21 00:00:00,new lead
+341,Elena Morozova,Moscow,B2B,,24.0,elena.morozova@example.com,2024-08-13,2024-09-18 00:00:00,
+342,"	Ivan Petrov
+","	Rostov-on-Don
+",none,151.58,52.0,ivan.petrov@example.com,2024-06-12,2024-06-11 00:00:00,
+343,  Elena Morozova  ,KRASNOYARSK,B2B,166.56,59.0,Elena.Morozova@Example.Com,2024-11-19,2024-03-16 00:00:00,    
+343,Elena Morozova,Krasnoyarsk,VIP,165.77,59.0,elena.morozova@example.con,2024-08-09,2024-03-17 00:00:00,
+344,  Sergey Popov  ,Samara,"	retail
+",304950000.0,49.0,"	sergey.popov@example.com
+",2024-10-19,2024-08-06 00:00:00,
+345,Ivan Petrov,Omsk,VIP,168.89,40.0,ivan.petrov@example.com,2024-02-22,2024-03-07 00:00:00,
+346,Natalia Lebedeva,Omsk,B2B,651.11,56.0,natalia.lebedeva@example.com,2024-01-05,2024-11-13 00:00:00,
+346,Natalia Lebedeva,Saint-Petersburg,retail,,56.0,natalia.lebedeva@example.com,2024-11-26,2024-11-14 00:00:00,
+347,Sergey Popov,Ufa,retail,197.3,60.0,sergey.popov@example.com,2024-04-25,2024-07-15 00:00:00,
+347,Sergey Popov,Krasnoyarsk,B2B,,60.0,sergey.popov@example.com,2024-10-18,2024-07-16 00:00:00,
+348,,Kazan,B2B,441.17,65.0,sergey.popov@example.com,2024-04-06,2024-01-18 00:00:00,
+348,Sergey Popov,Kazan,retail,427.35,65.0,sergey.popov@example.com,2024-01-31,2024-01-19 00:00:00,
+348,Sergey Popov,Kazan,B2B,409.22,65.0,sergey.popov@example.com,2024-09-14,2024-01-20 00:00:00,
+349,Pavel Ivanov,Saint-Petersburg,VIP,-377.43,57.0,pavel.ivanov@example.com,2024-04-12,2024-12-08 00:00:00,
+349,Pavel Ivanov,Saint-Petersburg,VIP,346.34,57.0,pavel.ivanov@example.com,2024-04-20,2024-12-09 00:00:00,
+350,,Omsk,VIP,278.2,69.0,olga.sokolova@example.com,2024-02-29,2024-08-25 00:00:00,priority client
+350,Olga Sokolova,Novosibirsk,retail,241.68,69.0,olga.sokolova@example.com,2024-01-23,2024-08-26 00:00:00,priority client
+351,Anna Smirnova,Yekaterinburg,,139.36,27.0,anna.smirnova@example.com,2024-03-26,2024-06-04 00:00:00,
+351,Anna Smirnova,Novosibirsk,VIP,126.8,,anna.smirnova@example.com,2024-11-24,2024-06-05 00:00:00,
+352,PAVEL IVANOV,  Saint-Petersburg  ,vip,239.68,18.0,pavel.ivanov@example.com,,2024-08-05 00:00:00,  priority client  
+352,Pavel Ivanov,Saint-Petersburg,B2B,248.7,18.0, pavel.ivanov@example.com,2024-05-28,2024-08-06 00:00:00,priority client
+353,Natalia Lebedeva,Rostov-on-Don,VIP,194.97,51.0,natalia.lebedeva@example.com,2024-04-19,,
+354,Maria Fedorova,Krasnoyarsk,B2B,172.24,36.0,maria.fedorova@example.com,2024-06-19,2024-11-30 00:00:00,
+355,Elena Morozova,Saint-Petersburg,B2B,362.7,34.0,elena.morozova@example.com,2024-03-25,2024-09-09 00:00:00,
+355,Elena Morozova,Novosibirsk,B2B,491.44,34.0,elena.morozova@example.com,2024-02-05,2024-09-10 00:00:00,
+356,Dmitry Kozlov,,retail,133.12,35.0,,2024-11-12,2024-02-16 00:00:00,
+356,Dmitry Kozlov,Omsk,VIP,121.76,35.0,dmitry.kozlov@example.com,2024-08-16,,
+356,Dmitry Kozlov,st.petersburg,B2B,153.95,35.0,dmitry.kozlov@example.com,2024-12-08,2024-02-18 00:00:00,
+357,Natalia Lebedeva,Moscow,B2B,222.54,47.0,natalia.lebedeva@example.com,2024-03-12,2024-04-16 00:00:00,priority client
+357,Natalia Lebedeva,Rostov-on-Don,B2B,268.18,47.0,natalia.lebedeva@example.com,2024-03-19,2024-04-17 00:00:00,priority client
+358,  Anna Smirnova  ,saint-petersburg,vip,310.4,51.0,  anna.smirnova@example.com  ,2024-04-23,2024-10-04 00:00:00,"	new lead
+"
+359,Maksim Novikov,Krasnoyarsk,VIP,250.14,65.0,maksim.novikovexample.com,2024-03-18,2024-01-23 00:00:00,
+360,Ivan Petrov,Rostov-on-Don,VIP,605.55,23.0,ivan.petrov@example.com,2024-11-07,2024-02-23 00:00:00,new lead
+360,Ivan Petrov,,retail,639.82,23.0,ivan.petrov@example.com,2024-09-29,2024-02-24 00:00:00,new lead
+361,Elena Morozova,Krasnoyarsk,VIP,528.31,,elena.morozova@example.com,2024-10-21,2024-10-14 00:00:00,
+361,"	Elena Morozova
+",Krasnoyarsk,retail,521.38,27.0,"	elena.morozova@example.com
+",2024-05-06,2024-10-15 00:00:00,
+362,ivan petrov,None,vip,145.34,43.0,"	ivan.petrov@example.com
+",2024-06-12,2024-02-18 00:00:00,    
+363,Anna Smirnova,Novosibirsk,retail,151.93,67.0,anna.smirnova@example.com,2024-10-14,2024-12-01 00:00:00,new lead
+363,Anna Smirnova,,VIP,153.18,67.0,anna.smirnova@example.com,2024-04-19,2024-12-02 00:00:00,new lead
+364,Olga Sokolova,Ufa,VIP,288.33,39.0,olga.sokolova@example.com,2024-06-27,2024-12-12 00:00:00,priority client
+364,Olga Sokolova,Rostov-on-Don,VIP,292.74,39.0,olga.sokolova@example.com,2024-10-22,2024-12-13 00:00:00,priority client
+364,Olga Sokolova,Rostov-on-Don,retail,327.01,39.0,olga.sokolova@example.com,2024-04-22,2024-12-14 00:00:00,priority client
+365,Elena Morozova,Omsk,B2B,119.63,43.0,elena.morozova@example.com,2024-10-05,2024-12-23 00:00:00,
+366,Sergey Popov,Omsk,VIP,192.58,53.0,,2024-09-14,2024-07-26 00:00:00,new lead
+366,Sergey Popov,Moscow,VIP,208.19,53.0,sergey.popov@example.com,2024-02-21,2024-07-27 00:00:00,new lead
+367,Elena Morozova,Saint-Petersburg,retail,329.35,34.0,elena.morozova@example.com,2024-11-02,2024-03-10 00:00:00,
+368,Maksim Novikov,Samara,B2B,317.78,51.0,maksim.novikov@example.com,2024-09-22,2024-09-19 00:00:00,new lead
+369,Maria Fedorova,Novosibirsk,retail,95.37,48.0,maria.fedorova@example.com,2024-02-18,2024-06-23 00:00:00,
+369,Maria Fedorova,Novosibirsk,VIP,101.88,48.0,maria.fedorova@example.com,2024-01-10,2024-06-24 00:00:00,
+370,Pavel Ivanov,,B2B,185.58,42.0,pavel.ivanov@example.com,2024-01-27,2024-04-27 00:00:00,new lead
+371,Sergey Popov,Saint-Petersburg,B2B,327.37,43.0,sergey.popov@example.com,2024-09-26,2024-03-11 00:00:00,
+371,Sergey Popov,Novosibirsk,VIP,292.16,43.0,sergey.popov@example.com,2024-04-29,2024-03-12 00:00:00,
+372,Sergey Popov,,VIP,373.62,18.0,sergey.popov@example.com,2024-02-03,2024-05-28 00:00:00,
+372,,Ufa,retail,318.64,18.0,sergey.popov@example.com,2024-11-05,2024-05-29 00:00:00,
+373,Sergey Popov,Moscow,B2B,165.01,35.0,sergey.popovexample.com,2024-11-18,2024-07-24 00:00:00,new lead
+374,Dmitry Kozlov,Novosibirsk,B2B,297.4,27.0,dmitry.kozlov@example.com,2024-07-02,2024-09-12 00:00:00,
+374,Dmitry Kozlov,Novosibirsk,B2B,216.94,27.0,dmitry.kozlov@example.com,2024-11-18,2024-09-13 00:00:00,
+375,Olga Sokolova,Yekaterinburg,retail,383.53,58.0,olga.sokolova@example.com,2024-04-19,2024-06-29 00:00:00,
+376,Anna Smirnova,Kazan,,405.71,36.0,anna.smirnova@example.com,2024-04-10,2024-05-06 00:00:00,
+376,Anna Smirnova,Kazan,VIP,434.61,36.0,anna.smirnova@example.com,2024-08-01,2024-05-07 00:00:00,
+377,Maksim Novikov,Omsk,VIP,277.74,45.0,maksim.novikov@example.com,2024-11-08,2024-11-12 00:00:00,
+378,"	Pavel Ivanov
+",Novosibirsk,b2b,304.98,45.0,  pavel.ivanov@example.com  ,2024-12-14,2024-04-18 00:00:00,PRIORITY CLIENT
+379,Pavel Ivanov,Novosibirsk,VIP,307.74,47.0,,2024-07-19,2024-12-18 00:00:00,new lead
+379,Pavel Ivanov,Novosibirsk,VIP,308.13,47.0,pavel.ivanov@example.com,2024-11-16,2024-12-19 00:00:00,new lead
+380,Pavel Ivanov,Rostov-on-Don,B2B,418.83,25.0,pavel.ivanov@example.com,2024-09-23,2024-01-28 00:00:00,
+380,Pavel Ivanov,Rostov-on-Don,B2B,411.31,25.0,pavel.ivanov@example.com,2024-02-10,2024-01-29 00:00:00,
+381,Olga Sokolova,Rostov-on-Don,B2B,151.01,39.0,olga.sokolova@example.com,2024-04-01,2024-05-14 00:00:00,new lead
+381,Olga Sokolova,Rostov-on-Don,VIP,164.93,39.0,olga.sokolova@example.con,2024-12-30,2024-05-15 00:00:00,new lead
+382,Natalia Lebedeva,Yekaterinburg,VIP,83.26,24.0,natalia.lebedeva@example.com,2024-09-18,2024-10-14 00:00:00,
+383,Olga Sokolova,Yekaterinburg,B2B,260.95,20.0,olga.sokolova@example.com,2024-05-08,2024-02-26 00:00:00,priority client
+383,,Kazan,B2B,241.78,20.0,olga.sokolova@example.com,2024-07-11,2024-02-27 00:00:00,
+384,Maria Fedorova,Rostov-on-Don,B2B,124.96,25.0,maria.fedorova@example.com,2024-04-30,2024-12-27 00:00:00,new lead
+384,Maria Fedorova,Samara,VIP,140.74,25.0,maria.fedorova@example.com,2024-04-25,2024-12-28 00:00:00,new lead
+384,Maria Fedorova,Rostov-on-Don,,166.32,25.0,maria.fedorova@example.com,2024-04-06,2024-12-29 00:00:00,new lead
+385,Sergey Popov,Novosibirsk,VIP,182.09,66.0,sergey.popov@example.com,2024-09-09,2024-01-14 00:00:00,
+385,Sergey Popov,Novosibirsk,retail,188.49,66.0,sergey.popov@example.com,2024-02-28,2024-01-15 00:00:00,
+386,Pavel Ivanov,Rostov-on-Don,B2B,258510000.0,69.0,pavel.ivanov@example.com,31-02-2024,,
+387,Maksim Novikov,spb,VIP,90.88,59.0,maksim.novikov@example.com,2024-06-25,2024-04-19 00:00:00,priority client
+387,Maksim Novikov,Saint-Petersburg,,92.33,59.0,maksim.novikov@example.com,2024-04-23,2024-04-20 00:00:00,priority client
+388,Dmitry Kozlov,,B2B,96.13,N/A,dmitry.kozlov@example.com,not-a-date,,
+389,,Ufa,B2B,123.86,46.0,natalia.lebedeva@example.com,2024-09-30,2024-03-13 00:00:00,new lead
+389,Natalia Lebedeva,Ufa,retail,92.13,46.0,natalia.lebedeva@example.com,2024-08-13,2024-03-14 00:00:00,new lead
+390,Olga Sokolova,,retail,257.18,43.0,olga.sokolovaexample.com,2024-03-25,2024-10-24 00:00:00,new lead
+390,  Olga Sokolova  ,"	Rostov-on-Don
+",None,235.18,43.0,olga.sokolova@example.com,2024-09-18,2024-10-25 00:00:00,New Lead
+391,Ivan Petrov,Samara,B2B,394.71,,ivan.petrov@example.com,,2024-09-28 00:00:00,new lead
+391,Ivan Petrov,Samara,VIP,,19.0,ivan.petrov@example.com,2024-07-08,2024-09-29 00:00:00,new lead
+392,Olga Sokolova,Samara,B2B,,67.0,,1900-01-01,,
+392,Olga Sokolova,Samara,retail,,67.0,olga.sokolova@example.com,not-a-date,2024-99-99 25:61:61,
+392,Olga Sokolova,Samara,retail,224.75,67.0,olga.sokolova@example.com,2024-10-18,2024-08-12 00:00:00,
+393,Elena Morozova,Saint-Petersburg,VIP,429.02,44.0,elena.morozova@example.com,2024-12-23,2024-01-18 00:00:00,priority client
+393,Elena Morozova,Saint-Petersburg,B2B,328.89,44.0,elena.morozova@example.com,2024-01-07,2024-01-19 00:00:00,priority client
+394,Pavel Ivanov,Novosibirsk,B2B,119.37,35.0,pavel.ivanov@example.com,2024-07-17,2024-09-24 00:00:00,
+395,,Novosibirsk,VIP,307.99,68.0,natalia.lebedeva@example.com,2024-02-11,2024-02-28 00:00:00,
+396,Natalia Lebedeva,Rostov-on-Don,VIP,148.82,32.0,natalia.lebedeva@example.com,2024-10-18,2024-01-15 00:00:00,priority client
+397,Ivan Petrov,Kazan,retail,440.06,49.0,ivan.petrov@example.com,2024-11-26,2024-01-28 00:00:00,new lead
+398,Olga Sokolova,  Novosibirsk  ,VIP,332.38,47.0,"	olga.sokolova@example.com
+",2024-04-21,2024-03-22 00:00:00,"	
+"
+398,Olga Sokolova,Novosibirsk,VIP,432740000.0,47.0,olga.sokolova@example.con,2024-11-20,2024-03-23 00:00:00,
+399,  Maksim Novikov  ,  None  ,  None  ,411.89,41.0,  maksim.novikov@example.com  ,2024-01-17,2024-01-27 00:00:00,"	
+"
+400,Olga Sokolova,Kazan,,128.09,57.0,olga.sokolova@example.com,2024-02-11,2024-05-22 00:00:00,
+400,Olga Sokolova,Kazan,retail,104.53,57.0,olga.sokolova@example.com,2024-06-25,2024-05-23 00:00:00,
+400,Olga Sokolova,Kazan,retail,119.9,57.0,olga.sokolova@example.com,2024-04-05,2024-05-24 00:00:00,
+401,Sergey Popov,Krasnoyarsk,retail,175.4,20.0,sergey.popov@example.com,2024-04-06,2024-04-14 00:00:00,new lead
+401,Sergey Popov,Saint-Petersburg,B2B,159.17,20.0,,2024-02-17,2024-04-15 00:00:00,new lead
+401,Sergey Popov,Krasnoyarsk,VIP,164.12,20.0,sergey.popov@example.com,2024-08-11,2024-04-16 00:00:00,new lead
+402,Ivan Petrov,Ufa,retail,218.06,28.0,ivan.petrov@example.com,2024-07-28,2024-08-07 00:00:00,
+402,Ivan Petrov,Ufa,VIP,201.28,28.0,ivan.petrov@example.com,2024-09-10,2024-08-08 00:00:00,
+403,Pavel Ivanov,Kazan,retail,142.7,38.0,pavel.ivanov@example.com,,2024-05-04 00:00:00,new lead
+404,  Maria Fedorova  ,  Omsk  ,VIP,433.32,57.0,Maria.Fedorova@Example.Com,2024-08-06,2024-07-07 00:00:00,"	
+"
+405,Sergey Popov,Saint-Petersburg,VIP,99.41,,sergey.popov@example.com,2024-07-14,2024-07-03 00:00:00,
+405,Sergey Popov,Omsk,retail,82.15,31.0,sergey.popov@example.com,,2024-07-04 00:00:00,
+406,Maksim Novikov,Ufa,VIP,476.82,27.0,maksim.novikov@example.com,2024-10-05,2024-11-09 00:00:00,priority client
+407,  Ivan Petrov  ,SAMARA,Retail,,33.0,"	ivan.petrov@example.com
+",2024-11-20,2024-02-27 00:00:00,new lead
+408,Sergey Popov,Omsk,VIP,243.64,39.0,sergey.popov@example.com,2024-05-23,2024-09-04 00:00:00,
+408,Sergey Popov,Omsk,,290.87,39.0,sergey.popov@example.com,2024-03-28,2024-09-05 00:00:00,
+408,Sergey Popov,Omsk,,228.52,39.0,sergey.popov@example.com,2024-11-04,2024-09-06 00:00:00,
+409,,Saint-Petersburg,VIP,-413.56,49.0,elena.morozova@example.com,2024-04-18,2024-07-27 00:00:00,
+409,Elena Morozova,Yekaterinburg,VIP,,49.0,elena.morozova@example.com,,2024-07-28 00:00:00,
+410,Elena Morozova,Novosibirsk,B2B,616.26,37.0,elena.morozova@example.com,2024-08-12,2024-08-09 00:00:00,
+411,Maksim Novikov,Novosibirsk,VIP,311.26,30.0,maksim.novikov@example.com,2024-06-03,2024-12-27 00:00:00,
+412,Natalia Lebedeva,Rostov-on-Don,retail,243.59,22.0,natalia.lebedeva@example.com,2024-07-28,2024-06-02 00:00:00,
+413,Pavel Ivanov,Saint-Petersburg,B2B,312.03,60.0,,2024-09-24,2024-11-17 00:00:00,priority client
+414,ivan petrov,KAZAN,  retail  ,129.58,64.0,Ivan.Petrov@Example.Com,2024-09-23,2024-05-19 00:00:00,    
+414,Ivan Petrov,Kazan,retail,134.98,64.0,ivan.petrov@example.com,2024-03-01,2024-05-20 00:00:00,
+415,,Yekaterinburg,B2B,231.96,51.0,ivan.petrov@example.com,2024-08-09,2024-12-17 00:00:00,
+415,Ivan Petrov,Yekaterinburg,B2B,283.32,51.0,ivan.petrov@example.com,2024-03-31,2024-12-18 00:00:00,
+416,,Samara,B2B,467.77,29.0,maksim.novikov@example.com,2024-09-21,2024-06-22 00:00:00,priority client
+417,Dmitry Kozlov,Moscow,retail,262.51,59.0,dmitry.kozlov@example.com,2024-02-02,2024-01-06 00:00:00,new lead
+418,Dmitry Kozlov,Omsk,VIP,158.14,62.0,dmitry.kozlov@example.com,,2024-09-28 00:00:00,
+419,Elena Morozova,Omsk,retail,203.77,32.0,elena.morozova@example.com,2024-12-04,2024-01-05 00:00:00,priority client
+420,Sergey Popov,Samara,B2B,137.81,59.0,user_at_example.com,2024-10-15,,
+421,Sergey Popov,Omsk,B2B,,37.0,sergey.popov@example.com,2024-09-05,2024-05-26 00:00:00,
+421,Sergey Popov,Rostov-on-Don,,141.91,37.0,user_at_example.com,2024-07-01,2024-05-27 00:00:00,
+422,Maksim Novikov,Kazan,retail,366.99,,maksim.novikov@example.com,,2024-12-06 00:00:00,priority client
+423,Sergey Popov,Saint-Petersburg,,138.52,29.0,sergey.popov@example.com,2024-01-05,2024-09-11 00:00:00,new lead
+424,Pavel Ivanov,Ufa,B2B,-206.81,,pavel.ivanov@example.com,2024-06-28,2024-08-24 00:00:00,new lead
+424,Pavel Ivanov,Saint-Petersburg,retail,,29.0,user_at_example.com,,2024-08-25 00:00:00,new lead
+425,Elena Morozova,Kazan,B2B,301.77,41.0,elena.morozova@example.com,2024-08-17,2024-10-14 00:00:00,new lead
+426,Maria Fedorova,Samara,VIP,408.26,29.0,maria.fedorova@example.com,2024-06-06,2024-09-19 00:00:00,
+427,Natalia Lebedeva,Omsk,retail,1054.79,50.0,natalia.lebedeva@example.com,2024-08-17,2024-06-01 00:00:00,
+427,natalia lebedeva,  Omsk  ,VIP,844.46,50.0,  natalia.lebedeva@example.com  ,2024-05-14,2024-06-02 00:00:00,
+428,Sergey Popov,Kazan,retail,280.13,46.0,sergey.popov@example.com,2024-10-13,2024-08-14 00:00:00,priority client
+428,Sergey Popov,Kazan,retail,283.0,46.0,sergey.popov@example.com,2024-05-31,2024-08-15 00:00:00,priority client
+429,Sergey Popov,Omsk,,-315.33,62.0,sergey.popov@example.com,31-02-2024,2024-99-99 25:61:61,new lead
+430,Pavel Ivanov,Moscow,VIP,284.49,44.0,user_at_example.com,2024-04-13,2024-01-27 00:00:00,
+430,Pavel Ivanov,Moscow,VIP,280.61,unknown,pavel.ivanov@example.com,2024-11-04,2024-01-28 00:00:00,
+431,Natalia Lebedeva,Saint-Petersburg,retail,355.51,38.0,natalia.lebedeva@example.com,2024-01-06,2024-01-30 00:00:00,priority client
+432,Elena Morozova,Omsk,VIP,114.07,42.0,elena.morozova@example.com,2024-01-02,2024-07-24 00:00:00,priority client
+432,Elena Morozova,Moscow,VIP,165.55,42.0,elena.morozova@example.com,2024-04-03,2024-07-25 00:00:00,priority client
+432,Elena Morozova,Omsk,retail,164.94,150,elena.morozova@example.com,2024-07-31,2024-07-26 00:00:00,priority client
+433,Natalia Lebedeva,Omsk,B2B,170.57,69.0,natalia.lebedeva@example.com,2024-07-09,2024-09-18 00:00:00,priority client
+434,Anna Smirnova,Ufa,B2B,-127.08,65.0,anna.smirnova@example.com,2024-06-02,2024-12-05 00:00:00,
+434,Anna Smirnova,Krasnoyarsk,retail,95.84,65.0,anna.smirnova@example.com,2024-04-02,2024-12-06 00:00:00,
+434,Anna Smirnova,Krasnoyarsk,B2B,135.19,65.0,anna.smirnova@example.com,2024-09-28,2024-12-07 00:00:00,
+435,Elena Morozova,Kazan,retail,175.28,34.0,elena.morozova@example.com,2099-12-31,,
+436,Ivan Petrov,Novosibirsk,B2B,239.87,45.0,ivan.petrov@example.com,2024-02-27,2024-10-26 00:00:00,new lead
+436,Ivan Petrov,Novosibirsk,VIP,235.23,45.0,ivan.petrov@example.com,2024-07-05,2024-10-27 00:00:00,new lead
+437,sergey popov,UFA,"	B2B
+",242.83,58.0,sergey.popov@example.con,2024-03-20,2024-06-27 00:00:00,PRIORITY CLIENT
+438,Dmitry Kozlov,Krasnoyarsk,retail,442.87,,dmitry.kozlov@example.com,2024-10-29,2024-09-29 00:00:00,new lead
+439,Dmitry Kozlov,Saint-Petersburg,retail,208.81,54.0,dmitry.kozlov@example.com,2024-06-30,,
+439,Dmitry Kozlov,Saint-Petersburg,B2B,223.25,54.0,dmitry.kozlov@example.com,2024-05-27,,
+440,Pavel Ivanov,Omsk,VIP,112.06,,pavel.ivanov@example.com,2024-03-18,2024-03-05 00:00:00,
+441,Elena Morozova,Saint-Petersburg,VIP,222.29,63.0,elena.morozova@example.com,2024-08-18,2024-12-16 00:00:00,priority client
+442,Dmitry Kozlov,Kazan,VIP,243.53,67.0,dmitry.kozlov@example.com,2024-01-22,2024-02-08 00:00:00,new lead
+442,,Novosibirsk,B2B,236680000.0,67.0,dmitry.kozlov@example.com,1900-01-01,2024-99-99 25:61:61,new lead
+442,Dmitry Kozlov,Ufa,retail,280.05,67.0,dmitry.kozlov@example.com,2024-06-03,,new lead
+443,ANNA SMIRNOVA,  Yekaterinburg  ,B2B,236.15,43.0,none,2024-09-18,2024-07-09 00:00:00,"	
+"
+443,Anna Smirnova,Moscow,B2B,,43.0,anna.smirnova@example.com,2024-03-12,2024-07-10 00:00:00,
+443,Anna Smirnova,Yekaterinburg,VIP,219.34,43.0,anna.smirnova@example.com,2024-05-15,2024-07-11 00:00:00,
+444,  Maria Fedorova  ,"	Omsk
+",  B2B  ,121.62,22.0,  maria.fedorova@example.com  ,2024-02-18,2024-03-21 00:00:00,PRIORITY CLIENT
+445,  Maksim Novikov  ,SAINT-PETERSBURG,  retail  ,377.97,42.0,  maksim.novikov@example.com  ,2024-01-03,2024-04-28 00:00:00,
+446,Dmitry Kozlov,Samara,VIP,124.23,30.0,dmitry.kozlov@example.com,2024-04-07,2024-09-18 00:00:00,
+447,Natalia Lebedeva,Ufa,B2B,74.82,36.0,natalia.lebedeva@example.com,2024-05-29,2024-02-25 00:00:00,
+448,Maria Fedorova,Omsk,VIP,202.92,26.0,maria.fedorova@example.com,2024-04-02,2024-07-25 00:00:00,priority client
+448,Maria Fedorova,Saint-Petersburg,retail,173.85,26.0,maria.fedorova@example.com,2024-07-19,2024-07-26 00:00:00,priority client
+448,Maria Fedorova,Saint-Petersburg,B2B,208.73,26.0,maria.fedorova@example.com,,2024-07-27 00:00:00,priority client
+449,Natalia Lebedeva,Ufa,retail,247.31,34.0,natalia.lebedeva@example.com,2024-08-24,2024-06-24 00:00:00,new lead
+449,Natalia Lebedeva,Ufa,VIP,249.32,34.0,natalia.lebedeva@example.com,2024-11-26,2024-06-25 00:00:00,new lead
+450,,Novosibirsk,B2B,407.21,45.0,maria.fedorova@example.com,2024-10-26,2024-01-16 00:00:00,priority client
+451,,Ufa,retail,580.14,45.0,maksim.novikov@example.com,2024-03-29,2024-08-29 00:00:00,priority client
+451,Maksim Novikov,Moscow,B2B,665.3,45.0,maksim.novikov@example.com,2024-06-09,2024-08-30 00:00:00,priority client
+451,Maksim Novikov,Moscow,retail,762.93,45.0,maksim.novikov@example.com,2024-12-12,2024-08-31 00:00:00,priority client
+452,PAVEL IVANOV,omsk,Retail,175.19,0,PAVEL.IVANOV@EXAMPLE.COM,2024-12-18,2024-06-26 00:00:00,
+452,Pavel Ivanov,Omsk,B2B,228.65,40.0,pavel.ivanov@example.com,2024-03-17,2024-06-27 00:00:00,
+452,Pavel Ivanov,Omsk,VIP,201.52,,pavel.ivanov@example.com,2024-02-13,2024-06-28 00:00:00,
+453,,Saint-Petersburg,retail,275.87,69.0,dmitry.kozlov@example.com,2024-01-11,2024-02-05 00:00:00,
+453,Dmitry Kozlov,Saint-Petersburg,VIP,333.64,69.0,dmitry.kozlov@example.com,2024-01-22,2024-02-06 00:00:00,
+454,Maksim Novikov,Kazan,VIP,148.3,26.0,maksim.novikov@example.com,2024-11-17,2024-07-16 00:00:00,priority client
+454,Maksim Novikov,Kazan,VIP,136.44,26.0,maksim.novikov@example.com,2024-12-02,2024-07-17 00:00:00,priority client
+455,Maksim Novikov,Saint-Petersburg,VIP,134.53,25.0,maksim.novikov@example.com,2024-04-27,2024-03-14 00:00:00,
+455,Maksim Novikov,Novosibirsk,VIP,107.84,25.0,maksim.novikov@example.com,2024-07-06,2024-03-15 00:00:00,
+456,  Maria Fedorova  ,"	None
+",  retail  ,260.94,65.0,MARIA.FEDOROVA@EXAMPLE.COM,2024-12-17,2024-02-04 00:00:00,"	None
+"
+457,Maria Fedorova,Krasnoyarsk,VIP,308.84,55.0,maria.fedorova@example.com,2024-08-10,2024-10-08 00:00:00,
+458,Ivan Petrov,Moscow,retail,144.12,44.0,ivan.petrov@example.com,2024-09-13,2024-06-25 00:00:00,new lead
+458,Ivan Petrov,Moscow,retail,149.64,44.0,ivan.petrov@example.con,2024-12-13,2024-06-26 00:00:00,new lead
+459,Maria Fedorova,Kazan,retail,150.66,44.0,maria.fedorova@example.com,,2024-08-20 00:00:00,
+460,Maria Fedorova,Samara,VIP,200.85,24.0,maria.fedorova@example.com,2024-11-08,2024-01-29 00:00:00,new lead
+461,Ivan Petrov,Ufa,B2B,190.69,20.0,ivan.petrov@example.com,2024-06-22,2024-07-05 00:00:00,priority client
+462,Dmitry Kozlov,Rostov-on-Don,,281.44,69.0,dmitry.kozlov@example.com,2024-07-15,2024-06-28 00:00:00,
+463,Sergey Popov,Saint-Petersburg,VIP,259.3,19.0,sergey.popov@example.com,2024-06-13,2024-09-04 00:00:00,
+464,Ivan Petrov,Samara,B2B,208.78,26.0,,2024-03-31,2024-01-12 00:00:00,new lead
+464,Ivan Petrov,Novosibirsk,B2B,,26.0,ivan.petrov@example.com,2024-08-21,2024-01-13 00:00:00,new lead
+465,,Omsk,retail,174.03,41.0,olga.sokolova@example.con,2024-05-06,2024-07-21 00:00:00,
+466,Elena Morozova,Omsk,B2B,267.75,49.0,elena.morozova@example.com,2024-05-06,2024-09-12 00:00:00,
+466,Elena Morozova,Samara,retail,192.26,49.0,elena.morozova@example.com,2024-06-25,2024-09-13 00:00:00,
+467,Elena Morozova,Saint-Petersburg,B2B,96.3,69.0,elena.morozova@example.com,2099-12-31,2024-99-99 25:61:61,new lead
+468,Olga Sokolova,Rostov-on-Don,B2B,168.32,0,olga.sokolova@example.com,2024-03-15,2024-09-06 00:00:00,
+468,OLGA SOKOLOVA,Rostov-On-Don,  B2B  ,157.61,64.0,olga.sokolova@example.com,2024-01-11,2024-09-07 00:00:00,"	
+"
+469,Olga Sokolova,Novosibirsk,retail,269.12,56.0,olga.sokolova@example.com,1900-01-01,2024-99-99 25:61:61,
+470,Dmitry Kozlov,Samara,B2B,158.09,36.0,,2024-03-10,2024-01-26 00:00:00,priority client
+471,Olga Sokolova,Novosibirsk,VIP,195.8,68.0,olga.sokolova@example.com,2024-07-25,2024-03-20 00:00:00,
+472,Elena Morozova,Yekaterinburg,B2B,134.09,unknown,elena.morozova@example.com,2024-06-20,2024-01-12 00:00:00,new lead
+473,Maksim Novikov,,B2B,1250.42,56.0,maksim.novikov@example.com,2024-08-19,2024-08-27 00:00:00,new lead
+474,Natalia Lebedeva,Samara,VIP,190.4,58.0,natalia.lebedeva@example.com,2024-04-23,2024-11-07 00:00:00,priority client
+474,Natalia Lebedeva,Rostov-on-Don,retail,215.34,58.0,natalia.lebedeva,2024-01-08,2024-11-08 00:00:00,priority client
+475,olga sokolova,KRASNOYARSK,  retail  ,322.64,61.0,Olga.Sokolova@Example.Com,2024-06-18,2024-07-23 00:00:00,
+475,Olga Sokolova,Moscow,B2B,334.62,61.0,olga.sokolova@example.com,2024-09-23,2024-07-24 00:00:00,
+476,Natalia Lebedeva,,VIP,258.33,64.0,natalia.lebedeva@example.com,2024-07-21,2024-10-24 00:00:00,priority client
+477,Natalia Lebedeva,Kazan,VIP,118.81,59.0,natalia.lebedeva@example.com,2024-11-16,2024-03-18 00:00:00,
+477,Natalia Lebedeva,Kazan,retail,,59.0,natalia.lebedeva@example.com,2024-01-16,2024-03-19 00:00:00,
+478,Anna Smirnova,Samara,B2B,263.16,20.0,anna.smirnova@example.com,2024-02-27,,
+478,Anna Smirnova,Omsk,B2B,195.32,20.0,anna.smirnova@example.com,2024-11-25,2024-12-07 00:00:00,
+479,ELENA MOROZOVA,moscow,Retail,132.81,49.0,  elena.morozova@example.com  ,2024-03-16,2024-05-27 00:00:00,priority client
+479,Elena Morozova,Moscow,VIP,175.14,49.0,elena.morozova@example.com,2024-06-11,2024-05-28 00:00:00,priority client
+480,Maksim Novikov,Yekaterinburg,B2B,194.33,28.0,maksim.novikov@example.com,,2024-05-22 00:00:00,
+481,"	Maksim Novikov
+","	Samara
+",Vip,325.69,,MAKSIM.NOVIKOV@EXAMPLE.COM,2024-10-26,2024-10-12 00:00:00,priority client
+482,Natalia Lebedeva,Ufa,VIP,458.25,57.0,natalia.lebedeva@example.com,2024-10-27,2024-08-03 00:00:00,priority client
+482,,Ufa,VIP,621.75,57.0,natalia.lebedeva@example.com,2024-10-25,2024-08-04 00:00:00,priority client
+483,Maria Fedorova,Saint-Petersburg,B2B,388.86,28.0,maria.fedorova@example.com,,2024-02-07 00:00:00,
+483,Maria Fedorova,Omsk,B2B,354.12,28.0,maria.fedorova@example.com,,2024-02-08 00:00:00,
+484,Maksim Novikov,Omsk,retail,271.63,64.0, maksim.novikov@example.com,2024-02-15,2024-01-07 00:00:00,
+485,Maria Fedorova,Ufa,VIP,282.22,41.0,maria.fedorova@example.com,2024-07-08,2024-09-22 00:00:00,
+485,Maria Fedorova,Moscow,B2B,200.94,41.0,maria.fedorova@example.com,2024-09-10,2024-09-23 00:00:00,
+485,Maria Fedorova,Ufa,retail,203380000.0,41.0,maria.fedorova@example.com,2024-08-27,2024-09-24 00:00:00,
+486,Ivan Petrov,Novosibirsk,B2B,426.64,57.0,ivan.petrov@example.com,2024-08-28,2024-12-05 00:00:00,
+486,  Ivan Petrov  ,novosibirsk,B2B,431.42,57.0,  ivan.petrov@example.com  ,2024-05-20,2024-12-06 00:00:00,NEW LEAD
+487,,Rostov-on-Don,VIP,465.47,42.0,maksim.novikov@example.com,2024-01-31,2024-07-05 00:00:00,priority client
+488,Maksim Novikov,Novosibirsk,VIP,207.09,26.0,maksim.novikov@example.com,2024-12-15,2024-01-10 00:00:00,
+489,Elena Morozova,Novosibirsk,VIP,305.92,45.0,elena.morozova@example.com,2024-07-06,2024-04-20 00:00:00,new lead
+489,  Elena Morozova  ,Novosibirsk,vip,313.74,45.0,  elena.morozova@example.com  ,2024-02-26,2024-04-21 00:00:00,  new lead  
+490,Dmitry Kozlov,Ufa,VIP,133.46,49.0,dmitry.kozlov@example.com,2024-10-03,2024-06-10 00:00:00,
+491,Maksim Novikov,,VIP,200.69,49.0,maksim.novikov@example.com,2024-06-19,2024-10-09 00:00:00,priority client
+491,Maksim Novikov,Krasnoyarsk,B2B,207.22,49.0,maksim.novikov@example.com,2024-05-15,2024-10-10 00:00:00,priority client
+492,Natalia Lebedeva,Moscow,B2B,258.56,63.0,natalia.lebedeva@example.com,2024-12-09,2024-04-03 00:00:00,new lead
+492,Natalia Lebedeva,Moscow,VIP,245.24,63.0,natalia.lebedeva@example.com,2024-10-09,2024-04-04 00:00:00,new lead
+493,Anna Smirnova,Kazan,VIP,905.74,36.0,anna.smirnova@example.com,2024-05-18,2024-04-02 00:00:00,new lead
+493,Anna Smirnova,,VIP,1055.75,36.0,anna.smirnova@example.com,2024-04-14,2024-04-03 00:00:00,new lead
+494,Ivan Petrov,Kazan,VIP,504.67,19.0,ivan.petrov@example.com,2024-10-20,,
+495,Maria Fedorova,Moscow,VIP,172.64,61.0,maria.fedorova@example.com,2024-09-03,2024-11-16 00:00:00,
+496,Natalia Lebedeva,Novosibirsk,VIP,175.09,65.0,natalia.lebedeva@example.com,2024-02-17,2024-01-08 00:00:00,new lead
+497,Maria Fedorova,Yekaterinburg,retail,134.54,61.0,maria.fedorova@example.com,2024-09-02,2024-02-24 00:00:00,new lead
+498,Maria Fedorova,Moscow,B2B,165.57,48.0,maria.fedorova@example.com,2024-08-31,2024-12-19 00:00:00,
+499,Elena Morozova,Samara,B2B,301.94,27.0,elena.morozova@example.com,2024-12-02,2024-11-26 00:00:00,
+499,Elena Morozova,Samara,VIP,420.85,27.0,elena.morozova@example.com,2024-04-11,2024-11-27 00:00:00,
+499,Elena Morozova,,retail,352.79,27.0,elena.morozova@example.com,2024-08-23,2024-11-28 00:00:00,
+500,Sergey Popov,Ufa,B2B,121.79,61.0,sergey.popov@example.com,2024-08-12,2024-11-11 00:00:00,priority client
+500,Sergey Popov,Ufa,VIP,120.53,61.0,sergey.popov@example.com,2024-04-12,2024-11-12 00:00:00,priority client
+501,"	Ivan Petrov
+","	Novosibirsk
+",retail,432.61,18.0,  ivan.petrov@example.com  ,2024-05-10,,PRIORITY CLIENT
+501,Ivan Petrov,ufa,"	B2B
+",439.84,18.0,ivan.petrov@example.com,2024-02-03,2024-01-07 00:00:00,PRIORITY CLIENT
+501,Ivan Petrov,Novosibirsk,VIP,466.69,,ivan.petrov@example.com,2024-10-08,2024-01-08 00:00:00,priority client
+502,Natalia Lebedeva,Ufa,B2B,474.76,38.0,natalia.lebedeva@example.com,2024-04-27,2024-02-15 00:00:00,
+503,Pavel Ivanov,Omsk,VIP,,29.0,pavel.ivanov@example.com,2024-06-06,2024-08-23 00:00:00,priority client
+504,Elena Morozova,Kazan,B2B,220.79,67.0,elena.morozova@example.com,2024-11-06,2024-12-04 00:00:00,
+505,Olga Sokolova,,VIP,113.42,69.0,olga.sokolova@example.com,2024-10-08,2024-09-03 00:00:00,new lead
+505,Olga Sokolova,Kazan,retail,138.38,69.0,olga.sokolova@example.com,,,new lead
+506,,Kazan,retail,347.77,150,dmitry.kozlov@example.com,2024-05-30,2024-01-11 00:00:00,
+507,Natalia Lebedeva,Omsk,VIP,216.63,69.0,natalia.lebedeva@example.com,2024-06-17,2024-09-21 00:00:00,
+507,Natalia Lebedeva,Omsk,VIP,199.59,69.0,natalia.lebedeva@example.com,2024-04-13,2024-09-22 00:00:00,
+507,Natalia Lebedeva,Omsk,B2B,228.96,69.0,natalia.lebedeva@example.com,2024-11-10,2024-09-23 00:00:00,
+508,Dmitry Kozlov,Ufa,B2B,,58.0,dmitry.kozlov@example.com,2024-11-15,2024-04-10 00:00:00,
+508,Dmitry Kozlov,Samara,B2B,177.32,,user_at_example.com,2024-10-23,2024-04-11 00:00:00,
+508,Dmitry Kozlov,Saint-Petersburg,retail,200.57,58.0,dmitry.kozlov@example.com,2024-07-01,2024-04-12 00:00:00,
+509,Dmitry Kozlov,Moscow,VIP,268.75,33.0,dmitry.kozlov@example.com,2024-11-30,2024-10-26 00:00:00,priority client
+509,,Moscow,retail,275.03,33.0,dmitry.kozlov@example.com,2024-01-29,2024-10-27 00:00:00,priority client
+510,Elena Morozova,  Rostov-on-Don  ,Vip,229.62,21.0,elena.morozova@example.com,2024-11-29,2024-06-04 00:00:00,New Lead
+510,Elena Morozova,Rostov-on-Don,B2B,237.49,21.0,elena.morozova@example.com,2024-11-14,2024-06-05 00:00:00,new lead
+511,Natalia Lebedeva,Yekaterinburg,VIP,133.49,43.0,natalia.lebedeva@example.com,2024-11-30,2024-03-07 00:00:00,
+511,Natalia Lebedeva,Yekaterinburg,B2B,133.19,0,natalia.lebedeva@example.com,2024-04-30,2024-03-08 00:00:00,
+511,Natalia Lebedeva,Yekaterinburg,VIP,151.37,43.0,natalia.lebedeva@example.com,2024-09-29,2024-03-09 00:00:00,
+512,Dmitry Kozlov,Novosibirsk,VIP,477.72,34.0,dmitry.kozlov@example.com,2024-01-27,2024-04-20 00:00:00,priority client
+512,Dmitry Kozlov,Krasnoyarsk,retail,453.86,34.0,dmitry.kozlov@example.com,,2024-04-21 00:00:00,priority client
+512,Dmitry Kozlov,Yekaterinburg,retail,482.76,34.0,dmitry.kozlov@example.com,2024-08-22,2024-04-22 00:00:00,priority client
+513,Ivan Petrov,Ufa,VIP,91.06,44.0,ivan.petrov@example.com,2024-04-11,2024-08-15 00:00:00,new lead
+513,Ivan Petrov,Yekaterinburg,retail,81.37,44.0,ivan.petrov@example.com,2024-11-06,2024-08-16 00:00:00,new lead
+514,Anna Smirnova,Samara,VIP,285.49,67.0,anna.smirnova@example.com,2024-05-04,2024-11-07 00:00:00,
+515,Natalia Lebedeva,Novosibirsk,VIP,234.57,18.0,natalia.lebedeva@example.com,2024-01-15,2024-06-07 00:00:00,priority client
+516,Ivan Petrov,Ufa,B2B,,62.0,ivan.petrov,2024-11-04,2024-03-14 00:00:00,priority client
+517,Natalia Lebedeva,Yekaterinburg,,244.29,23.0,natalia.lebedeva@example.com,2024-07-28,,
+517,Natalia Lebedeva,Omsk,B2B,246.74,23.0,natalia.lebedeva@example.com,,2024-12-29 00:00:00,
+518,Ivan Petrov,Krasnoyarsk,retail,,41.0,ivan.petrov@example.com,2024-09-10,2024-11-15 00:00:00,priority client
+518,Ivan Petrov,Ufa,VIP,,41.0,ivan.petrov@example.com,2024-04-09,,priority client
+519,Ivan Petrov,Novosibirsk,retail,238.4,54.0,ivan.petrov@example.com,2024-11-15,2024-10-14 00:00:00,
+520,Ivan Petrov,Samara,retail,194.61,32.0,user_at_example.com,2024-11-08,2024-06-02 00:00:00,
+520,Ivan Petrov,,VIP,277.99,32.0,ivan.petrov@example.com,2024-06-04,2024-06-03 00:00:00,priority client
+521,Dmitry Kozlov,Moscow,B2B,347.84,55.0,dmitry.kozlov@example.com,2024-11-20,2024-07-10 00:00:00,
+522,Maria Fedorova,Krasnoyarsk,B2B,216.55,58.0,maria.fedorova@example.com,2024-10-23,2024-04-18 00:00:00,
+523,Dmitry Kozlov,Rostov-on-Don,VIP,,22.0,dmitry.kozlov@example.com,2024-01-24,2024-07-25 00:00:00,priority client
+523,Dmitry Kozlov,Ufa,B2B,181.88,22.0,dmitry.kozlov@example.com,2024-03-11,2024-07-26 00:00:00,priority client
+524,Pavel Ivanov,Ufa,B2B,155.63,58.0,pavel.ivanov@example.com,2024-05-02,2024-10-07 00:00:00,
+525,Olga Sokolova,Novosibirsk,B2B,201.0,38.0,olga.sokolova@example.com,2024-05-05,2024-02-15 00:00:00,
+526,Natalia Lebedeva,Novosibirsk,retail,131.62,36.0,natalia.lebedeva@example.com,2024-08-20,2024-04-16 00:00:00,
+526,Natalia Lebedeva,Omsk,B2B,-113.61,36.0,,2024-05-13,2024-04-17 00:00:00,
+527,,,VIP,69.05,32.0,maria.fedorova@example.com,2024-12-01,2024-02-10 00:00:00,
+527,Maria Fedorova,Yekaterinburg,VIP,94.61,32.0,maria.fedorova@example.com,2024-03-12,2024-02-11 00:00:00,
+528,Sergey Popov,Samara,VIP,161.12,65.0,sergey.popov@example.com,2024-07-02,2024-04-27 00:00:00,
+528,Sergey Popov,Omsk,retail,146.76,65.0,sergey.popov@example.com,2024-02-28,2024-04-28 00:00:00,
+528,Sergey Popov,Samara,VIP,154.81,65.0,sergey.popov@example.com,2024-06-09,2024-04-29 00:00:00,
+529,Anna Smirnova,Rostov-on-Don,B2B,176.94,18.0,anna.smirnova@example.com,2024-01-03,2024-12-12 00:00:00,priority client
+530,Olga Sokolova,Moscow,B2B,315.72,46.0,olga.sokolova@example.com,2024-12-30,2024-08-26 00:00:00,priority client
+531,Olga Sokolova,Rostov-on-Don,B2B,150.86,54.0,olga.sokolova@example.com,2024-02-19,2024-05-07 00:00:00,new lead
+531,Olga Sokolova,Rostov-on-Don,B2B,-160.48,N/A,olga.sokolova@example.com,2024-10-02,2024-05-08 00:00:00,new lead
+532,Maria Fedorova,Krasnoyarsk,B2B,119100000.0,32.0,maria.fedorova@example.com,2024/13/01,,new lead
+533,Elena Morozova,Yekaterinburg,VIP,119.36,57.0,elena.morozova@example.com,2024-01-30,,
+534,Anna Smirnova,Rostov-on-Don,retail,168.3,39.0,anna.smirnova,2024-05-21,,
+535,Sergey Popov,Kazan,VIP,346.26,N/A,sergey.popov@example.com,2024-05-10,2024-07-20 00:00:00,
+536,Anna Smirnova,Kazan,B2B,205.56,,anna.smirnova@example.com,2024-12-21,2024-03-06 00:00:00,
+537,Maria Fedorova,Yekaterinburg,retail,167.08,39.0,maria.fedorova@example.com,2024-03-05,2024-09-27 00:00:00,new lead
+538,Natalia Lebedeva,Krasnoyarsk,B2B,135.49,35.0,natalia.lebedeva@example.com,2024-06-09,2024-11-16 00:00:00,
+539,Sergey Popov,Ufa,VIP,201.05,40.0,sergey.popov@example.com,,2024-08-27 00:00:00,
+540,,Yekaterinburg,VIP,213.91,unknown,olga.sokolova@example.com,2024-02-17,2024-02-01 00:00:00,
+540,Olga Sokolova,Saint-Petersburg,VIP,218.14,,olga.sokolova@example.com,2024-12-12,2024-02-02 00:00:00,
+541,Natalia Lebedeva,Omsk,retail,271.55,62.0, natalia.lebedeva@example.com,2024-02-12,2024-11-28 00:00:00,new lead
+542,Maria Fedorova,Saint-Petersburg,VIP,307.8,45.0,maria.fedorova@example.com,2024-09-10,2024-07-09 00:00:00,
+542,Maria Fedorova,Saint-Petersburg,VIP,364.6,45.0,maria.fedorova@example.com,2024-10-16,2024-07-10 00:00:00,
+543,Olga Sokolova,Krasnoyarsk,retail,418.1,29.0,olga.sokolova@example.com,2024-05-09,,
+544,Pavel Ivanov,Rostov-on-Don,,237.66,35.0,pavel.ivanov@example.com,2024-04-27,2024-12-30 00:00:00,new lead
+544,Pavel Ivanov,Omsk,VIP,211.64,,pavel.ivanov@example.com,2024-03-23,2024-12-31 00:00:00,new lead
+545,Olga Sokolova,sankt-peterburg,VIP,225.29,55.0,olga.sokolova@example.com,2024-07-01,2024-09-16 00:00:00,
+546,Natalia Lebedeva,Moscow,retail,78.47,35.0,natalia.lebedeva@example.com,2024-02-14,2024-07-06 00:00:00,
+546,Natalia Lebedeva,Moscow,B2B,103.87,35.0,natalia.lebedeva@example.com,2024-03-20,2024-07-07 00:00:00,
+547,Maksim Novikov,Samara,VIP,354.52,42.0,maksim.novikov@example.com,,2024-12-01 00:00:00,new lead
+547,Maksim Novikov,Samara,retail,320.74,42.0,maksim.novikov@example.com,2024-05-28,2024-12-02 00:00:00,new lead
+548,Maksim Novikov,Rostov-on-Don,B2B,569.0,34.0,maksim.novikov@example.com,2024-04-14,2024-05-12 00:00:00,new lead
+549,ivan petrov,None,RETAIL,228.47,51.0,  ivan.petrov@example.com  ,2024-05-12,2024-10-11 00:00:00,
+550,Olga Sokolova,Krasnoyarsk,retail,162.73,30.0,olga.sokolova@example.com,2024-12-25,2024-08-17 00:00:00,new lead
+550,"	Olga Sokolova
+",KRASNOYARSK,  B2B  ,,30.0,Olga.Sokolova@Example.Com,2024-06-22,2024-08-18 00:00:00,NEW LEAD
+551,Elena Morozova,Moscow,VIP,66.43,58.0,elena.morozova@example.com,2024-08-16,2024-12-23 00:00:00,
+551,Elena Morozova,Saint-Petersburg,retail,86.55,58.0,elena.morozova@example.com,2024-03-24,2024-12-24 00:00:00,
+552,Natalia Lebedeva,Samara,retail,145.45,47.0,natalia.lebedeva@example.com,2024-03-27,2024-03-18 00:00:00,
+553,Pavel Ivanov,Samara,B2B,125.49,47.0,pavel.ivanov@example.com,2024-01-26,2024-10-22 00:00:00,new lead
+554,,Rostov-on-Don,B2B,339.28,44.0,sergey.popov@example.com,2024-10-23,2024-10-07 00:00:00,
+555,Sergey Popov,Saint-Petersburg,VIP,297.13,30.0,sergey.popov@example.com,2024-05-01,2024-03-13 00:00:00,priority client
+556,  Maksim Novikov  ,  Novosibirsk  ,  B2B  ,207.0,35.0,"	maksim.novikov@example.com
+",2024-09-13,2024-04-07 00:00:00,"	
+"
+557,Anna Smirnova,Samara,VIP,,69.0,anna.smirnova@example.com,2024-08-12,2024-07-25 00:00:00,priority client
+558,Pavel Ivanov,Yekaterinburg,retail,188.36,51.0, pavel.ivanov@example.com,2024-10-09,2024-08-26 00:00:00,priority client
+559,Dmitry Kozlov,Ufa,B2B,288.72,,dmitry.kozlov@example.com,not-a-date,,
+560,"	Maksim Novikov
+","	Samara
+",None,413.63,67.0,Maksim.Novikov@Example.Com,2024-12-01,2024-08-05 00:00:00,PRIORITY CLIENT
+561,None,Rostov-On-Don,"	retail
+",625.42,59.0,"	olga.sokolova@example.com
+",2024-04-27,2024-06-05 00:00:00,"	priority client
+"
+561,Olga Sokolova,Kazan,retail,562.69,59.0, olga.sokolova@example.com,2024-11-06,2024-06-06 00:00:00,priority client
+562,Anna Smirnova,Moscow,B2B,224.01,62.0,anna.smirnova@example.com,2024-07-24,2024-03-10 00:00:00,
+563,,Yekaterinburg,retail,249.68,63.0,maria.fedorova@example.com,2024-02-25,2024-03-30 00:00:00,priority client
+564,Anna Smirnova,Rostov-on-Don,VIP,359.17,69.0,anna.smirnova@example.com,2024-06-27,2024-06-02 00:00:00,
+564,Anna Smirnova,Krasnoyarsk,VIP,311.15,69.0,anna.smirnova@example.com,2024-07-22,2024-06-03 00:00:00,
+564,Anna Smirnova,Moscow,retail,354.09,69.0,anna.smirnova@example.com,2024-07-04,2024-06-04 00:00:00,
+565,Ivan Petrov,Samara,retail,150.48,20.0,ivan.petrov@example.com,2024-12-24,2024-07-06 00:00:00,priority client
+566,Maksim Novikov,Yekaterinburg,retail,-467.57,50.0,maksim.novikov@example.com,,2024-06-14 00:00:00,
+567,Maksim Novikov,Kazan,VIP,78.06,44.0,maksim.novikov@example.com,,2024-09-18 00:00:00,
+568,Maria Fedorova,Omsk,VIP,164.59,27.0,maria.fedorova@example.com,2099-12-31,2024-99-99 25:61:61,new lead
+568,Maria Fedorova,Omsk,VIP,174.92,,maria.fedorova@example.com,2024-05-31,2024-10-14 00:00:00,new lead
+568,Maria Fedorova,Omsk,B2B,161.54,,maria.fedorova@example.com,2024-02-12,2024-10-15 00:00:00,new lead
+569,Olga Sokolova,Ufa,retail,460.46,69.0,olga.sokolova@example.com,2024-10-25,2024-07-24 00:00:00,
+569,Olga Sokolova,Kazan,B2B,402.01,69.0,olga.sokolova@example.com,2024-04-17,2024-07-25 00:00:00,
+570,Dmitry Kozlov,Kazan,retail,160.36,36.0,dmitry.kozlov@example.com,2024-08-11,2024-06-03 00:00:00,
+571,Maksim Novikov,,retail,367.76,60.0,maksim.novikov@example.com,2024-01-20,,
+571,,,VIP,386.36,60.0,maksim.novikov@example.com,2024-02-08,2024-12-13 00:00:00,
+571,Maksim Novikov,Krasnoyarsk,VIP,393.53,60.0,maksim.novikov@example.com,2024-06-06,2024-12-14 00:00:00,
+572,Sergey Popov,Ufa,B2B,256.15,66.0,sergey.popov@example.com,2024-03-21,2024-08-28 00:00:00,
+572,Sergey Popov,Moscow,B2B,243.09,66.0,sergey.popov@example.com,2024-07-10,2024-08-29 00:00:00,
+572,Sergey Popov,Ufa,VIP,236.27,66.0,sergey.popov@example.com,2024-01-21,2024-08-30 00:00:00,
+573,"	Sergey Popov
+",ufa,  B2B  ,177.21,34.0,Sergey.Popov@Example.Com,2024-11-23,2024-01-29 00:00:00,"	
+"
+573,Sergey Popov,Samara,B2B,195.07,34.0,sergey.popov@example.com,2024-01-19,2024-01-30 00:00:00,
+573,Sergey Popov,Novosibirsk,B2B,198.56,34.0,sergey.popov@example.com,2024-08-28,2024-01-31 00:00:00,
+574,Sergey Popov,Novosibirsk,,288.69,22.0,sergey.popov@example.com,2024-12-27,2024-12-23 00:00:00,priority client
+574,Sergey Popov,Novosibirsk,retail,357.8,22.0,sergey.popov@example.com,2024-08-11,2024-12-24 00:00:00,priority client
+575,Olga Sokolova,Kazan,Retail,134.95,51.0,"	olga.sokolova@example.com
+",2024-11-01,2024-09-18 00:00:00,new lead
+576,Natalia Lebedeva,Moscow,B2B,153.96,50.0,natalia.lebedeva@example.com,2024-01-07,2024-01-02 00:00:00,new lead
+577,Sergey Popov,Novosibirsk,B2B,135.07,44.0,sergey.popov@example.com,2024-02-15,2024-01-20 00:00:00,priority client
+578,Olga Sokolova,Kazan,retail,409.69,63.0,olga.sokolova@example.com,,2024-09-05 00:00:00,
+578,Olga Sokolova,Kazan,B2B,345.22,63.0,olga.sokolova@example.com,2024-02-14,,
+579,Anna Smirnova,Rostov-on-Don,retail,230.38,54.0,anna.smirnova@example.com,2024-03-03,2024-10-31 00:00:00,
+580,,Yekaterinburg,B2B,377.97,26.0,maksim.novikov@example.com,2024-01-27,2024-09-28 00:00:00,
+581,Sergey Popov,Moscow,retail,310.1,48.0,sergey.popov@example.com,2024-05-16,2024-03-29 00:00:00,priority client
+581,Sergey Popov,Krasnoyarsk,retail,255.4,48.0,sergey.popov@example.com,2024-06-29,2024-03-30 00:00:00,
+581,Sergey Popov,Krasnoyarsk,VIP,276.19,48.0,sergey.popov@example.com,2024-02-07,2024-03-31 00:00:00,priority client
+582,Maksim Novikov,Yekaterinburg,retail,143.68,22.0,maksim.novikov@example.com,2024-10-19,2024-12-21 00:00:00,
+583,Elena Morozova,Kazan,retail,217.0,55.0,elena.morozova@example.com,2024-02-09,2024-05-24 00:00:00,
+583,Elena Morozova,Kazan,retail,189.93,55.0,elena.morozova@example.com,2024-12-21,2024-05-25 00:00:00,
+584,Anna Smirnova,Rostov-on-Don,VIP,216.89,33.0,anna.smirnova@example.com,2024-07-19,2024-03-14 00:00:00,priority client
+584,Anna Smirnova,krasnoyarsk,Vip,211.57,33.0,"	anna.smirnova@example.com
+",31-02-2024,2024-99-99 25:61:61,  priority client  
+585,Olga Sokolova,Ufa,B2B,104.73,36.0,olga.sokolova@example.com,2024-06-04,2024-10-28 00:00:00,priority client
+585,  Olga Sokolova  ,"	Samara
+",  B2B  ,105.8,36.0,"	olga.sokolova@example.com
+",2024-05-26,2024-10-29 00:00:00,priority client
+586,Sergey Popov,Rostov-on-Don,VIP,82.61,26.0,sergey.popov@example.com,2024-02-21,2024-11-30 00:00:00,
+587,Elena Morozova,Kazan,,197.6,43.0,elena.morozovaexample.com,2024-11-30,2024-10-03 00:00:00,
+587,Elena Morozova,Kazan,VIP,,43.0,elena.morozova@example.com,2024-07-29,2024-10-04 00:00:00,
+588,Natalia Lebedeva,Rostov-on-Don,VIP,85.23,58.0,natalia.lebedeva@example.com,2024-10-13,2024-03-06 00:00:00,
+589,,Omsk,B2B,331.11,46.0,natalia.lebedeva@example.com,2024-08-31,2024-05-23 00:00:00,
+590,Elena Morozova,Samara,VIP,187.02,61.0,elena.morozova@example.com,2024-07-21,2024-09-27 00:00:00,
+591,Olga Sokolova,Kazan,VIP,226.9,19.0,olga.sokolova@example.com,,2024-08-01 00:00:00,
+592,Maria Fedorova,Krasnoyarsk,B2B,331.44,,maria.fedorova@example.com,2024-05-05,2024-09-10 00:00:00,new lead
+593,dmitry kozlov,Novosibirsk,B2B,436560000.0,43.0,  dmitry.kozlov@example.com  ,2024-08-19,2024-10-16 00:00:00,"	
+"
+594,Olga Sokolova,Samara,retail,,, olga.sokolova@example.com,2024-06-08,2024-10-07 00:00:00,
+595,Natalia Lebedeva,Ufa,VIP,172.98,39.0,natalia.lebedeva@example.com,2024-10-10,2024-04-12 00:00:00,priority client
+596,Elena Morozova,Kazan,VIP,168.41,54.0,,2024-11-13,2024-08-12 00:00:00,
+597,Natalia Lebedeva,Rostov-on-Don,VIP,,24.0,natalia.lebedeva@example.com,2024-03-15,2024-10-05 00:00:00,new lead
+597,Natalia Lebedeva,Rostov-on-Don,retail,364.68,24.0,natalia.lebedeva@example.com,2024-08-16,2024-10-06 00:00:00,new lead
+598,Elena Morozova,Ufa,,567.23,51.0,elena.morozova@example.com,2024-05-31,2024-10-25 00:00:00,priority client
+599,Pavel Ivanov,Ufa,retail,341.45,51.0,pavel.ivanov@example.com,2024-05-21,2024-06-05 00:00:00,
+599,Pavel Ivanov,Ufa,VIP,372.23,,pavel.ivanov@example.com,2024-10-13,2024-06-06 00:00:00,
+600,Ivan Petrov,Moscow,retail,153.31,33.0,ivan.petrov@example.com,2024-09-20,,priority client
+600,Ivan Petrov,Saint-Petersburg,B2B,121.01,33.0,ivan.petrov@example.com,2024-10-21,2024-09-26 00:00:00,priority client
+601,Pavel Ivanov,Yekaterinburg,VIP,283.13,54.0,pavel.ivanov@example.com,2024-05-27,2024-03-10 00:00:00,
+601,  Pavel Ivanov  ,YEKATERINBURG,  retail  ,307.32,54.0,"	pavel.ivanov@example.com
+",2024-06-15,2024-03-11 00:00:00,    
+602,Ivan Petrov,Rostov-on-Don,B2B,277.84,33.0,ivan.petrov@example.com,2024-09-08,2024-05-16 00:00:00,priority client
+603,Ivan Petrov,Krasnoyarsk,VIP,,24.0,ivan.petrov@example.com,2024-09-23,2024-05-23 00:00:00,new lead
+604,Maria Fedorova,Rostov-on-Don,retail,300.99,23.0,maria.fedorova@example.com,2024-04-30,2024-09-07 00:00:00,
+604,Maria Fedorova,Rostov-on-Don,retail,317.78,23.0,maria.fedorova@example.com,2024-05-01,2024-09-08 00:00:00,
+605,Maksim Novikov,,retail,422.43,19.0,,2024-01-11,2024-10-13 00:00:00,
+606,Ivan Petrov,Ufa,B2B,349.79,18.0,ivan.petrov@example.com,2024-01-09,2024-08-07 00:00:00,
+606,Ivan Petrov,Ufa,VIP,325.56,,ivan.petrov@example.com,2024-05-10,2024-08-08 00:00:00,
+607,Dmitry Kozlov,Moscow,,319.15,57.0,dmitry.kozlov@example.com,2024-02-17,2024-01-27 00:00:00,
+608,Sergey Popov,Novosibirsk,retail,250.56,30.0,,2024-05-08,2024-05-27 00:00:00,
+608,Sergey Popov,Novosibirsk,VIP,263.18,30.0,sergey.popov@example.com,2024-01-15,2024-05-28 00:00:00,
+608,,Novosibirsk,retail,260.0,30.0,sergey.popov@example.com,2024-07-28,,
+609,"	Olga Sokolova
+",  Ufa  ,b2b,528.28,51.0,olga.sokolova@example.com,2024-02-10,2024-08-18 00:00:00,new lead
+610,Elena Morozova,sankt-peterburg,B2B,225.81,0,elena.morozova@example.com,2024-07-08,2024-12-06 00:00:00,
+610,Elena Morozova,Samara,B2B,241.26,42.0,elena.morozova@example.com,2024-08-08,2024-12-07 00:00:00,
+611,Maria Fedorova,Yekaterinburg,B2B,277.59,67.0,maria.fedorova@example.com,2024-08-28,2024-07-28 00:00:00,new lead
+612,Anna Smirnova,Samara,B2B,255.18,69.0,anna.smirnova@example.com,2024-10-09,2024-11-29 00:00:00,priority client
+613,Sergey Popov,UFA,  retail  ,300.26,63.0,sergey.popov@example.com,2024-11-01,2024-03-27 00:00:00,
+614,Ivan Petrov,Novosibirsk,  B2B  ,256.48,34.0,ivan.petrov@example.com,2024-11-05,2024-04-03 00:00:00,NEW LEAD
+615,Sergey Popov,Omsk,retail,,26.0,sergey.popov@example.com,2024-06-22,2024-03-02 00:00:00,
+615,Sergey Popov,Omsk,VIP,508.29,26.0,sergey.popov@example.com,2024-05-26,2024-03-03 00:00:00,
+616,Ivan Petrov,Krasnoyarsk,B2B,101.03,50.0,ivan.petrov@example.com,2024-03-11,2024-06-25 00:00:00,
+617,Dmitry Kozlov,Moscow,VIP,,41.0,,2024-04-12,2024-01-20 00:00:00,new lead
+618,Dmitry Kozlov,Ufa,VIP,408.44,60.0,dmitry.kozlov@example.com,2024-05-06,2024-11-01 00:00:00,new lead
+619,Ivan Petrov,Novosibirsk,retail,112.53,56.0,ivan.petrov@example.com,2024-12-17,2024-02-03 00:00:00,
+619,,Yekaterinburg,B2B,83.32,56.0,ivan.petrov@example.com,2024-01-15,2024-02-04 00:00:00,
+620,Maria Fedorova,Novosibirsk,B2B,349.36,46.0,maria.fedorovaexample.com,,2024-04-15 00:00:00,
+620,Maria Fedorova,Novosibirsk,retail,333.41,46.0,maria.fedorova@example.com,2024-01-24,2024-04-16 00:00:00,
+621,Dmitry Kozlov,Yekaterinburg,VIP,206.28,31.0,dmitry.kozlov@example.com,2024-05-12,2024-04-04 00:00:00,
+621,Dmitry Kozlov,Novosibirsk,,217.79,31.0,dmitry.kozlov@example.com,2024-10-02,2024-04-05 00:00:00,
+622,Maksim Novikov,Omsk,VIP,257.53,30.0,maksim.novikov@example.com,2024-09-07,2024-01-07 00:00:00,
+622,Maksim Novikov,Omsk,retail,217.42,30.0,maksim.novikov@example.com,2024-07-01,2024-01-08 00:00:00,
+623,Anna Smirnova,Ufa,B2B,377.72,,anna.smirnova@example.com,2024-04-28,2024-08-04 00:00:00,priority client
+623,Anna Smirnova,Moscow,retail,474.74,46.0,anna.smirnova@example.com,2024-03-16,2024-08-05 00:00:00,priority client
+624,Sergey Popov,Yekaterinburg,B2B,311.63,47.0,,2024-07-28,2024-08-01 00:00:00,priority client
+625,Maria Fedorova,Samara,VIP,313.94,,maria.fedorova@example.com,2024-12-24,2024-06-22 00:00:00,new lead
+626,Elena Morozova,mos0w,B2B,197.66,45.0,elena.morozova@example.com,2024-06-22,2024-01-22 00:00:00,
+627,Natalia Lebedeva,,VIP,332.52,49.0,natalia.lebedeva@example.com,2024-06-08,2024-08-25 00:00:00,
+627,,Rostov-on-Don,B2B,277.64,,natalia.lebedeva@example.com,2024-08-16,2024-08-26 00:00:00,
+628,Sergey Popov,,VIP,200.79,26.0,sergey.popov@example.com,2024-01-04,,
+629,Sergey Popov,Saint-Petersburg,B2B,263.57,30.0,sergey.popov@example.com,2024-03-06,2024-09-21 00:00:00,priority client
+630,Olga Sokolova,Saint-Petersburg,B2B,238.32,23.0,olga.sokolova@example.com,2024-01-18,2024-06-27 00:00:00,new lead
+630,Olga Sokolova,Saint-Petersburg,retail,258.41,23.0,olga.sokolova@example.com,2024-08-18,2024-06-28 00:00:00,new lead
+631,Sergey Popov,Novosibirsk,B2B,174.68,58.0,user_at_example.com,2024-04-12,2024-06-07 00:00:00,
+631,Sergey Popov,Novosibirsk,B2B,171.9,58.0,sergey.popov@example.com,2024-03-07,2024-06-08 00:00:00,
+632,Elena Morozova,,retail,329.05,26.0,elena.morozova@example.com,2024-09-29,2024-10-12 00:00:00,
+632,Elena Morozova,Kazan,B2B,335.26,26.0,elena.morozova@example.com,2024-02-15,2024-10-13 00:00:00,
+632,,Saint-Petersburg,B2B,297.84,26.0,elena.morozova@example.com,2024-02-17,2024-10-14 00:00:00,
+633,Dmitry Kozlov,Saint-Petersburg,retail,77.35,0,dmitry.kozlov@example.com,2024-07-19,2024-08-18 00:00:00,priority client
+633,Dmitry Kozlov,Saint-Petersburg,retail,85.47,53.0,dmitry.kozlov@example.com,2024-12-26,2024-08-19 00:00:00,priority client
+634,Pavel Ivanov,Ufa,VIP,244.25,48.0,pavel.ivanov@example.com,2024-11-07,2024-08-01 00:00:00,new lead
+635,Maksim Novikov,Samara,retail,277.96,39.0,maksim.novikov,2024-02-01,2024-07-18 00:00:00,priority client
+635,Maksim Novikov,Moscow,retail,-207.45,39.0,maksim.novikov@example.com,2024-02-08,2024-07-19 00:00:00,priority client
+636,anna smirnova,  Omsk  ,  retail  ,308.68,20.0,Anna.Smirnova@Example.Com,2099-12-31,2024-99-99 25:61:61,
+637,Maria Fedorova,Krasnoyarsk,B2B,96.0,58.0,maria.fedorova@example.com,2024-08-12,2024-08-14 00:00:00,
+637,maria fedorova,Moscow,b2b,105.72,58.0,maria.fedorova@example.com,2024-12-17,2024-08-15 00:00:00,
+637,Maria Fedorova,Krasnoyarsk,B2B,95.22,58.0,,2024-09-07,2024-08-16 00:00:00,
+638,SERGEY POPOV,  Saint-Petersburg  ,  VIP  ,168.94,34.0,SERGEY.POPOV@EXAMPLE.COM,2024-11-20,2024-09-02 00:00:00,
+638,Sergey Popov,Saint-Petersburg,VIP,171.43,34.0,sergey.popov@example.com,2024-12-29,2024-09-03 00:00:00,
+639,Olga Sokolova,Krasnoyarsk,retail,163.7,34.0,olga.sokolova@example.com,2024-09-30,2024-11-22 00:00:00,
+639,Olga Sokolova,Krasnoyarsk,VIP,134.54,34.0,olga.sokolova@example.com,2024-02-26,2024-11-23 00:00:00,
+640,Sergey Popov,Kazan,B2B,215.89,33.0,sergey.popov@example.com,2024-09-05,2024-05-12 00:00:00,
+640,Sergey Popov,Novosibirsk,B2B,-229.24,33.0,sergey.popov@example.com,2024-05-29,2024-05-13 00:00:00,
+641,Natalia Lebedeva,Novosibirsk,B2B,186.03,68.0,natalia.lebedeva@example.com,2024-04-28,,
+641,Natalia Lebedeva,Kazan,B2B,232.77,68.0,,2024-08-10,2024-02-02 00:00:00,
+642,Dmitry Kozlov,Rostov-on-Don,B2B,413.17,60.0,,2024-05-30,2024-09-06 00:00:00,
+642,Dmitry Kozlov,Rostov-on-Don,retail,274.38,60.0,dmitry.kozlov@example.com,2024-10-30,2024-09-07 00:00:00,priority client
+643,Dmitry Kozlov,Yekaterinburg,VIP,418.69,56.0,,,2024-01-14 00:00:00,
+644,Natalia Lebedeva,Yekaterinburg,B2B,389.17,54.0,natalia.lebedeva@example.com,2024-02-17,,
+644,Natalia Lebedeva,Krasnoyarsk,retail,417.57,54.0,natalia.lebedeva@example.com,not-a-date,2024-99-99 25:61:61,
+644,Natalia Lebedeva,Krasnoyarsk,retail,311.91,54.0,natalia.lebedeva@example.com,2024-10-03,2024-06-20 00:00:00,
+645,Dmitry Kozlov,Moscow,B2B,227.41,60.0,dmitry.kozlov@example.com,2024-08-09,2024-07-08 00:00:00,new lead
+645,Dmitry Kozlov,Moscow,VIP,228.1,60.0,dmitry.kozlov@example.com,2024-11-27,2024-07-09 00:00:00,new lead
+646,Sergey Popov,Omsk,B2B,154.56,63.0,sergey.popov@example.com,,2024-10-08 00:00:00,new lead
+647,Maria Fedorova,,B2B,161.77,44.0,maria.fedorova@example.com,2024-07-10,2024-06-28 00:00:00,new lead
+648,Maria Fedorova,,B2B,207.15,44.0,maria.fedorova@example.com,,2024-04-20 00:00:00,new lead
+649,pavel ivanov,SAMARA,b2b,149.99,55.0,"	pavel.ivanov@example.com
+",2024-07-10,2024-05-05 00:00:00,"	
+"
+650,Natalia Lebedeva,Krasnoyarsk,B2B,277.98,50.0,natalia.lebedeva@example.com,2024-02-05,2024-03-25 00:00:00,new lead
+651,Sergey Popov,Kazan,B2B,226.22,,sergey.popov@example.com,2024-04-08,2024-08-11 00:00:00,priority client
+652,"	Anna Smirnova
+",KRASNOYARSK,  retail  ,331.62,54.0,ANNA.SMIRNOVA@EXAMPLE.COM,2024-10-13,2024-12-16 00:00:00,
+652,Anna Smirnova,Krasnoyarsk,VIP,355.87,54.0,anna.smirnova@example.com,2024-12-16,2024-12-17 00:00:00,
+652,Anna Smirnova,Krasnoyarsk,retail,340.39,54.0,anna.smirnova@example.com,2024-04-01,2024-12-18 00:00:00,
+653,Maksim Novikov,Moscow,B2B,205.85,32.0,maksim.novikov@example.com,2024-09-25,2024-09-10 00:00:00,
+653,Maksim Novikov,Yekaterinburg,B2B,,32.0,maksim.novikov@example.com,2024-06-20,2024-09-11 00:00:00,new lead
+654,Dmitry Kozlov,st.petersburg,VIP,,55.0,dmitry.kozlov@example.com,2024-01-29,2024-02-26 00:00:00,priority client
+655,natalia lebedeva,novosibirsk,Vip,250630000.0,26.0,natalia.lebedeva@example.com,2024-03-19,2024-04-23 00:00:00,
+655,  Natalia Lebedeva  ,  Kazan  ,"	retail
+",306.34,26.0,natalia.lebedeva@example.com,2024-03-22,2024-04-24 00:00:00,"	
+"
+656,Dmitry Kozlov,Novosibirsk,B2B,377.8,24.0,dmitry.kozlov@example.com,2024-08-02,2024-11-05 00:00:00,
+656,Dmitry Kozlov,Samara,retail,406.86,24.0,dmitry.kozlov@example.com,2024-09-12,2024-11-06 00:00:00,
+657,"	Natalia Lebedeva
+","	Krasnoyarsk
+",vip,571.33,58.0,natalia.lebedeva@example.com,2024-09-13,2024-01-10 00:00:00,New Lead
+658,Sergey Popov,Ufa,VIP,414.87,25.0,sergey.popov@example.com,1900-01-01,,new lead
+658,Sergey Popov,Samara,VIP,454.8,25.0,sergey.popov@example.com,2024-02-18,2024-04-17 00:00:00,new lead
+659,Ivan Petrov,Omsk,VIP,225.55,59.0, ivan.petrov@example.com,2024-04-16,2024-03-29 00:00:00,
+659,Ivan Petrov,Omsk,VIP,218.0,59.0,ivan.petrov@example.com,2024-10-27,,
+660,Anna Smirnova,Omsk,retail,274.16,33.0,anna.smirnova@example.com,2024-02-11,2024-01-17 00:00:00,
+660,Anna Smirnova,Saint-Petersburg,VIP,,33.0,anna.smirnova@example.com,,2024-01-18 00:00:00,
+661,Maria Fedorova,Samara,B2B,99.15,29.0,maria.fedorova@example.com,2024-08-04,2024-08-16 00:00:00,
+661,Maria Fedorova,Samara,retail,130.46,29.0,maria.fedorova@example.com,2024-06-21,2024-08-17 00:00:00,new lead
+662,Ivan Petrov,,VIP,285.36,31.0,ivan.petrov@example.com,2024-07-04,2024-06-15 00:00:00,
+662,Ivan Petrov,Saint-Petersburg,VIP,282.03,31.0,ivan.petrov@example.con,2024-06-16,2024-06-16 00:00:00,
+663,Maksim Novikov,Ufa,VIP,296.88,22.0,maksim.novikov@example.com,2024-06-30,2024-12-25 00:00:00,
+664,Maria Fedorova,Yekaterinburg,B2B,165.31,36.0,maria.fedorova@example.com,2024-10-18,,new lead
+664,Maria Fedorova,Yekaterinburg,B2B,167.67,36.0,maria.fedorova@example.com,2024-06-22,2024-08-10 00:00:00,new lead
+665,Natalia Lebedeva,Krasnoyarsk,VIP,176680000.0,69.0,natalia.lebedeva@example.com,2024-11-26,2024-08-31 00:00:00,
+666,Pavel Ivanov,Omsk,B2B,483.34,44.0,pavel.ivanov@example.com,2024-05-27,2024-01-16 00:00:00,new lead
+666,Pavel Ivanov,  Omsk  ,RETAIL,441.42,44.0,PAVEL.IVANOV@EXAMPLE.COM,2024-05-17,2024-01-17 00:00:00,  new lead  
+667,Anna Smirnova,"	Kazan
+",  retail  ,195.33,57.0,   anna.smirnova@example.com  ,2024-10-24,2024-12-07 00:00:00,none
+667,Anna Smirnova,Kazan,,204.69,57.0,anna.smirnova@example.com,2024-01-27,2024-12-08 00:00:00,new lead
+668,Pavel Ivanov,Omsk,B2B,237470000.0,24.0,pavel.ivanov@example.com,2024-05-18,2024-11-07 00:00:00,
+669,Natalia Lebedeva,Rostov-on-Don,B2B,251.29,58.0,natalia.lebedeva@example.com,2024-09-19,2024-02-13 00:00:00,new lead
+670,Natalia Lebedeva,Saint-Petersburg,VIP,448.21,0,natalia.lebedeva@example.com,2024-09-24,2024-11-22 00:00:00,new lead
+670,Natalia Lebedeva,Rostov-On-Don,  B2B  ,422.75,21.0,natalia.lebedeva@example.com,,2024-11-23 00:00:00,  new lead  
+670,Natalia Lebedeva,Saint-Petersburg,,465.46,21.0,natalia.lebedeva@example.com,2024-03-16,2024-11-24 00:00:00,new lead
+671,Dmitry Kozlov,,retail,233.25,27.0,dmitry.kozlov@example.com,2024-03-04,2024-11-29 00:00:00,
+671,Dmitry Kozlov,Omsk,VIP,219.49,27.0,dmitry.kozlov@example.com,2024-04-13,2024-11-30 00:00:00,priority client
+671,Dmitry Kozlov,Saint-Petersburg,VIP,-224.28,27.0,dmitry.kozlov@example.com,2024-10-28,2024-12-01 00:00:00,priority client
+672,Pavel Ivanov,Novosibirsk,VIP,310.34,38.0,pavel.ivanov@example.com,,2024-11-05 00:00:00,
+673,Pavel Ivanov,Omsk,B2B,251.45,29.0,pavel.ivanov@example.com,2024-09-27,2024-11-19 00:00:00,
+673,Pavel Ivanov,Omsk,VIP,226.66,29.0,pavel.ivanov@example.com,not-a-date,2024-99-99 25:61:61,
+674,Natalia Lebedeva,Novosibirsk,retail,143.71,48.0,natalia.lebedeva@example.com,2024-12-01,,
+675,Sergey Popov,Krasnoyarsk,retail,209.85,54.0,sergey.popov@example.com,2024-05-10,2024-08-26 00:00:00,new lead
+675,Sergey Popov,Samara,retail,166.03,54.0,sergey.popov@example.com,2024-03-04,2024-08-27 00:00:00,new lead
+676,Natalia Lebedeva,Krasnoyarsk,B2B,60.66,19.0, natalia.lebedeva@example.com,2024-11-06,,
+676,natalia lebedeva,"	Krasnoyarsk
+",retail,58.72,19.0,  natalia.lebedeva@example.com  ,2024-05-07,2024-03-30 00:00:00,
+677,  Olga Sokolova  ,saint-petersburg,vip,174.52,20.0,OLGA.SOKOLOVA@EXAMPLE.COM,2024-08-20,2024-01-09 00:00:00,new lead
+678,Anna Smirnova,,B2B,487.96,55.0,anna.smirnovaexample.com,2024-12-18,2024-11-18 00:00:00,priority client
+678,Anna Smirnova,Omsk,retail,414.75,55.0,anna.smirnova@example.com,2024-12-07,2024-11-19 00:00:00,priority client
+679,,Rostov-on-Don,B2B,274.23,49.0,natalia.lebedeva@example.com,2024-06-21,,
+679,Natalia Lebedeva,Ufa,VIP,258.95,49.0,natalia.lebedeva@example.com,2024-05-21,2024-10-06 00:00:00,
+679,Natalia Lebedeva,Omsk,VIP,268.47,49.0,natalia.lebedeva@example.com,2024-03-05,2024-10-07 00:00:00,
+680,Sergey Popov,,VIP,60.62,35.0,sergey.popov@example.com,2024-05-01,2024-04-14 00:00:00,
+681,Anna Smirnova,Omsk,B2B,357.13,51.0,anna.smirnova@example.com,2024-11-12,2024-03-10 00:00:00,new lead
+682,Maria Fedorova,Novosibirsk,VIP,258.61,,maria.fedorova@example.com,2024-09-08,2024-08-11 00:00:00,priority client
+683,Dmitry Kozlov,saint petersburg,VIP,241.83,51.0,dmitry.kozlov@example.com,2024-03-13,2024-09-20 00:00:00,priority client
+683,Dmitry Kozlov,Krasnoyarsk,retail,290.66,51.0,dmitry.kozlov@example.com,2024-05-10,2024-09-21 00:00:00,priority client
+684,Elena Morozova,Saint-Petersburg,retail,133.69,,elena.morozova@example.com,2024-05-04,2024-12-02 00:00:00,new lead
+684,Elena Morozova,saint petersburg,B2B,143.26,18.0,elena.morozova@example.com,2024-08-21,2024-12-03 00:00:00,new lead
+684,Elena Morozova,Saint-Petersburg,retail,136.18,18.0,elena.morozova@example.com,2024-08-07,2024-12-04 00:00:00,new lead
+685,Pavel Ivanov,Omsk,retail,350.86,29.0,pavel.ivanov@example.com,2024-09-14,2024-07-11 00:00:00,
+686,Maksim Novikov,Krasnoyarsk,retail,194.47,38.0,maksim.novikov@example.com,2024-08-29,2024-08-13 00:00:00,
+687,Maria Fedorova,Novosibirsk,B2B,106.46,58.0,maria.fedorova@example.com,2024-11-02,2024-01-18 00:00:00,new lead
+688,Maksim Novikov,Novosibirsk,VIP,201.54,42.0,maksim.novikov@example.com,2024-02-24,2024-08-09 00:00:00,
+689,Pavel Ivanov,Rostov-on-Don,retail,333.58,43.0,pavel.ivanov@example.com,2099-12-31,2024-99-99 25:61:61,
+690,Pavel Ivanov,Omsk,,165.95,45.0,pavel.ivanovexample.com,2024-09-30,2024-06-27 00:00:00,
+691,Ivan Petrov,Omsk,B2B,263.45,150,ivan.petrov@example.com,2024-03-12,2024-05-17 00:00:00,new lead
+692,Pavel Ivanov,Yekaterinburg,VIP,306.89,47.0,pavel.ivanov@example.com,2024-02-11,2024-08-26 00:00:00,new lead
+692,Pavel Ivanov,Yekaterinburg,VIP,263.86,47.0,user_at_example.com,2024-06-20,2024-08-27 00:00:00,new lead
+693,Natalia Lebedeva,Samara,B2B,119.98,40.0,natalia.lebedeva@example.com,2024-08-15,2024-01-28 00:00:00,
+694,Sergey Popov,,,127.06,0,sergey.popov@example.com,2024-03-02,2024-01-14 00:00:00,priority client
+694,Sergey Popov,Rostov-on-Don,VIP,115.09,39.0,sergey.popov@example.com,2024-10-15,2024-01-15 00:00:00,priority client
+695,,Yekaterinburg,B2B,150.51,42.0,ivan.petrov@example.com,2024-05-10,2024-04-24 00:00:00,priority client
+695,Ivan Petrov,Yekaterinburg,retail,150.33,150,ivan.petrov@example.com,2024-10-28,2024-04-25 00:00:00,priority client
+696,Dmitry Kozlov,Yekaterinburg,B2B,210.2,23.0,dmitry.kozlov@example.com,2024-09-19,2024-09-14 00:00:00,priority client
+697,Pavel Ivanov,Rostov-on-Don,VIP,171.98,unknown,pavel.ivanov@example.com,2024-01-25,2024-06-17 00:00:00,
+698,Natalia Lebedeva,Saint-Petersburg,VIP,320.99,29.0,natalia.lebedeva@example.com,2024-03-10,2024-08-27 00:00:00,new lead
+698,Natalia Lebedeva,Ufa,retail,277.74,29.0,natalia.lebedeva@example.com,2099-12-31,2024-99-99 25:61:61,new lead
+699,Dmitry Kozlov,Ufa,VIP,254.53,28.0,dmitry.kozlov@example.com,2024-05-02,2024-04-08 00:00:00,
+699,Dmitry Kozlov,Ufa,retail,238800000.0,28.0,dmitry.kozlov@example.com,2024-11-08,2024-04-09 00:00:00,
+700,Natalia Lebedeva,Samara,retail,165.2,65.0,natalia.lebedeva@example.com,2024-06-07,,
+700,Natalia Lebedeva,Yekaterinburg,B2B,150.2,65.0,natalia.lebedeva@example.com,2099-12-31,,
+701,IVAN PETROV,Omsk,  retail  ,584.54,21.0,ivan.petrov@example.com,2024-09-15,2024-01-13 00:00:00,Priority Client
+701,Ivan Petrov,Rostov-on-Don,B2B,506.56,21.0,ivan.petrov@example.com,2024-11-19,2024-01-14 00:00:00,priority client
+702,Anna Smirnova,Yekaterinburg,retail,327.94,25.0,anna.smirnova@example.com,2024-12-25,2024-08-07 00:00:00,new lead
+702,Anna Smirnova,Yekaterinburg,VIP,254.75,25.0,anna.smirnova@example.com,2024-03-25,2024-08-08 00:00:00,new lead
+703,Maria Fedorova,Omsk,VIP,183.99,21.0,maria.fedorova@example.com,2024-06-08,2024-06-13 00:00:00,
+703,Maria Fedorova,Omsk,VIP,200.56,21.0,maria.fedorova@example.com,2024-11-04,2024-06-14 00:00:00,
+704,Sergey Popov,Novosibirsk,retail,356.52,56.0,sergey.popovexample.com,2024-12-29,2024-11-14 00:00:00,new lead
+705,,Yekaterinburg,VIP,322.36,65.0,olga.sokolova@example.com,2024-07-02,2024-09-22 00:00:00,priority client
+705,Olga Sokolova,Yekaterinburg,B2B,356.47,65.0,olga.sokolova@example.com,2024-06-29,2024-09-23 00:00:00,priority client
+706,Maksim Novikov,,VIP,136.5,39.0,,2024-07-04,2024-02-07 00:00:00,
+707,Pavel Ivanov,Omsk,B2B,200.17,67.0,pavel.ivanov@example.com,2024-05-11,2024-11-25 00:00:00,
+708,Dmitry Kozlov,Krasnoyarsk,VIP,222.99,32.0,dmitry.kozlov@example.com,1900-01-01,,
+708,Dmitry Kozlov,Krasnoyarsk,VIP,225.95,32.0,dmitry.kozlov@example.com,2024-05-12,2024-04-24 00:00:00,
+709,Anna Smirnova,Moscow,B2B,449.06,33.0,anna.smirnova@example.com,2024-06-06,2024-08-28 00:00:00,priority client
+709,Anna Smirnova,Kazan,B2B,432.17,33.0,anna.smirnova@example.com,2024-10-01,2024-08-29 00:00:00,priority client
+710,Pavel Ivanov,Novosibirsk,retail,216.14,150,pavel.ivanov@example.com,2024-02-18,2024-03-13 00:00:00,priority client
+711,Elena Morozova,Samara,B2B,108.51,46.0,elena.morozova@example.com,2024-02-28,2024-11-16 00:00:00,
+712,Pavel Ivanov,Krasnoyarsk,,489.93,51.0,pavel.ivanov@example.com,2024-03-17,2024-02-10 00:00:00,
+713,Sergey Popov,Saint-Petersburg,VIP,278.85,43.0,user_at_example.com,2024-07-14,2024-07-08 00:00:00,
+713,Sergey Popov,Samara,retail,297690000.0,43.0,sergey.popov@example.com,2024-02-13,2024-07-09 00:00:00,
+714,"	Sergey Popov
+",Kazan,  VIP  ,208.72,63.0,"	sergey.popov@example.com
+",2024-11-29,2024-01-30 00:00:00,Priority Client
+714,Sergey Popov,Omsk,B2B,194.51,63.0,sergey.popov@example.com,2024-01-09,2024-01-31 00:00:00,priority client
+715,Natalia Lebedeva,Omsk,retail,335.48,45.0,natalia.lebedeva@example.com,2024-05-21,2024-08-22 00:00:00,new lead
+716,Anna Smirnova,Rostov-on-Don,VIP,77.08,54.0,anna.smirnova@example.com,2024-11-01,2024-08-16 00:00:00,
+716,Anna Smirnova,Rostov-on-Don,VIP,75.53,54.0,anna.smirnova@example.com,2024-04-01,2024-08-17 00:00:00,
+717,Elena Morozova,Saint-Petersburg,B2B,136.23,53.0,elena.morozova@example.com,2024-06-09,2024-06-28 00:00:00,
+718,Olga Sokolova,Samara,B2B,227.41,32.0,olga.sokolova@example.com,2024-12-02,2024-09-17 00:00:00,
+718,Olga Sokolova,,retail,281.81,32.0,olga.sokolova@example.com,2024-03-23,2024-09-18 00:00:00,
+719,Dmitry Kozlov,Omsk,B2B,186.71,21.0,dmitry.kozlov@example.com,1900-01-01,,new lead
+719,Dmitry Kozlov,,VIP,184.11,21.0,,2024-04-04,2024-10-07 00:00:00,new lead
+720,Pavel Ivanov,Krasnoyarsk,B2B,132.06,40.0,pavel.ivanov@example.com,2024-01-02,2024-09-25 00:00:00,
+721,IVAN PETROV,"	Moscow
+","	VIP
+",,68.0,"	ivan.petrov@example.com
+",2024-08-26,2024-04-05 00:00:00,Priority Client
+722,Natalia Lebedeva,Moscow,retail,168.04,52.0,natalia.lebedeva@example.com,2024-03-08,2024-06-21 00:00:00,priority client
+723,Pavel Ivanov,Rostov-on-Don,retail,201.58,37.0,pavel.ivanov@example.com,2024-03-13,2024-10-09 00:00:00,
+723,Pavel Ivanov,Rostov-on-Don,B2B,218.37,37.0,pavel.ivanov@example.com,2024-01-15,2024-10-10 00:00:00,
+724,Olga Sokolova,Novosibirsk,B2B,255.68,28.0,olga.sokolova@example.com,2024-06-20,2024-01-05 00:00:00,
+725,Pavel Ivanov,Omsk,B2B,390.65,30.0, pavel.ivanov@example.com,2024-01-17,2024-05-10 00:00:00,priority client
+726,Anna Smirnova,Omsk,VIP,203.01,,anna.smirnovaexample.com,2024-04-10,,
+727,Pavel Ivanov,Moscow,VIP,305.31,42.0,pavel.ivanov@example.com,,,
+728,Dmitry Kozlov,Yekaterinburg,VIP,332.81,,dmitry.kozlov@example.com,2024-04-04,2024-08-31 00:00:00,new lead
+729,Anna Smirnova,Saint-Petersburg,retail,296.5,33.0,anna.smirnova@example.com,2024-03-28,2024-05-10 00:00:00,
+729,  Anna Smirnova  ,Saint-Petersburg,b2b,284.23,33.0,anna.smirnova@example.con,2024-02-20,2024-05-11 00:00:00,"	
+"
+730,Anna Smirnova,Novosibirsk,retail,215.1,37.0,anna.smirnova@example.com,31-02-2024,,priority client
+731,Maksim Novikov,,retail,217.38,24.0,maksim.novikov@example.com,2024-10-01,2024-08-13 00:00:00,new lead
+731,Maksim Novikov,,VIP,262.12,24.0,maksim.novikov@example.com,2024-11-23,2024-08-14 00:00:00,new lead
+732,,Saint-Petersburg,VIP,131.54,18.0,elena.morozova@example.com,2024-10-26,2024-05-08 00:00:00,
+732,Elena Morozova,Novosibirsk,B2B,141.99,18.0,elena.morozova@example.com,2024-05-05,2024-05-09 00:00:00,
+733,Anna Smirnova,Yekaterinburg,retail,274.34,42.0,anna.smirnova@example.com,,2024-04-02 00:00:00,new lead
+733,Anna Smirnova,Saint-Petersburg,retail,248.84,42.0,anna.smirnova@example.com,2024-09-09,2024-04-03 00:00:00,new lead
+734,Elena Morozova,,retail,512.61,69.0,elena.morozova@example.com,2024-02-28,2024-05-18 00:00:00,priority client
+735,Sergey Popov,Novosibirsk,retail,350.03,33.0,sergey.popov@example.com,,2024-07-01 00:00:00,
+736,Maksim Novikov,Krasnoyarsk,VIP,212.31,33.0,maksim.novikov@example.com,2024-11-06,2024-03-07 00:00:00,priority client
+736,Maksim Novikov,Novosibirsk,B2B,222.2,33.0,user_at_example.com,2024-05-03,,priority client
+736,Maksim Novikov,Krasnoyarsk,B2B,239.2,33.0,maksim.novikov@example.com,2024-04-09,2024-03-09 00:00:00,priority client
+737,Olga Sokolova,Novosibirsk,VIP,381.8,52.0,olga.sokolova@example.com,2024-01-23,2024-08-10 00:00:00,new lead
+738,Natalia Lebedeva,Yekaterinburg,retail,724.75,66.0,natalia.lebedeva@example.com,2024-10-16,2024-04-29 00:00:00,new lead
+739,Pavel Ivanov,Samara,B2B,139.32,56.0,pavel.ivanov@example.com,2024-02-06,2024-02-04 00:00:00,new lead
+740,Sergey Popov,Omsk,retail,185.16,48.0,sergey.popov@example.com,2024-09-01,2024-08-17 00:00:00,
+741,Dmitry Kozlov,Saint-Petersburg,retail,151.71,46.0,,2024-06-03,2024-04-01 00:00:00,
+741,Dmitry Kozlov,Ufa,VIP,156.71,46.0,dmitry.kozlov@example.com,2024-10-28,2024-04-02 00:00:00,
+742,Maria Fedorova,Krasnoyarsk,VIP,451.83,62.0,,2024-01-05,2024-11-04 00:00:00,
+743,Ivan Petrov,Ufa,VIP,242.06,37.0,ivan.petrov@example.com,2024-12-29,2024-06-08 00:00:00,priority client
+743,Ivan Petrov,Kazan,VIP,198.62,37.0,ivan.petrov@example.com,2024-11-21,2024-06-09 00:00:00,priority client
+744,Olga Sokolova,Samara,VIP,156.83,19.0,olga.sokolova@example.com,2024-11-19,2024-10-20 00:00:00,
+745,Ivan Petrov,Samara,retail,187.23,63.0,ivan.petrov,2024-06-15,2024-05-14 00:00:00,
+746,Olga Sokolova,Rostov-on-Don,VIP,166.9,65.0,olga.sokolova@example.com,2024-08-15,2024-04-19 00:00:00,
+746,Olga Sokolova,Saint-Petersburg,VIP,159.58,65.0,olga.sokolova@example.com,2024-11-21,2024-04-20 00:00:00,
+747,Ivan Petrov,Omsk,retail,361.59,43.0,ivan.petrov@example.com,2024-11-18,2024-11-08 00:00:00,new lead
+748,Sergey Popov,Krasnoyarsk,B2B,127.52,34.0,sergey.popov@example.com,2024-05-11,2024-08-16 00:00:00,new lead
+748,Sergey Popov,Ufa,VIP,133.27,34.0,sergey.popov@example.com,2024-06-13,2024-08-17 00:00:00,new lead
+749,Pavel Ivanov,,retail,228.32,25.0,pavel.ivanov@example.com,2024-07-29,2024-01-27 00:00:00,
+750,Maria Fedorova,Saint-Petersburg,B2B,444.9,49.0,maria.fedorova@example.com,2024-01-06,2024-02-21 00:00:00,
+750,Maria Fedorova,Saint-Petersburg,retail,392.38,49.0,maria.fedorova@example.com,2024-04-15,2024-02-22 00:00:00,
+751,Ivan Petrov,Moscow,VIP,,49.0,ivan.petrov@example.com,2024-02-01,2024-08-10 00:00:00,priority client
+752,Dmitry Kozlov,Samara,VIP,205.97,45.0,dmitry.kozlov,2024-06-24,2024-11-28 00:00:00,new lead
+753,Sergey Popov,Saint-Petersburg,VIP,507.82,40.0,sergey.popov@example.com,2024-04-07,2024-01-17 00:00:00,
+754,Maksim Novikov,Krasnoyarsk,B2B,136.03,48.0,maksim.novikov@example.com,2024-06-26,2024-06-22 00:00:00,priority client
+754,Maksim Novikov,Krasnoyarsk,retail,131.12,48.0,maksim.novikov@example.com,2024-10-26,2024-06-23 00:00:00,
+755,Anna Smirnova,Kazan,VIP,302.78,20.0,anna.smirnova@example.con,2024-05-09,2024-03-14 00:00:00,new lead
+756,Olga Sokolova,Novosibirsk,B2B,290.63,48.0,olga.sokolova@example.com,2024-07-03,2024-02-01 00:00:00,new lead
+756,Olga Sokolova,Novosibirsk,,,48.0,olga.sokolova@example.com,2024-03-29,2024-02-02 00:00:00,new lead
+757,MARIA FEDOROVA,Samara,vip,215.06,62.0,"	maria.fedorova@example.com
+",2024-07-04,2024-07-21 00:00:00,NONE
+757,Maria Fedorova,Saint-Petersburg,retail,180.22,62.0,maria.fedorova@example.com,,2024-07-22 00:00:00,
+758,Ivan Petrov,Yekaterinburg,B2B,212.3,32.0,ivan.petrov@example.com,2024-07-11,2024-10-05 00:00:00,
+759,Anna Smirnova,Rostov-on-Don,VIP,167.48,22.0,anna.smirnova@example.com,2024-02-08,2024-02-07 00:00:00,priority client
+760,Ivan Petrov,Kazan,VIP,100.06,19.0,ivan.petrov@example.com,2024-08-28,,
+761,Pavel Ivanov,,VIP,224.07,N/A,pavel.ivanov@example.com,2024-11-10,2024-08-23 00:00:00,
+761,Pavel Ivanov,Novosibirsk,retail,175.29,56.0,pavel.ivanov@example.com,2024-07-31,2024-08-24 00:00:00,
+762,Ivan Petrov,Novosibirsk,B2B,291.4,50.0,ivan.petrov@example.com,2024-05-07,2024-08-20 00:00:00,
+763,Maksim Novikov,Kazan,retail,629.27,69.0,maksim.novikov@example.com,2024-10-14,2024-08-07 00:00:00,priority client
+763,Maksim Novikov,,VIP,505.99,69.0,maksim.novikov@example.com,2024-01-30,2024-08-08 00:00:00,priority client
+764,,Kazan,VIP,207.37,35.0,elena.morozova@example.com,2024-05-02,2024-01-10 00:00:00,
+764,"	None
+",Saint-Petersburg,  VIP  ,158.2,35.0,Elena.Morozova@Example.Com,2024-03-21,2024-01-11 00:00:00,
+765,none,"	Kazan
+",vip,188.01,23.0,IVAN.PETROV@EXAMPLE.COM,2024-04-13,2024-05-09 00:00:00,Priority Client
+766,Anna Smirnova,Krasnoyarsk,VIP,498.74,44.0,anna.smirnova@example.com,2024-02-15,2024-06-08 00:00:00,priority client
+766,Anna Smirnova,Kazan,retail,603.11,44.0,anna.smirnova@example.com,1900-01-01,,priority client
+767,Natalia Lebedeva,Rostov-on-Don,VIP,172.03,43.0,natalia.lebedeva@example.com,2024-10-19,2024-02-04 00:00:00,priority client
+768,Elena Morozova,Moscow,VIP,72.85,40.0,elena.morozova@example.com,2024-08-15,2024-04-11 00:00:00,new lead
+769,Pavel Ivanov,Omsk,retail,75.49,61.0,pavel.ivanov@example.com,2024-01-06,,
+770,Dmitry Kozlov,Saint-Petersburg,VIP,205.48,61.0,dmitry.kozlov@example.com,2024-06-23,2024-01-27 00:00:00,priority client
+771,Anna Smirnova,Yekaterinburg,VIP,140.34,40.0,anna.smirnova@example.com,2024-08-08,2024-03-27 00:00:00,
+771,Anna Smirnova,Moscow,,133.13,40.0,anna.smirnova@example.com,2024-01-17,2024-03-28 00:00:00,new lead
+771,Anna Smirnova,Yekaterinburg,retail,131.42,40.0,anna.smirnova@example.com,2024-08-26,2024-03-29 00:00:00,new lead
+772,Olga Sokolova,Moscow,,348.88,35.0,olga.sokolova@example.com,2024-11-28,2024-07-07 00:00:00,priority client
+773,Elena Morozova,"	Samara
+",RETAIL,320.98,,"	elena.morozova@example.com
+",not-a-date,2024-99-99 25:61:61,new lead
+773,Elena Morozova,Novosibirsk,retail,294.73,32.0,elena.morozova@example.com,2024-08-23,2024-09-08 00:00:00,new lead
+774,Maksim Novikov,Samara,B2B,572.62,21.0,maksim.novikov@example.com,2024-10-09,2024-05-19 00:00:00,
+775,Olga Sokolova,Samara,B2B,137.07,58.0,olga.sokolova@example.com,2024-05-18,2024-12-18 00:00:00,new lead
+775,"	Olga Sokolova
+","	Kazan
+",retail,97.88,58.0,OLGA.SOKOLOVA@EXAMPLE.COM,2024-02-13,2024-12-19 00:00:00,NEW LEAD
+776,Maria Fedorova,Omsk,VIP,98.73,35.0,maria.fedorova@example.com,2024-07-29,2024-10-11 00:00:00,
+776,Maria Fedorova,Moscow,retail,102.72,35.0,maria.fedorova@example.com,2024-03-24,2024-10-12 00:00:00,
+776,Maria Fedorova,Omsk,retail,122.61,35.0,maria.fedorova@example.com,2024-07-15,2024-10-13 00:00:00,
+777,Maksim Novikov,Saint-Petersburg,B2B,413.12,60.0,maksim.novikov@example.com,2024-10-26,2024-09-14 00:00:00,
+777,Maksim Novikov,,B2B,385.47,,maksim.novikov@example.com,2024-08-16,2024-09-15 00:00:00,
+777,Maksim Novikov,,B2B,332.42,60.0,maksim.novikov@example.com,2024-12-19,2024-09-16 00:00:00,
+778,  Elena Morozova  ,Rostov-On-Don,  VIP  ,-222.29,47.0,ELENA.MOROZOVA@EXAMPLE.COM,2024-02-16,2024-12-06 00:00:00,    
+779,Ivan Petrov,Omsk,B2B,529.69,63.0,ivan.petrov@example.com,2024-05-22,2024-07-11 00:00:00,new lead
+779,Ivan Petrov,Omsk,VIP,726.37,63.0,ivan.petrov@example.com,2024-02-02,2024-07-12 00:00:00,new lead
+780,Dmitry Kozlov,Krasnoyarsk,B2B,141.91,64.0,dmitry.kozlov@example.com,2024-04-02,2024-01-20 00:00:00,
+781,Elena Morozova,Krasnoyarsk,retail,568.64,,elena.morozova@example.com,2024-10-27,2024-03-29 00:00:00,
+782,Maksim Novikov,Yekaterinburg,retail,56.44,68.0,maksim.novikov@example.com,2024-10-21,2024-12-23 00:00:00,new lead
+782,Maksim Novikov,Yekaterinburg,B2B,50.68,68.0,maksim.novikov@example.com,2024-05-03,2024-12-24 00:00:00,new lead
+783,"	Ivan Petrov
+",Omsk,"	VIP
+",221.29,49.0,IVAN.PETROV@EXAMPLE.COM,2024-03-17,2024-04-07 00:00:00,
+783,Ivan Petrov,Yekaterinburg,VIP,215.12,49.0,ivan.petrov@example.com,2024-03-06,2024-04-08 00:00:00,
+784,Ivan Petrov,Omsk,retail,162.63,23.0,ivan.petrov@example.com,2024-06-15,2024-02-01 00:00:00,priority client
+784,Ivan Petrov,Omsk,VIP,162.11,23.0,ivan.petrov@example.com,2024-03-25,2024-02-02 00:00:00,priority client
+785,  Sergey Popov  ,YEKATERINBURG,VIP,267.11,45.0,"	sergey.popov@example.com
+",2024-06-05,2024-12-26 00:00:00,  priority client  
+785,Sergey Popov,Kazan,retail,314.81,45.0,sergey.popov@example.com,2024-11-21,2024-12-27 00:00:00,priority client
+785,Sergey Popov,Samara,,288.86,45.0,sergey.popov@example.com,2024-02-21,2024-12-28 00:00:00,priority client
+786,Ivan Petrov,Novosibirsk,B2B,358.74,63.0,ivan.petrov@example.com,,2024-07-09 00:00:00,new lead
+787,Anna Smirnova,Ufa,retail,261.97,30.0,anna.smirnova@example.com,2024-06-17,2024-05-24 00:00:00,
+788,Sergey Popov,Saint-Petersburg,VIP,279.56,31.0,sergey.popov@example.com,2024-10-17,2024-05-23 00:00:00,
+788,Sergey Popov,Saint-Petersburg,VIP,297.14,31.0,sergey.popov@example.com,2024-03-02,2024-05-24 00:00:00,
+788,Sergey Popov,Omsk,retail,254.66,31.0,sergey.popov@example.com,2024-09-29,2024-05-25 00:00:00,
+789,Sergey Popov,Saint-Petersburg,VIP,175.22,19.0,sergey.popov@example.com,2024-06-23,2024-08-13 00:00:00,priority client
+789,sergey popov,  Moscow  ,B2B,154.69,19.0,  None  ,2024-11-01,2024-08-14 00:00:00,Priority Client
+790,Pavel Ivanov,,B2B,153.71,35.0,pavel.ivanov@example.com,2024-12-24,2024-08-22 00:00:00,
+791,Elena Morozova,Samara,,162.26,47.0,elena.morozova@example.com,2024-10-10,2024-07-12 00:00:00,
+791,Elena Morozova,Omsk,B2B,183.33,47.0,elena.morozova@example.com,2024-10-21,2024-07-13 00:00:00,
+792,NATALIA LEBEDEVA,KAZAN,  retail  ,469.87,47.0,NATALIA.LEBEDEVA@EXAMPLE.COM,2024-04-16,2024-03-20 00:00:00,    
+793,Olga Sokolova,Saint-Petersburg,retail,376.42,68.0,olga.sokolova@example.com,2024-08-30,2024-06-06 00:00:00,priority client
+793,Olga Sokolova,Saint-Petersburg,retail,415.47,68.0,olga.sokolova@example.com,2024-06-17,2024-06-07 00:00:00,priority client
+794,Natalia Lebedeva,Samara,B2B,342.92,53.0,natalia.lebedeva@example.com,2024-03-31,2024-09-17 00:00:00,priority client
+795,Anna Smirnova,Ufa,retail,198.89,57.0,anna.smirnova@example.com,2024-04-21,2024-09-22 00:00:00,priority client
+796,Natalia Lebedeva,Kazan,B2B,274.56,49.0,natalia.lebedeva@example.com,2024-05-17,2024-09-28 00:00:00,
+796,Natalia Lebedeva,Kazan,retail,299.01,49.0,natalia.lebedeva@example.com,2024-11-08,2024-09-29 00:00:00,
+797,Anna Smirnova,Kazan,VIP,310.08,21.0,anna.smirnova@example.com,not-a-date,,priority client
+797,Anna Smirnova,Novosibirsk,VIP,309.04,21.0,anna.smirnova@example.com,2024-03-06,2024-05-05 00:00:00,priority client
+798,Maria Fedorova,Moscow,B2B,,44.0,maria.fedorova@example.com,,2024-02-12 00:00:00,priority client
+799,pavel ivanov,"	Saint-Petersburg
+",Retail,268.04,68.0,"	pavel.ivanov@example.com
+",,2024-05-10 00:00:00,priority client
+800,Elena Morozova,Samara,retail,189.04,21.0,elena.morozova@example.com,2024-06-22,2024-07-11 00:00:00,priority client
+801,Dmitry Kozlov,Kazan,retail,196.26,32.0,dmitry.kozlov@example.com,2024-04-02,2024-11-18 00:00:00,
+801,Dmitry Kozlov,Samara,retail,260.73,32.0,,2024-09-14,2024-11-19 00:00:00,priority client
+801,Dmitry Kozlov,Kazan,B2B,226.75,32.0,dmitry.kozlov@example.com,2024-12-30,2024-11-20 00:00:00,priority client
+802,Maksim Novikov,Ufa,retail,210.3,38.0,maksim.novikov@example.com,2024-12-09,2024-10-14 00:00:00,
+802,Maksim Novikov,Ufa,B2B,231.99,38.0,maksim.novikov@example.com,2024-08-28,2024-10-15 00:00:00,
+803,Anna Smirnova,Moscow,retail,80.54,40.0,anna.smirnova@example.com,2024-07-10,,
+804,Olga Sokolova,,B2B,395.36,62.0,olga.sokolova@example.com,2024-12-26,2024-10-12 00:00:00,
+805,Elena Morozova,Saint-Petersburg,VIP,756.77,48.0,elena.morozova@example.com,2024-05-13,2024-12-14 00:00:00,
+806,Dmitry Kozlov,Saint-Petersburg,retail,192.41,42.0,dmitry.kozlov@example.com,2024-10-26,2024-09-01 00:00:00,new lead
+806,Dmitry Kozlov,"	None
+",retail,186.97,42.0,Dmitry.Kozlov@Example.Com,2024-01-03,2024-09-02 00:00:00,  new lead  
+807,Olga Sokolova,Saint-Petersburg,B2B,410.98,28.0,olga.sokolova@example.com,2024-09-01,2024-08-10 00:00:00,priority client
+808,Anna Smirnova,Moscow,retail,-344660000.0,45.0,anna.smirnova@example.com,2024-06-27,2024-11-18 00:00:00,
+808,Anna Smirnova,Novosibirsk,,368.77,45.0,anna.smirnova@example.com,,2024-11-19 00:00:00,
+809,Sergey Popov,Moscow,B2B,82.44,31.0,sergey.popov@example.com,2024-12-01,2024-08-03 00:00:00,
+809,Sergey Popov,Samara,VIP,106.61,31.0,sergey.popov,2024-03-25,2024-08-04 00:00:00,
+809,Sergey Popov,Samara,B2B,104.65,31.0,sergey.popov@example.com,2024-10-03,2024-08-05 00:00:00,
+810,Pavel Ivanov,Omsk,retail,185.45,25.0,pavel.ivanov@example.com,2024-11-29,,
+811,Dmitry Kozlov,Novosibirsk,retail,349.56,28.0,dmitry.kozlov@example.com,2024-10-29,2024-02-17 00:00:00,priority client
+812,Maria Fedorova,Krasnoyarsk,retail,108.25,50.0,maria.fedorova@example.com,2024-08-22,2024-05-25 00:00:00,
+812,Maria Fedorova,Krasnoyarsk,,100.48,50.0,maria.fedorova@example.com,2024-12-04,2024-05-26 00:00:00,
+813,Dmitry Kozlov,Ufa,B2B,278.11,42.0,dmitry.kozlov@example.com,2024-03-25,2024-05-24 00:00:00,
+813,,Rostov-on-Don,retail,295.59,42.0,dmitry.kozlov@example.com,2024-05-21,2024-05-25 00:00:00,
+814,ANNA SMIRNOVA,  Novosibirsk  ,  B2B  ,105.62,52.0,"	None
+",2024-01-18,2024-03-15 00:00:00,PRIORITY CLIENT
+814,Anna Smirnova,Kazan,B2B,115.28,52.0,anna.smirnova@example.com,2024-10-25,,priority client
+814,Anna Smirnova,Yekaterinburg,VIP,,52.0,anna.smirnova@example.com,2024-09-23,2024-03-17 00:00:00,priority client
+815,Maksim Novikov,Yekaterinburg,VIP,474.37,32.0,maksim.novikov@example.com,2024-05-22,2024-07-24 00:00:00,new lead
+815,Maksim Novikov,Yekaterinburg,retail,560.52,32.0,maksim.novikov@example.com,2024-01-12,2024-07-25 00:00:00,new lead
+816,Sergey Popov,Omsk,VIP,319.7,,sergey.popov@example.com,2024-09-22,2024-04-24 00:00:00,priority client
+816,,Rostov-on-Don,B2B,308.46,24.0,sergey.popov@example.com,2024-07-14,2024-04-25 00:00:00,priority client
+817,Maria Fedorova,Ufa,B2B,432.09,24.0,maria.fedorova@example.com,2024-05-20,2024-11-21 00:00:00,priority client
+817,  Maria Fedorova  ,Ufa,b2b,449.47,24.0,maria.fedorova@example.com,2024-05-01,2024-11-22 00:00:00,Priority Client
+817,  Maria Fedorova  ,  Ufa  ,  retail  ,471.75,,  maria.fedorova@example.com  ,2024-08-27,2024-11-23 00:00:00,priority client
+818,Ivan Petrov,Yekaterinburg,retail,153.87,40.0,ivan.petrov@example.com,2024-12-03,2024-11-27 00:00:00,
+819,Dmitry Kozlov,Moscow,,177.83,52.0,dmitry.kozlov@example.com,2024-01-29,2024-01-23 00:00:00,
+819,Dmitry Kozlov,Moscow,B2B,152.09,52.0,dmitry.kozlov@example.com,2024-07-17,2024-01-24 00:00:00,
+820,Elena Morozova,Novosibirsk,retail,328.6,36.0,elena.morozova@example.com,2024-10-10,2024-07-19 00:00:00,priority client
+821,,Yekaterinburg,VIP,124.84,24.0,olga.sokolova,2024-11-19,2024-09-26 00:00:00,
+822,Ivan Petrov,,B2B,215.95,62.0,ivan.petrov@example.com,2024-05-09,,
+822,IVAN PETROV,OMSK,  VIP  ,247.04,62.0,ivan.petrov@example.com,2024-04-02,2024-07-16 00:00:00,"	None
+"
+822,Ivan Petrov,Novosibirsk,retail,259.31,62.0,ivan.petrov@example.com,2024-11-26,2024-07-17 00:00:00,
+823,Olga Sokolova,Omsk,B2B,185.79,48.0, olga.sokolova@example.com,2024-05-16,2024-08-28 00:00:00,
+824,Maria Fedorova,Moscow,VIP,399.35,61.0,,2024-02-16,2024-03-13 00:00:00,new lead
+825,Elena Morozova,Krasnoyarsk,retail,246.34,32.0,elena.morozova@example.com,2024-12-30,2024-08-06 00:00:00,priority client
+825,Elena Morozova,Krasnoyarsk,retail,264.34,32.0,elena.morozova@example.com,2024-12-05,2024-08-07 00:00:00,priority client
+825,ELENA MOROZOVA,KRASNOYARSK,b2b,244.29,32.0,Elena.Morozova@Example.Com,2024-12-29,2024-08-08 00:00:00,"	priority client
+"
+826,,Rostov-on-Don,retail,,22.0,maksim.novikov@example.com,2024-09-24,2024-09-17 00:00:00,
+826,Maksim Novikov,Kazan,retail,422.48,22.0,maksim.novikov@example.com,2024-02-26,2024-09-18 00:00:00,
+827,Ivan Petrov,Yekaterinburg,retail,250.5,,ivan.petrov@example.com,2024-08-08,2024-02-07 00:00:00,priority client
+828,Ivan Petrov,Ufa,retail,620.19,36.0,ivan.petrov@example.com,2024-06-24,2024-07-17 00:00:00,new lead
+828,Ivan Petrov,Omsk,VIP,684.56,36.0,ivan.petrov@example.com,2024-07-28,2024-07-18 00:00:00,new lead
+829,Olga Sokolova,Novosibirsk,VIP,466.49,67.0,olga.sokolova@example.com,2024-12-26,2024-03-05 00:00:00,priority client
+829,Olga Sokolova,Novosibirsk,retail,488.54,67.0,olga.sokolova@example.com,2024-10-24,2024-03-06 00:00:00,priority client
+830,Elena Morozova,Moscow,retail,,,,2024-11-30,2024-04-05 00:00:00,new lead
+831,Maria Fedorova,Ufa,retail,192.42,61.0,maria.fedorova@example.com,2024-02-28,2024-06-20 00:00:00,
+831,Maria Fedorova,Novosibirsk,B2B,207.97,61.0,maria.fedorova@example.com,2024-01-06,2024-06-21 00:00:00,
+832,Anna Smirnova,Samara,VIP,168.19,64.0,anna.smirnova@example.com,2024-07-27,2024-07-02 00:00:00,
+832,Anna Smirnova,Omsk,VIP,198.31,64.0,anna.smirnova@example.com,2024-09-24,2024-07-03 00:00:00,
+833,Anna Smirnova,Omsk,retail,474.81,0,anna.smirnova@example.com,2024-07-17,2024-09-13 00:00:00,new lead
+833,Anna Smirnova,Omsk,retail,510.0,24.0,anna.smirnova@example.com,2024-10-11,2024-09-14 00:00:00,new lead
+834,Sergey Popov,Omsk,retail,376.76,44.0,sergey.popov@example.com,2024-01-14,2024-05-08 00:00:00,new lead
+835,Maksim Novikov,Yekaterinburg,VIP,192.67,42.0,maksim.novikov@example.com,2024-11-24,,new lead
+835,Maksim Novikov,Krasnoyarsk,retail,227.01,42.0,maksim.novikov@example.com,2024-03-03,2024-05-20 00:00:00,new lead
+836,Sergey Popov,Kazan,VIP,,23.0,sergey.popov@example.com,2024-04-07,2024-03-14 00:00:00,
+837,Dmitry Kozlov,Moscow,VIP,306.89,64.0,,2024-07-13,,priority client
+837,Dmitry Kozlov,Novosibirsk,,349.73,64.0,dmitry.kozlov@example.com,2024-04-25,2024-06-22 00:00:00,priority client
+837,Dmitry Kozlov,Novosibirsk,retail,326.83,64.0,dmitry.kozlov@example.com,2024-11-18,2024-06-23 00:00:00,priority client
+838,  Sergey Popov  ,novosibirsk,Vip,122.99,31.0,  sergey.popov@example.com  ,2024-11-29,2024-11-17 00:00:00,
+839,Elena Morozova,Krasnoyarsk,retail,209.31,66.0,elena.morozova@example.com,2024-08-19,2024-08-29 00:00:00,
+840,Maria Fedorova,Saint-Petersburg,B2B,225.65,29.0,maria.fedorova@example.com,1900-01-01,2024-99-99 25:61:61,priority client
+840,Maria Fedorova,Saint-Petersburg,,,29.0,,2024-09-17,2024-01-06 00:00:00,priority client
+840,Maria Fedorova,Omsk,VIP,225.19,29.0,maria.fedorova@example.com,2024-01-07,2024-01-07 00:00:00,priority client
+841,Anna Smirnova,Yekaterinburg,B2B,234.91,49.0,anna.smirnova@example.com,2024-08-13,2024-09-27 00:00:00,
+842,  Pavel Ivanov  ,omsk,B2B,156.86,29.0,pavel.ivanov@example.com,2024-11-20,2024-12-11 00:00:00,"	new lead
+"
+842,Pavel Ivanov,Saint-Petersburg,VIP,160.85,29.0,,2024-05-27,2024-12-12 00:00:00,new lead
+843,Ivan Petrov,Yekaterinburg,VIP,,49.0,ivan.petrov@example.com,2024-09-08,2024-12-25 00:00:00,
+843,,Kazan,retail,199.54,49.0,ivan.petrov@example.com,2024-10-11,2024-12-26 00:00:00,
+844,Elena Morozova,Kazan,VIP,217.92,63.0,elena.morozova@example.com,31-02-2024,,
+845,Ivan Petrov,Moscow,B2B,67.46,41.0,ivan.petrov@example.com,,2024-09-04 00:00:00,
+846,"	Sergey Popov
+",NOVOSIBIRSK,B2B,322.09,37.0,"	sergey.popov@example.com
+",2024-07-04,2024-06-29 00:00:00,
+846,Sergey Popov,Rostov-on-Don,B2B,254.7,37.0,sergey.popov@example.com,2024-05-11,2024-06-30 00:00:00,
+846,Sergey Popov,Novosibirsk,B2B,277.01,37.0,,2024-02-12,2024-07-01 00:00:00,
+847,Maksim Novikov,Rostov-on-Don,VIP,452.18,49.0,maksim.novikov@example.com,2024-09-10,2024-09-25 00:00:00,new lead
+847,Maksim Novikov,Samara,VIP,386.06,49.0,,2024-12-23,2024-09-26 00:00:00,new lead
+847,Maksim Novikov,Samara,VIP,497.82,49.0,maksim.novikov@example.com,,2024-09-27 00:00:00,new lead
+848,Olga Sokolova,Novosibirsk,retail,,69.0,olga.sokolova@example.com,2024-02-21,2024-03-03 00:00:00,
+848,olga sokolova,novosibirsk,retail,249.2,69.0,Olga.Sokolova@Example.Com,2024-11-26,2024-03-04 00:00:00,
+849,Dmitry Kozlov,,B2B,368.2,52.0,dmitry.kozlov@example.com,2024/13/01,2024-99-99 25:61:61,priority client
+849,Dmitry Kozlov,Moscow,retail,348.66,52.0,dmitry.kozlov@example.com,2024-07-05,2024-08-19 00:00:00,priority client
+850,Anna Smirnova,,B2B,130.23,28.0,anna.smirnova@example.com,,2024-07-08 00:00:00,
+851,Pavel Ivanov,st.petersburg,retail,232.22,54.0,pavel.ivanov@example.com,2024-06-30,2024-09-28 00:00:00,
+851,Pavel Ivanov,Saint-Petersburg,B2B,228.0,54.0,pavel.ivanov@example.com,2024-01-17,2024-09-29 00:00:00,
+852,Maria Fedorova,Moscow,B2B,152.01,19.0,maria.fedorova@example.com,2024-09-01,2024-04-25 00:00:00,priority client
+853,Pavel Ivanov,Krasnoyarsk,retail,302.54,61.0,pavel.ivanov@example.com,2024-01-12,2024-08-22 00:00:00,
+854,Ivan Petrov,Saint-Petersburg,retail,253.8,,ivan.petrov@example.com,2024-05-15,2024-06-07 00:00:00,
+855,Olga Sokolova,Samara,VIP,342.56,58.0,olga.sokolova@example.com,2024-10-01,2024-10-30 00:00:00,
+856,Maksim Novikov,Kazan,B2B,249.33,57.0,maksim.novikov@example.com,2024-12-12,2024-11-08 00:00:00,
+857,Olga Sokolova,Samara,VIP,176.04,38.0,olga.sokolova@example.com,2024-02-24,2024-06-08 00:00:00,
+858,Maksim Novikov,Rostov-on-Don,retail,299750000.0,35.0,maksim.novikov@example.com,2024-01-14,2024-02-03 00:00:00,priority client
+858,Maksim Novikov,Rostov-on-Don,B2B,321.42,35.0,maksim.novikov@example.com,2024-06-09,2024-02-04 00:00:00,priority client
+859,,Samara,B2B,254.68,18.0,ivan.petrov@example.com,2024-10-23,,
+860,Maria Fedorova,Saint-Petersburg,retail,169.23,20.0,maria.fedorova@example.com,2024-02-13,2024-08-01 00:00:00,
+860,Maria Fedorova,Rostov-on-Don,retail,155.97,20.0,maria.fedorova@example.com,2024-11-02,2024-08-02 00:00:00,
+861,Pavel Ivanov,Kazan,B2B,232.34,36.0,pavel.ivanov@example.com,2024-02-14,2024-09-22 00:00:00,
+861,Pavel Ivanov,Saint-Petersburg,B2B,-207.84,36.0,pavel.ivanov@example.com,2024-05-17,2024-09-23 00:00:00,
+862,Sergey Popov,Kazan,retail,137.04,41.0,sergey.popov@example.com,2024-11-14,2024-06-05 00:00:00,
+862,Sergey Popov,Rostov-on-Don,VIP,135.25,41.0,sergey.popov@example.com,2024-03-14,2024-06-06 00:00:00,
+863,MAKSIM NOVIKOV,omsk,  B2B  ,,33.0,  maksim.novikov@example.com  ,2024-09-05,2024-11-05 00:00:00,
+863,Maksim Novikov,Omsk,retail,177.73,33.0,maksim.novikov@example.com,2024-07-16,2024-11-06 00:00:00,
+863,"	Maksim Novikov
+",  Rostov-on-Don  ,"	retail
+",179.28,33.0,MAKSIM.NOVIKOV@EXAMPLE.COM,2024-02-27,2024-11-07 00:00:00,
+864,Ivan Petrov,Kazan,B2B,430.41,56.0,ivan.petrov@example.com,2024-11-17,2024-10-20 00:00:00,new lead
+865,Dmitry Kozlov,Krasnoyarsk,retail,401.26,36.0,dmitry.kozlov@example.com,2024-12-20,2024-12-10 00:00:00,priority client
+865,Dmitry Kozlov,Novosibirsk,VIP,363.84,36.0,dmitry.kozlov@example.com,2024-01-12,2024-12-11 00:00:00,priority client
+866,Anna Smirnova,Saint-Petersburg,B2B,207.46,36.0,anna.smirnova@example.com,2024-06-15,2024-09-05 00:00:00,
+866,Anna Smirnova,Saint-Petersburg,VIP,181.52,36.0,anna.smirnova@example.com,2024-06-06,2024-09-06 00:00:00,
+867,Sergey Popov,Krasnoyarsk,VIP,207.15,31.0,sergey.popov@example.com,2024-02-27,2024-03-08 00:00:00,
+868,,Samara,B2B,437.07,68.0,ivan.petrov@example.com,2024-04-03,2024-04-05 00:00:00,priority client
+868,Ivan Petrov,Ufa,VIP,413.87,68.0,ivan.petrov@example.com,2024-09-19,2024-04-06 00:00:00,priority client
+869,Natalia Lebedeva,Rostov-on-Don,B2B,168.03,24.0,,2024-04-14,2024-12-01 00:00:00,new lead
+870,Anna Smirnova,Samara,retail,203.93,65.0,anna.smirnova@example.com,2024-04-05,2024-01-15 00:00:00,priority client
+870,Anna Smirnova,Samara,VIP,157.77,65.0,anna.smirnova@example.com,2024-09-27,2024-01-16 00:00:00,priority client
+871,Maria Fedorova,Ufa,VIP,112.67,61.0,,2024-11-27,2024-01-07 00:00:00,
+872,Maria Fedorova,Rostov-on-Don,retail,217930000.0,27.0,maria.fedorova@example.com,2024-06-17,,
+873,Pavel Ivanov,Yekaterinburg,retail,,,pavel.ivanov@example.com,2024-06-15,2024-04-09 00:00:00,
+873,Pavel Ivanov,Yekaterinburg,retail,166.1,46.0,pavel.ivanov@example.com,2024-01-11,2024-04-10 00:00:00,
+873,,Yekaterinburg,B2B,145.25,46.0,pavel.ivanov@example.com,2024-04-07,2024-04-11 00:00:00,
+874,Anna Smirnova,Samara,VIP,-178.73,54.0,anna.smirnova@example.com,2024-10-13,2024-05-19 00:00:00,
+875,Pavel Ivanov,Krasnoyarsk,B2B,146.93,52.0,pavel.ivanov@example.com,2024-10-17,2024-08-15 00:00:00,new lead
+876,Elena Morozova,Saint-Petersburg,B2B,-406.99,67.0,elena.morozova@example.com,2024-02-28,2024-07-04 00:00:00,
+876,Elena Morozova,Saint-Petersburg,retail,448.23,67.0,elena.morozova@example.com,2024-05-12,2024-07-05 00:00:00,
+877,Maksim Novikov,Samara,B2B,419.7,60.0,maksim.novikov@example.com,2024-06-05,2024-04-23 00:00:00,
+877,Maksim Novikov,Samara,B2B,513.92,60.0,maksim.novikov@example.com,2024-12-09,2024-04-24 00:00:00,
+878,Maksim Novikov,Rostov-on-Don,VIP,227.02,47.0,maksim.novikov@example.com,2024-10-16,2024-09-09 00:00:00,
+879,Maria Fedorova,samara,  retail  ,183.11,33.0,Maria.Fedorova@Example.Com,2024-10-09,2024-03-19 00:00:00,    
+879,Maria Fedorova,,B2B,200.31,33.0,maria.fedorova@example.com,2024-03-24,2024-03-20 00:00:00,
+880,Pavel Ivanov,Krasnoyarsk,VIP,206.96,56.0,pavel.ivanov@example.com,2024-05-31,2024-01-05 00:00:00,
+880,Pavel Ivanov,Novosibirsk,VIP,206.16,56.0,pavel.ivanovexample.com,2024-09-10,2024-01-06 00:00:00,
+881,Anna Smirnova,spb,retail,444.74,49.0,,2024-06-01,2024-04-03 00:00:00,priority client
+881,Anna Smirnova,Saint-Petersburg,B2B,436.61,49.0,,2024-02-08,2024-04-04 00:00:00,priority client
+882,Maksim Novikov,Kazan,B2B,217.65,48.0,maksim.novikov@example.com,2024-02-01,2024-10-24 00:00:00,
+882,MAKSIM NOVIKOV,ROSTOV-ON-DON,  VIP  ,205.42,48.0,NONE,2024-06-28,2024-10-25 00:00:00,None
+883,Maria Fedorova,Rostov-on-Don,retail,616.04,45.0,,2024-05-23,2024-11-25 00:00:00,priority client
+883,Maria Fedorova,Rostov-on-Don,retail,619.17,,maria.fedorova@example.com,2024-06-11,2024-11-26 00:00:00,priority client
+884,Dmitry Kozlov,Samara,retail,138.55,61.0,dmitry.kozlov@example.com,2024-11-08,2024-06-23 00:00:00,new lead
+884,Dmitry Kozlov,Krasnoyarsk,,-119.31,61.0,dmitry.kozlov@example.com,2024-05-01,,new lead
+884,Dmitry Kozlov,Samara,VIP,-131.49,61.0,dmitry.kozlov@example.com,not-a-date,,new lead
+885,Sergey Popov,mos0w,B2B,241.82,67.0,sergey.popov@example.com,2024-01-10,2024-05-26 00:00:00,priority client
+885,Sergey Popov,Moscow,VIP,285.34,67.0,sergey.popov@example.com,2024-03-20,2024-05-27 00:00:00,priority client
+886,Olga Sokolova,Rostov-on-Don,B2B,322.39,60.0,olga.sokolova@example.com,2024-03-22,2024-05-11 00:00:00,
+886,Olga Sokolova,Moscow,B2B,296.95,60.0,olga.sokolova@example.com,2024-01-01,2024-05-12 00:00:00,
+887,Ivan Petrov,Omsk,B2B,413.52,23.0,ivan.petrov@example.com,2024-03-30,2024-06-09 00:00:00,priority client
+888,Dmitry Kozlov,Rostov-on-Don,VIP,121.8,18.0,dmitry.kozlov@example.com,2024-05-13,2024-09-09 00:00:00,new lead
+888,Dmitry Kozlov,Rostov-on-Don,,132.83,18.0,dmitry.kozlov@example.com,2024-09-13,2024-09-10 00:00:00,new lead
+888,Dmitry Kozlov,Rostov-on-Don,retail,126.47,,dmitry.kozlov@example.com,2024-11-12,2024-09-11 00:00:00,new lead
+889,Pavel Ivanov,Kazan,VIP,284.44,,pavel.ivanov@example.com,2024-03-17,2024-10-10 00:00:00,
+889,Pavel Ivanov,Kazan,B2B,289.01,39.0,pavel.ivanov@example.com,2024-06-29,2024-10-11 00:00:00,
+890,Elena Morozova,Kazan,B2B,126.37,53.0,elena.morozova@example.com,,2024-08-02 00:00:00,
+890,Elena Morozova,Kazan,VIP,138.09,N/A,elena.morozova@example.com,2024-07-29,2024-08-03 00:00:00,
+891,Anna Smirnova,Yekaterinburg,retail,401.4,37.0,,2024-02-16,2024-01-14 00:00:00,
+891,Anna Smirnova,Yekaterinburg,B2B,403.15,37.0,anna.smirnova@example.com,2024-01-11,,
+892,Natalia Lebedeva,Ufa,B2B,316.42,40.0,natalia.lebedeva@example.com,2024-10-21,,
+892,Natalia Lebedeva,"	Ufa
+",retail,358.16,40.0,Natalia.Lebedeva@Example.Com,2024-03-29,2024-01-05 00:00:00,    
+892,Natalia Lebedeva,Ufa,B2B,317.06,40.0,natalia.lebedeva@example.com,2024-10-09,2024-01-06 00:00:00,
+893,Maksim Novikov,Kazan,,144.47,,maksim.novikov@example.com,2024-09-26,2024-05-03 00:00:00,
+894,Maksim Novikov,Samara,VIP,325.01,21.0,maksim.novikov@example.com,2024-05-07,2024-07-12 00:00:00,
+894,Maksim Novikov,Samara,VIP,400.92,unknown,maksim.novikov@example.com,2024-06-14,2024-07-13 00:00:00,
+895,Ivan Petrov,Novosibirsk,retail,205.5,67.0,ivan.petrov@example.com,2024-08-07,2024-03-11 00:00:00,
+896,Ivan Petrov,Yekaterinburg,B2B,661.01,66.0,ivan.petrov@example.com,2024-12-08,2024-09-26 00:00:00,
+896,Ivan Petrov,Yekaterinburg,retail,551.25,66.0,ivan.petrov@example.com,2024-05-02,2024-09-27 00:00:00,
+896,Ivan Petrov,Omsk,retail,572.95,66.0,ivan.petrov@example.com,2024-09-21,2024-09-28 00:00:00,
+897,"	Olga Sokolova
+",Kazan,B2B,162.09,29.0,olga.sokolova@example.com,2024-06-09,2024-12-21 00:00:00,new lead
+898,NATALIA LEBEDEVA,saint-petersburg,"	VIP
+",180.16,21.0,"	natalia.lebedeva@example.com
+",2024-07-21,2024-04-20 00:00:00,None
+898,Natalia Lebedeva,,retail,237.51,21.0,natalia.lebedeva@example.com,2024-02-29,2024-04-21 00:00:00,priority client
+899,"	Elena Morozova
+",ROSTOV-ON-DON,  B2B  ,494.12,32.0,  elena.morozova@example.com  ,2024-12-24,2024-04-03 00:00:00,
+899,Elena Morozova,Rostov-on-Don,retail,491.2,32.0,elena.morozova@example.com,2024-03-16,2024-04-04 00:00:00,
+900,Natalia Lebedeva,Omsk,B2B,100.04,31.0,natalia.lebedeva@example.com,2024-03-19,,
+900,Natalia Lebedeva,Novosibirsk,B2B,102.67,31.0,natalia.lebedeva@example.com,2024-07-26,2024-08-19 00:00:00,
+901,Anna Smirnova,Kazan,retail,180.9,46.0,anna.smirnova@example.com,2024-11-24,2024-12-22 00:00:00,new lead
+901,Anna Smirnova,Kazan,B2B,172.09,46.0,anna.smirnova@example.com,2024-03-14,2024-12-23 00:00:00,new lead
+902,Ivan Petrov,Novosibirsk,retail,219.56,30.0,ivan.petrov@example.com,2024-07-15,2024-09-30 00:00:00,new lead
+902,Ivan Petrov,Yekaterinburg,VIP,206.84,30.0,ivan.petrov@example.com,2024-11-20,2024-10-01 00:00:00,
+903,Olga Sokolova,Yekaterinburg,B2B,223.98,44.0,olga.sokolova@example.com,,2024-08-15 00:00:00,priority client
+904,Sergey Popov,Moscow,B2B,238.14,59.0,sergey.popov@example.com,2024-09-21,2024-07-08 00:00:00,
+904,Sergey Popov,Novosibirsk,retail,251.86,59.0,sergey.popov@example.con,2024-08-16,2024-07-09 00:00:00,
+904,Sergey Popov,Ufa,VIP,259.49,59.0,sergey.popov@example.com,2024-09-13,2024-07-10 00:00:00,
+905,Pavel Ivanov,Krasnoyarsk,retail,264.48,48.0,pavel.ivanov@example.com,2024-09-15,2024-12-16 00:00:00,priority client
+906,Dmitry Kozlov,Krasnoyarsk,VIP,135.75,40.0,,2024-02-29,2024-11-06 00:00:00,new lead
+907,Dmitry Kozlov,Omsk,B2B,364.03,47.0,dmitry.kozlov@example.com,2024-03-15,2024-12-02 00:00:00,
+907,Dmitry Kozlov,Samara,B2B,383.08,47.0,dmitry.kozlov@example.com,2024-04-07,2024-12-03 00:00:00,
+908,  Olga Sokolova  ,Ufa,"	B2B
+",208.89,33.0,None,2099-12-31,2024-99-99 25:61:61,"	new lead
+"
+909,Maria Fedorova,Samara,retail,86.95,64.0,maria.fedorova@example.com,2024-12-15,2024-01-12 00:00:00,
+909,Maria Fedorova,Moscow,VIP,-80.01,64.0,maria.fedorova@example.com,2024-05-11,2024-01-13 00:00:00,
+910,Elena Morozova,Ufa,VIP,214.07,26.0,elena.morozova@example.com,2024-10-20,2024-02-20 00:00:00,
+911,Maria Fedorova,  Kazan  ,b2b,142.54,55.0,"	maria.fedorova@example.com
+",2024-01-17,2024-05-13 00:00:00,New Lead
+911,Maria Fedorova,,B2B,155.57,55.0,maria.fedorova@example.com,2024-01-31,2024-05-14 00:00:00,new lead
+912,Anna Smirnova,,B2B,312.05,62.0,anna.smirnova@example.com,2024-02-27,2024-05-21 00:00:00,priority client
+912,Anna Smirnova,Rostov-on-Don,B2B,290.9,62.0,anna.smirnova@example.com,2024-08-29,2024-05-22 00:00:00,priority client
+913,Elena Morozova,Kazan,VIP,431.17,,elena.morozova@example.com,2024-06-08,2024-08-04 00:00:00,
+914,Dmitry Kozlov,Yekaterinburg,retail,192.57,38.0,dmitry.kozlov@example.com,2024-09-25,2024-05-07 00:00:00,
+915,Maksim Novikov,Krasnoyarsk,B2B,135.58,30.0,maksim.novikov@example.com,2024-11-11,2024-05-31 00:00:00,
+916,Elena Morozova,Novosibirsk,retail,217.94,53.0,elena.morozova@example.com,,2024-03-20 00:00:00,
+916,,Novosibirsk,VIP,,53.0,elena.morozova@example.com,2024-06-18,2024-03-21 00:00:00,
+917,Natalia Lebedeva,,B2B,335.25,34.0,natalia.lebedeva@example.com,2024-04-22,2024-03-02 00:00:00,
+917,  Natalia Lebedeva  ,kazan,B2B,326.04,34.0,  natalia.lebedeva@example.com  ,2024-02-04,2024-03-03 00:00:00,
+918,Ivan Petrov,,retail,191.06,63.0,ivan.petrov@example.com,2024-06-26,2024-12-08 00:00:00,
+919,Elena Morozova,Ufa,VIP,,63.0,elena.morozova@example.com,2024-02-02,2024-03-10 00:00:00,priority client
+919,Elena Morozova,Yekaterinburg,B2B,166.73,63.0,,2024-08-21,2024-03-11 00:00:00,
+920,Elena Morozova,Ufa,retail,408.29,42.0,,2024-07-25,2024-03-18 00:00:00,
+921,Maksim Novikov,Saint-Petersburg,B2B,212.19,56.0,maksim.novikov@example.con,1900-01-01,,
+922,Natalia Lebedeva,Novosibirsk,B2B,382.59,45.0,natalia.lebedeva@example.com,2024-10-17,2024-08-22 00:00:00,new lead
+922,Natalia Lebedeva,Novosibirsk,VIP,337.16,45.0,natalia.lebedeva@example.com,2024-10-20,,new lead
+923,  None  ,"	Novosibirsk
+","	B2B
+",630.28,26.0,Maksim.Novikov@Example.Com,1900-01-01,2024-99-99 25:61:61,
+923,Maksim Novikov,Novosibirsk,VIP,635.88,26.0,maksim.novikov@example.com,2024-10-03,2024-02-14 00:00:00,
+924,Anna Smirnova,Yekaterinburg,retail,332.3,29.0,anna.smirnova@example.com,2024-11-01,2024-03-11 00:00:00,new lead
+924,,Kazan,B2B,296.06,29.0,anna.smirnova@example.com,2024-02-16,,new lead
+925,Elena Morozova,Omsk,VIP,127.29,47.0,elena.morozova@example.com,2024-07-25,2024-07-31 00:00:00,priority client
+926,None,"	Rostov-on-Don
+",B2B,,,dmitry.kozlovexample.com,2024-01-02,2024-01-23 00:00:00,None
+927,Ivan Petrov,Krasnoyarsk,VIP,254.92,46.0,,2024-09-04,2024-03-02 00:00:00,new lead
+927,,Krasnoyarsk,retail,227.71,46.0,ivan.petrov@example.com,2024-08-02,2024-03-03 00:00:00,new lead
+928,Natalia Lebedeva,Saint-Petersburg,VIP,361.87,25.0,,2024-08-20,2024-05-10 00:00:00,new lead
+928,Natalia Lebedeva,Yekaterinburg,B2B,450.19,25.0,,2024-08-27,2024-05-11 00:00:00,new lead
+929,Maksim Novikov,Kazan,,112.72,67.0,maksim.novikov@example.com,2024-08-26,2024-08-27 00:00:00,new lead
+930,Pavel Ivanov,Omsk,retail,114.57,68.0,pavel.ivanov@example.com,not-a-date,2024-99-99 25:61:61,new lead
+931,Sergey Popov,Krasnoyarsk,retail,207.0,18.0,,2024-05-25,2024-06-02 00:00:00,priority client
+931,sergey popov,"	Krasnoyarsk
+",B2B,211.07,18.0,"	sergey.popov@example.com
+",2024-10-18,2024-06-03 00:00:00,PRIORITY CLIENT
+932,Pavel Ivanov,,VIP,210.69,24.0,pavel.ivanov@example.com,2024-09-05,2024-08-14 00:00:00,priority client
+932,Pavel Ivanov,Novosibirsk,B2B,233.75,24.0,pavel.ivanov@example.com,2024-08-04,2024-08-15 00:00:00,priority client
+933,Elena Morozova,mos cow,retail,432.62,22.0,elena.morozova@example.com,2024-07-17,2024-11-21 00:00:00,priority client
+934,Natalia Lebedeva,Kazan,retail,103.89,52.0, natalia.lebedeva@example.com,2024-07-29,2024-08-26 00:00:00,
+934,Natalia Lebedeva,Kazan,,-97.81,52.0,natalia.lebedeva@example.com,2024-07-02,2024-08-27 00:00:00,
+935,Pavel Ivanov,Rostov-on-Don,retail,271.54,26.0,pavel.ivanov@example.com,2024-03-25,2024-05-21 00:00:00,priority client
+936,Maria Fedorova,Samara,,181.19,61.0,maria.fedorova@example.com,2024-10-28,2024-07-28 00:00:00,
+936,Maria Fedorova,Samara,B2B,169.29,61.0,maria.fedorova@example.com,2024-07-06,2024-07-29 00:00:00,
+937,"	Natalia Lebedeva
+",  Samara  ,Retail,161.93,66.0,natalia.lebedeva@example.com,2024-01-02,2024-05-27 00:00:00,    
+938,Maksim Novikov,,B2B,,64.0,maksim.novikov@example.com,2024-12-01,2024-01-03 00:00:00,priority client
+938,Maksim Novikov,Yekaterinburg,retail,146.77,64.0,maksim.novikov@example.com,2024-01-07,2024-01-04 00:00:00,priority client
+938,Maksim Novikov,Yekaterinburg,VIP,,64.0,maksim.novikov@example.com,2024-08-07,2024-01-05 00:00:00,priority client
+939,Elena Morozova,Ufa,retail,207.76,30.0,elena.morozova@example.com,2024-07-27,2024-12-16 00:00:00,priority client
+940,Ivan Petrov,Moscow,VIP,275.94,,ivan.petrov@example.com,2024-03-29,,priority client
+940,  Ivan Petrov  ,Moscow,Retail,264.14,38.0,"	ivan.petrov@example.com
+",2024-05-13,2024-08-14 00:00:00,Priority Client
+941,Olga Sokolova,Novosibirsk,B2B,172.46,49.0,olga.sokolova@example.com,2024-01-14,2024-06-04 00:00:00,new lead
+941,Olga Sokolova,Saint-Petersburg,B2B,220.68,0,olga.sokolova@example.com,2024-08-19,2024-06-05 00:00:00,new lead
+942,Sergey Popov,Ufa,B2B,393450000.0,29.0,sergey.popov@example.com,2024-04-14,2024-01-03 00:00:00,new lead
+943,Pavel Ivanov,Saint-Petersburg,B2B,150.45,34.0,,2024-09-26,2024-09-28 00:00:00,
+943,Pavel Ivanov,Saint-Petersburg,B2B,158.83,34.0,pavel.ivanov@example.com,2024-08-29,2024-09-29 00:00:00,
+944,Natalia Lebedeva,Ufa,VIP,137.89,42.0,natalia.lebedeva@example.com,2024-11-15,2024-11-28 00:00:00,priority client
+944,Natalia Lebedeva,Ufa,B2B,113.38,42.0,,2024-03-04,2024-11-29 00:00:00,priority client
+945,Sergey Popov,Novosibirsk,B2B,175.31,30.0,sergey.popov@example.com,2024-05-07,2024-10-16 00:00:00,
+946,Elena Morozova,Yekaterinburg,B2B,301.47,50.0,elena.morozova@example.com,2024-08-19,2024-01-09 00:00:00,new lead
+946,Elena Morozova,Yekaterinburg,retail,276.84,50.0,elena.morozova@example.com,2024-04-04,2024-01-10 00:00:00,new lead
+946,Elena Morozova,Yekaterinburg,retail,316.3,50.0,elena.morozova@example.com,2024-07-12,2024-01-11 00:00:00,new lead
+947,Olga Sokolova,Novosibirsk,VIP,,62.0,olga.sokolova@example.com,2024-07-31,2024-07-10 00:00:00,
+948,Ivan Petrov,Krasnoyarsk,retail,141.88,20.0,ivan.petrov@example.com,2024-08-28,2024-08-25 00:00:00,
+948,Ivan Petrov,Saint-Petersburg,,163.82,20.0,ivan.petrov@example.com,2024-06-04,2024-08-26 00:00:00,
+949,Elena Morozova,Kazan,VIP,422.47,19.0,elena.morozova@example.com,2024-04-05,2024-08-26 00:00:00,new lead
+950,  Maria Fedorova  ,MOSCOW,"	retail
+",88.47,50.0,"	maria.fedorova@example.com
+",2024-08-19,2024-12-14 00:00:00,"	
+"
+950,Maria Fedorova,Moscow,,104.86,50.0,maria.fedorova@example.com,2024-11-14,2024-12-15 00:00:00,
+951,Anna Smirnova,Moscow,VIP,411.26,55.0,anna.smirnova@example.com,2024-11-07,2024-01-18 00:00:00,
+951,Anna Smirnova,Moscow,retail,369.13,55.0,anna.smirnova@example.com,2024-04-20,2024-01-19 00:00:00,
+952,Sergey Popov,,retail,512.39,21.0,sergey.popov@example.com,2024-04-05,2024-08-24 00:00:00,priority client
+952,Sergey Popov,,VIP,463.57,,sergey.popov@example.com,2024-02-17,2024-08-25 00:00:00,priority client
+953,Dmitry Kozlov,Rostov-on-Don,retail,225.63,32.0,dmitry.kozlov@example.com,2024-02-17,2024-09-06 00:00:00,new lead
+954,Olga Sokolova,Samara,VIP,420.07,30.0,olga.sokolova@example.com,not-a-date,2024-99-99 25:61:61,priority client
+954,Olga Sokolova,Moscow,retail,430.3,30.0,olga.sokolova@example.com,2024-05-05,2024-02-14 00:00:00,priority client
+954,Olga Sokolova,Moscow,B2B,393.22,30.0,olga.sokolova@example.com,2024-05-18,2024-02-15 00:00:00,priority client
+955,Maksim Novikov,,VIP,178920000.0,32.0,maksim.novikov@example.com,2024-04-17,2024-09-08 00:00:00,priority client
+955,Maksim Novikov,Kazan,VIP,168.97,32.0,maksim.novikov@example.com,2024-08-05,2024-09-09 00:00:00,priority client
+956,Pavel Ivanov,Samara,VIP,225680000.0,29.0,pavel.ivanov@example.com,2024-10-10,2024-10-24 00:00:00,
+956,Pavel Ivanov,Samara,VIP,270.53,unknown,,2024-08-13,2024-10-25 00:00:00,new lead
+957,Maria Fedorova,Saint-Petersburg,retail,228.36,58.0,maria.fedorova@example.com,2024-02-02,2024-01-12 00:00:00,
+957,Maria Fedorova,Saint-Petersburg,B2B,189.09,58.0,maria.fedorova@example.com,2024-10-28,2024-01-13 00:00:00,
+958,Olga Sokolova,Kazan,VIP,,45.0,olga.sokolova@example.com,2024-02-11,2024-03-25 00:00:00,
+959,Olga Sokolova,Samara,B2B,396.38,25.0,olga.sokolova,2024-02-16,,priority client
+960,Pavel Ivanov,Rostov-on-Don,retail,199.33,38.0,pavel.ivanov@example.com,2024-09-18,2024-02-02 00:00:00,
+960,Pavel Ivanov,Moscow,VIP,246.75,38.0,pavel.ivanov@example.com,2024-08-01,2024-02-03 00:00:00,
+961,Natalia Lebedeva,Omsk,retail,74.12,20.0,natalia.lebedeva@example.com,2024-09-03,2024-10-01 00:00:00,
+962,Ivan Petrov,Moscow,retail,173.19,44.0,ivan.petrov@example.com,2024-01-08,2024-03-22 00:00:00,
+963,Anna Smirnova,Krasnoyarsk,B2B,286.76,45.0,anna.smirnova@example.com,,2024-05-02 00:00:00,
+964,Pavel Ivanov,,VIP,591.56,58.0,pavel.ivanov@example.com,2024-09-24,2024-07-26 00:00:00,
+965,Anna Smirnova,Saint-Petersburg,VIP,547.8,38.0,anna.smirnova@example.com,2024-10-20,2024-05-31 00:00:00,priority client
+966,Olga Sokolova,Rostov-on-Don,B2B,240.34,59.0,olga.sokolova@example.com,,2024-05-23 00:00:00,
+967,Natalia Lebedeva,Moscow,retail,210.83,28.0,natalia.lebedeva@example.com,2024-02-09,2024-06-02 00:00:00,new lead
+967,Natalia Lebedeva,Moscow,retail,209.01,28.0,natalia.lebedeva@example.com,2024-10-18,2024-06-03 00:00:00,new lead
+968,Dmitry Kozlov,,VIP,122.09,21.0,dmitry.kozlov@example.com,2024/13/01,2024-99-99 25:61:61,
+968,Dmitry Kozlov,Omsk,VIP,136.26,21.0,dmitry.kozlov@example.com,2024-04-18,2024-07-04 00:00:00,
+969,Sergey Popov,Saint-Petersburg,retail,502.77,48.0,sergey.popov@example.com,2024-01-31,2024-08-12 00:00:00,
+969,,Saint-Petersburg,retail,472.17,48.0,sergey.popov@example.com,2024-08-28,2024-08-13 00:00:00,
+970,Pavel Ivanov,Omsk,B2B,70.72,42.0,pavel.ivanov@example.com,2024-08-07,2024-08-01 00:00:00,priority client
+970,Pavel Ivanov,Krasnoyarsk,B2B,72.8,42.0,pavel.ivanov@example.com,2024-12-13,2024-08-02 00:00:00,priority client
+971,Anna Smirnova,Omsk,retail,239.58,32.0,anna.smirnova@example.com,2024-04-05,2024-10-14 00:00:00,
+972,Anna Smirnova,Samara,B2B,107.11,65.0,anna.smirnova@example.con,2024-05-08,2024-12-12 00:00:00,new lead
+972,Anna Smirnova,Samara,B2B,109.06,65.0,anna.smirnova@example.com,2024-04-24,2024-12-13 00:00:00,new lead
+973,Sergey Popov,Rostov-on-Don,B2B,37.01,69.0,sergey.popov@example.com,2024-11-15,2024-08-01 00:00:00,
+973,Sergey Popov,Novosibirsk,retail,35.56,69.0,sergey.popov@example.com,2024-09-21,2024-08-02 00:00:00,
+974,Pavel Ivanov,Moscow,,221.79,,pavel.ivanov@example.com,2024-07-25,2024-01-30 00:00:00,priority client
+974,Pavel Ivanov,Samara,VIP,205.1,67.0,pavel.ivanov@example.com,2024-08-24,2024-01-31 00:00:00,priority client
+975,Natalia Lebedeva,Krasnoyarsk,B2B,203.87,18.0,user_at_example.com,2024-10-22,2024-09-06 00:00:00,new lead
+975,Natalia Lebedeva,Novosibirsk,VIP,263.58,18.0,natalia.lebedeva@example.com,2024-04-09,2024-09-07 00:00:00,new lead
+976,Sergey Popov,Moscow,VIP,-169.53,38.0,sergey.popov@example.com,2024-01-05,2024-11-17 00:00:00,priority client
+977,Pavel Ivanov,Rostov-on-Don,retail,128.91,67.0,pavel.ivanov@example.com,2024-01-09,2024-08-05 00:00:00,priority client
+978,sergey popov,SAINT-PETERSBURG,B2B,313.11,21.0,sergey.popov@example.com,2024-03-01,2024-07-19 00:00:00,    
+979,"	Elena Morozova
+",Moscow,VIP,249.57,63.0,Elena.Morozova@Example.Com,1900-01-01,2024-99-99 25:61:61,
+980,Maksim Novikov,Krasnoyarsk,retail,203.91,26.0,maksim.novikov@example.com,2024-10-12,2024-07-01 00:00:00,
+980,,Omsk,VIP,227.36,,maksim.novikov@example.com,2024-02-25,2024-07-02 00:00:00,
+981,,Samara,VIP,729.65,28.0,maksim.novikov,2024-02-13,2024-07-10 00:00:00,priority client
+981,Maksim Novikov,Yekaterinburg,retail,657.99,28.0,maksim.novikov@example.com,2024-11-14,2024-07-11 00:00:00,priority client
+982,"	Natalia Lebedeva
+",omsk,  None  ,261.39,27.0,natalia.lebedeva@example.com,2024-11-28,2024-03-28 00:00:00,"	new lead
+"
+983,Sergey Popov,Novosibirsk,,233.96,39.0,sergey.popov@example.com,2024-09-29,,priority client
+984,Ivan Petrov,Moscow,retail,156.22,39.0,,2024-06-22,2024-09-29 00:00:00,
+985,Maksim Novikov,Rostov-on-Don,retail,202.03,,maksim.novikov@example.com,2024/13/01,,priority client
+986,Anna Smirnova,Rostov-on-Don,retail,193.3,68.0,anna.smirnova@example.com,2024-08-16,2024-12-16 00:00:00,new lead
+987,Elena Morozova,Ufa,retail,299.64,60.0,elena.morozova@example.com,2024-02-20,2024-02-20 00:00:00,new lead
+988,Maksim Novikov,Yekaterinburg,retail,327.29,24.0,maksim.novikov@example.com,2024-05-21,2024-09-21 00:00:00,
+988,Maksim Novikov,Samara,B2B,301.49,24.0,maksim.novikov@example.com,2024-06-12,2024-09-22 00:00:00,
+989,,Rostov-on-Don,B2B,,58.0,natalia.lebedeva@example.com,2024-01-01,2024-07-25 00:00:00,new lead
+990,Anna Smirnova,Rostov-on-Don,B2B,149950000.0,51.0,anna.smirnova@example.com,2024-03-02,2024-02-25 00:00:00,priority client
+990,ANNA SMIRNOVA,ROSTOV-ON-DON,  retail  ,172.27,51.0,  anna.smirnova@example.com  ,2024-10-07,2024-02-26 00:00:00,  priority client  
+991,Natalia Lebedeva,mos cow,B2B,444.97,45.0,natalia.lebedeva@example.com,2024-01-31,2024-01-29 00:00:00,
+992,Sergey Popov,Moscow,VIP,,19.0,sergey.popov@example.com,2024-12-10,2024-08-21 00:00:00,priority client
+993,Ivan Petrov,Krasnoyarsk,VIP,186.57,60.0,ivan.petrov@example.com,2024-02-28,2024-05-21 00:00:00,
+993,Ivan Petrov,Saint-Petersburg,VIP,297.9,60.0,ivan.petrov@example.com,2024-11-17,2024-05-22 00:00:00,
+993,Ivan Petrov,Saint-Petersburg,B2B,215.84,unknown,ivan.petrov@example.com,2024-04-17,2024-05-23 00:00:00,
+994,Maksim Novikov,Ufa,VIP,407.83,42.0,maksim.novikov@example.com,2024-08-29,2024-01-11 00:00:00,priority client
+995,Natalia Lebedeva,Omsk,retail,205.93,18.0,natalia.lebedeva@example.com,2024-11-05,2024-06-12 00:00:00,new lead
+995,Natalia Lebedeva,OMSK,  retail  ,180.1,18.0,  natalia.lebedeva@example.com  ,2024-09-06,2024-06-13 00:00:00,"	new lead
+"
+996,Natalia Lebedeva,,VIP,330.35,44.0,natalia.lebedeva@example.com,2024-12-28,2024-04-05 00:00:00,priority client
+996,Natalia Lebedeva,Omsk,VIP,276.1,44.0,natalia.lebedeva@example.com,2024-03-14,2024-04-06 00:00:00,priority client
+997,Natalia Lebedeva,Omsk,,283.78,45.0,natalia.lebedevaexample.com,2024-06-17,2024-11-30 00:00:00,new lead
+998,Anna Smirnova,Yekaterinburg,retail,276.14,38.0,anna.smirnova@example.com,2024-04-17,2024-05-11 00:00:00,
+998,Anna Smirnova,Saint-Petersburg,B2B,260.92,38.0,anna.smirnova@example.com,2024-01-17,2024-05-12 00:00:00,
+998,Anna Smirnova,Saint-Petersburg,VIP,328.92,38.0,anna.smirnova@example.com,2024-06-21,2024-05-13 00:00:00,
+999,Elena Morozova,Kazan,VIP,129.19,31.0,elena.morozova@example.com,2024-07-07,2024-12-01 00:00:00,
+1000,Maksim Novikov,Omsk,,253.73,58.0,maksim.novikov@example.com,2024-12-02,2024-10-31 00:00:00,priority client
+1000,,Moscow,retail,237.06,58.0,maksim.novikov@example.com,2024-11-08,2024-11-01 00:00:00,priority client
+1000,Maksim Novikov,Omsk,B2B,308.72,58.0,maksim.novikov@example.com,2024-04-30,2024-11-02 00:00:00,priority client
+660,Anna Smirnova,Omsk,retail,274.16,33.0,anna.smirnova@example.com,2024-02-11,2024-01-18 05:00:00,
+867,Sergey Popov,Krasnoyarsk,VIP,207.15,31.0,sergey.popov@example.com,2024-02-27,2024-03-08 00:00:00,
+369,Maria Fedorova,Novosibirsk,retail,95.37,48.0,maria.fedorova@example.com,2024-02-18,2024-06-23 00:00:00,
+368,Maksim Novikov,Samara,B2B,317.78,51.0,maksim.novikov@example.com,2024-09-22,2024-09-19 09:00:00,new lead
+917,Natalia Lebedeva,,B2B,335.25,34.0,natalia.lebedeva@example.com,2024-04-22,2024-03-02 00:00:00,
+6,Maksim Novikov,Samara,B2B,-299.4,59.0,maksim.novikov@example.com,2024-10-14,2024-10-17 19:00:00,
+782,Maksim Novikov,Yekaterinburg,B2B,50.68,68.0,maksim.novikov@example.com,2024-05-03,2024-12-24 20:00:00,new lead
+56,Elena Morozova,Saint-Petersburg,retail,,46.0,elena.morozova@example.com,2024-02-16,2024-11-19 00:00:00,new lead
+859,,Samara,B2B,254.68,18.0,ivan.petrov@example.com,2024-10-23,,
+434,Anna Smirnova,Ufa,B2B,-127.08,65.0,anna.smirnova@example.com,2024-06-02,2024-12-05 00:00:00,
+41,Elena Morozova,Moscow,retail,282.63,66.0,elena.morozova@example.com,2024-12-05,2024-10-17 00:00:00,
+723,Pavel Ivanov,Rostov-on-Don,B2B,218.37,37.0,pavel.ivanov@example.com,2024-01-15,2024-10-10 00:00:00,
+73,  Elena Morozova  ,KAZAN,"	retail
+",192.44,54.0,elena.morozova@example.com,2024-09-04,2024-06-13 00:00:00,new lead
+484,Maksim Novikov,Omsk,retail,271.63,64.0, maksim.novikov@example.com,2024-02-15,2024-01-07 06:00:00,
+656,Dmitry Kozlov,Novosibirsk,B2B,377.8,24.0,dmitry.kozlov@example.com,2024-08-02,2024-11-05 10:00:00,
+402,Ivan Petrov,Ufa,VIP,201.28,28.0,ivan.petrov@example.com,2024-09-10,2024-08-08 17:00:00,
+349,Pavel Ivanov,Saint-Petersburg,VIP,346.34,57.0,pavel.ivanov@example.com,2024-04-20,2024-12-09 00:00:00,
+477,Natalia Lebedeva,Kazan,VIP,118.81,59.0,natalia.lebedeva@example.com,2024-11-16,2024-03-18 00:00:00,
+950,Maria Fedorova,Moscow,,104.86,50.0,maria.fedorova@example.com,2024-11-14,2024-12-15 23:00:00,
+845,Ivan Petrov,Moscow,B2B,67.46,41.0,ivan.petrov@example.com,,2024-09-05 08:00:00,
+910,Elena Morozova,Ufa,VIP,214.07,26.0,elena.morozova@example.com,2024-10-20,2024-02-20 00:00:00,
+848,Olga Sokolova,Novosibirsk,retail,,69.0,olga.sokolova@example.com,2024-02-21,2024-03-03 00:00:00,
+736,Maksim Novikov,Novosibirsk,B2B,222.2,33.0,user_at_example.com,2024-05-03,,priority client
+60,Maksim Novikov,Samara,B2B,117.36,57.0,,2024-06-19,2024-12-04 04:00:00,priority client
+304,Natalia Lebedeva,Ufa,B2B,228.66,56.0,,2024-03-13,2024-04-19 00:00:00,new lead
+112,Pavel Ivanov,Krasnoyarsk,B2B,136910000.0,55.0,pavel.ivanov@example.com,2024-08-28,2024-04-20 00:00:00,priority client
+892,Natalia Lebedeva,"	Ufa
+",retail,358.16,40.0,Natalia.Lebedeva@Example.Com,2024-03-29,2024-01-06 17:00:00,    
+911,Maria Fedorova,  Kazan  ,b2b,142.54,55.0,"	maria.fedorova@example.com
+",2024-01-17,2024-05-13 17:00:00,New Lead
+408,Sergey Popov,Omsk,,290.87,39.0,sergey.popov@example.com,2024-03-28,2024-09-05 00:00:00,
+913,Elena Morozova,Kazan,VIP,431.17,,elena.morozova@example.com,2024-06-08,2024-08-05 15:00:00,
+414,Ivan Petrov,Kazan,retail,134.98,64.0,ivan.petrov@example.com,2024-03-01,2024-05-20 00:00:00,
+52,,Krasnoyarsk,B2B,255.21,30.0,pavel.ivanov@example.com,2024-04-19,2024-07-16 05:00:00,
+1,Anna Smirnova,Yekaterinburg,retail,142.47,40.0,anna.smirnova@example.com,2024-09-18,2024-02-02 00:00:00,
+714,"	Sergey Popov
+",Kazan,  VIP  ,208.72,63.0,"	sergey.popov@example.com
+",2024-11-29,2024-01-31 14:00:00,Priority Client
+517,Natalia Lebedeva,Yekaterinburg,,244.29,23.0,natalia.lebedeva@example.com,2024-07-28,,
+101,Ivan Petrov,Saint-Petersburg,VIP,128.0,39.0,ivan.petrov@example.com,2024-09-28,2024-12-10 00:00:00,
+771,Anna Smirnova,Yekaterinburg,VIP,140.34,40.0,anna.smirnova@example.com,2024-08-08,2024-03-27 00:00:00,
+608,,Novosibirsk,retail,260.0,30.0,sergey.popov@example.com,2024-07-28,,
+179,"	Maria Fedorova
+",kazan,  retail  ,198.05,20.0,Maria.Fedorova@Example.Com,2024-02-27,2024-09-30 06:00:00,priority client
+392,Olga Sokolova,Samara,retail,224.75,67.0,olga.sokolova@example.com,2024-10-18,2024-08-12 18:00:00,
+699,Dmitry Kozlov,Ufa,VIP,254.53,28.0,dmitry.kozlov@example.com,2024-05-02,2024-04-09 05:00:00,
+953,Dmitry Kozlov,Rostov-on-Don,retail,225.63,32.0,dmitry.kozlov@example.com,2024-02-17,2024-09-06 14:00:00,new lead
+127,Maksim Novikov,Krasnoyarsk,B2B,338.69,36.0,maksim.novikov@example.com,2024-09-17,2024-09-30 06:00:00,
+1000,,Moscow,retail,237.06,58.0,maksim.novikov@example.com,2024-11-08,2024-11-02 19:00:00,priority client
+748,Sergey Popov,Krasnoyarsk,B2B,127.52,34.0,sergey.popov@example.com,2024-05-11,2024-08-16 18:00:00,new lead
+927,Ivan Petrov,Krasnoyarsk,VIP,254.92,46.0,,2024-09-04,2024-03-02 00:00:00,new lead
+387,Maksim Novikov,Saint-Petersburg,,92.33,59.0,maksim.novikov@example.com,2024-04-23,2024-04-20 22:00:00,priority client
+63,Dmitry Kozlov,samara,"	VIP
+",65.34,18.0,dmitry.kozlov@example.com,2024-03-29,2024-04-08 00:00:00,    
+675,Sergey Popov,Krasnoyarsk,retail,209.85,54.0,sergey.popov@example.com,2024-05-10,2024-08-26 00:00:00,new lead
+572,Sergey Popov,Ufa,VIP,236.27,66.0,sergey.popov@example.com,2024-01-21,2024-08-30 00:00:00,
+896,Ivan Petrov,Yekaterinburg,B2B,661.01,66.0,ivan.petrov@example.com,2024-12-08,2024-09-26 00:00:00,
+652,"	Anna Smirnova
+",KRASNOYARSK,  retail  ,331.62,54.0,ANNA.SMIRNOVA@EXAMPLE.COM,2024-10-13,2024-12-16 00:00:00,
+888,Dmitry Kozlov,Rostov-on-Don,VIP,121.8,18.0,dmitry.kozlov@example.com,2024-05-13,2024-09-10 04:00:00,new lead
+185,Pavel Ivanov,Moscow,B2B,95.7,68.0,pavel.ivanov@example.com,not-a-date,2024-99-99 25:61:61,priority client
+658,Sergey Popov,Ufa,VIP,414.87,25.0,sergey.popov@example.com,1900-01-01,,new lead
+694,Sergey Popov,Rostov-on-Don,VIP,115.09,39.0,sergey.popov@example.com,2024-10-15,2024-01-15 21:00:00,priority client
+826,Maksim Novikov,Kazan,retail,422.48,22.0,maksim.novikov@example.com,2024-02-26,2024-09-19 20:00:00,
+142,Maksim Novikov,Moscow,VIP,147.31,33.0,maksim.novikov@example.com,2024-07-21,2024-05-08 10:00:00,new lead
+255,Anna Smirnova,Yekaterinburg,VIP,316.33,30.0,anna.smirnova@example.com,2024-06-08,2024-11-14 00:00:00,priority client
+481,"	Maksim Novikov
+","	Samara
+",Vip,325.69,,MAKSIM.NOVIKOV@EXAMPLE.COM,2024-10-26,2024-10-12 00:00:00,priority client
+705,Olga Sokolova,Yekaterinburg,B2B,356.47,65.0,olga.sokolova@example.com,2024-06-29,2024-09-23 21:00:00,priority client
+92,Olga Sokolova,Saint-Petersburg,B2B,233.83,20.0,olga.sokolova@example.com,2024-03-08,2024-02-29 13:00:00,new lead
+793,Olga Sokolova,Saint-Petersburg,retail,376.42,68.0,olga.sokolova@example.com,2024-08-30,2024-06-06 00:00:00,priority client
+141,"	Pavel Ivanov
+",rostov-on-don,  VIP  ,560.57,34.0,"	pavel.ivanov@example.com
+",,2024-05-30 00:00:00,"	new lead
+"
+639,Olga Sokolova,Krasnoyarsk,VIP,134.54,34.0,olga.sokolova@example.com,2024-02-26,2024-11-23 00:00:00,
+352,Pavel Ivanov,Saint-Petersburg,B2B,248.7,18.0, pavel.ivanov@example.com,2024-05-28,2024-08-06 00:00:00,priority client
+560,"	Maksim Novikov
+","	Samara
+",None,413.63,67.0,Maksim.Novikov@Example.Com,2024-12-01,2024-08-05 00:00:00,PRIORITY CLIENT
+622,Maksim Novikov,Omsk,VIP,257.53,30.0,maksim.novikov@example.com,2024-09-07,2024-01-07 03:00:00,
+681,Anna Smirnova,Omsk,B2B,357.13,51.0,anna.smirnova@example.com,2024-11-12,2024-03-10 00:00:00,new lead
+348,Sergey Popov,Kazan,retail,427.35,65.0,sergey.popov@example.com,2024-01-31,2024-01-19 00:00:00,
+520,Ivan Petrov,Samara,retail,194.61,32.0,user_at_example.com,2024-11-08,2024-06-03 04:00:00,
+143,Ivan Petrov,Saint-Petersburg,VIP,187.59,22.0,ivan.petrov@example.com,2024-07-13,2024-10-02 22:00:00,
+105,Sergey Popov,Ufa,VIP,211.41,38.0,sergey.popov@example.com,2024-06-07,2024-10-29 20:00:00,new lead
+988,Maksim Novikov,Yekaterinburg,retail,327.29,24.0,maksim.novikov@example.com,2024-05-21,2024-09-21 00:00:00,
+508,Dmitry Kozlov,Samara,B2B,177.32,,user_at_example.com,2024-10-23,2024-04-11 06:00:00,
+442,Dmitry Kozlov,Kazan,VIP,243.53,67.0,dmitry.kozlov@example.com,2024-01-22,2024-02-08 06:00:00,new lead
+993,Ivan Petrov,Krasnoyarsk,VIP,186.57,60.0,ivan.petrov@example.com,2024-02-28,2024-05-21 00:00:00,
+561,Olga Sokolova,Kazan,retail,562.69,59.0, olga.sokolova@example.com,2024-11-06,2024-06-06 19:00:00,priority client
