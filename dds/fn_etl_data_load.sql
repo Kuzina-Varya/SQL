@@ -29,8 +29,12 @@ BEGIN
     END as income,
 
     CASE
-      WHEN (NULLIF(trim(age), '') ~ '^\d+$') AND (NULLIF(trim(age), '')::int BETWEEN 14 AND 100)
-        THEN (NULLIF(trim(age), '')::int)
+      WHEN trim(age) ~ '^[0-9]+(\.[0-9]+)?$' THEN
+        CASE
+          WHEN (trim(age)::numeric BETWEEN 14 AND 100)
+            THEN floor(trim(age)::numeric)::int
+          ELSE NULL
+        END
       ELSE NULL
     END as age,
 
