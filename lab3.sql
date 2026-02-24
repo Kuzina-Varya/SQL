@@ -1,3 +1,4 @@
+--dds/lab3.sql
 -- Создаём схему, если не существует
 CREATE SCHEMA IF NOT EXISTS s_sql_dds;
 
